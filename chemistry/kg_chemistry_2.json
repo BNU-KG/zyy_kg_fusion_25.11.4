@@ -1,0 +1,1856 @@
+[
+  {
+    "KnowledgePointID": 135,
+    "KnowledgePoint": "化学使世界变得更加绚丽多彩",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=83ac07c6-300b-4801-835d-9118cb9cbc43&chapterId=520b03b8-3c03-321b-a939-7ad03b2970d6&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 136,
+    "KnowledgePoint": "物质的变化和性质",
+    "RelatedKnowledgePointID": 365,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f5c741db-0b0f-463d-b52c-e8c5b946675a&chapterId=b7dfad49-d9d8-3a40-bc4e-d1b6670cae92&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 137,
+    "KnowledgePoint": "化学是一门以实验为基础的科学",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=427dae04-7f16-417c-9582-cee52f2a511f&chapterId=3bd45f68-9e50-30a3-965f-448a209942b6&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 138,
+    "KnowledgePoint": "走进化学实验室",
+    "RelatedKnowledgePointID": 357,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4197cfeb-35e4-4617-b4e3-1dbf553a3293&chapterId=c2aac1e8-d89b-3e93-9183-93d3c076a916&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 139,
+    "KnowledgePoint": "化学是一门以实验为基础的科学 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=427dae04-7f16-417c-9582-cee52f2a511f&chapterId=3bd45f68-9e50-30a3-965f-448a209942b6&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 140,
+    "KnowledgePoint": "空气",
+    "RelatedKnowledgePointID": 418,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2de26412-dfdf-42f0-9e06-49c0f4cfae06&chapterId=8e4d5309-7154-3224-b8d7-f65f583a4572&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 141,
+    "KnowledgePoint": "氧气",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=cb61a856-867b-416f-9206-7d9f61338c68&chapterId=11490146-409e-33a5-a588-2a8d67f16eca&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 142,
+    "KnowledgePoint": "制取氧气",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e1c1ead8-b696-4df9-b16d-291564e2d750&chapterId=2274ae25-afd5-32da-b54b-bc14cabab1e6&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 143,
+    "KnowledgePoint": "我们周围的空气复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=11d3095d-ff91-46c5-b2f1-f316e1c029f3&chapterId=df710a4e-06c7-334a-8e69-f174ec32f223&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 144,
+    "KnowledgePoint": "空气 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2de26412-dfdf-42f0-9e06-49c0f4cfae06&chapterId=8e4d5309-7154-3224-b8d7-f65f583a4572&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 145,
+    "KnowledgePoint": "制取氧气 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e1c1ead8-b696-4df9-b16d-291564e2d750&chapterId=2274ae25-afd5-32da-b54b-bc14cabab1e6&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 146,
+    "KnowledgePoint": "制取氧气 第三课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e1c1ead8-b696-4df9-b16d-291564e2d750&chapterId=2274ae25-afd5-32da-b54b-bc14cabab1e6&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_3"
+  },
+  {
+    "KnowledgePointID": 147,
+    "KnowledgePoint": "我们周围的空气复习 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=11d3095d-ff91-46c5-b2f1-f316e1c029f3&chapterId=df710a4e-06c7-334a-8e69-f174ec32f223&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 148,
+    "KnowledgePoint": "分子和原子",
+    "RelatedKnowledgePointID": 427,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5f5ceb25-009a-40f7-8d45-76bd96ac1bab&chapterId=ffeb5e61-822e-3b02-aede-b4c1cf583981&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 149,
+    "KnowledgePoint": "原子的结构",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c0b2ed6b-5ef0-4b68-8c11-9f81b290151f&chapterId=83637ba3-2aa2-31bc-b0b3-f51c91fc848e&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 150,
+    "KnowledgePoint": "元素",
+    "RelatedKnowledgePointID": 426,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f3f4bdbf-b991-4077-b3ee-77a285b0909c&chapterId=98dc2143-282d-3117-a973-5db46f11b757&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 151,
+    "KnowledgePoint": "元素 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f3f4bdbf-b991-4077-b3ee-77a285b0909c&chapterId=98dc2143-282d-3117-a973-5db46f11b757&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 152,
+    "KnowledgePoint": "原子的结构 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c0b2ed6b-5ef0-4b68-8c11-9f81b290151f&chapterId=83637ba3-2aa2-31bc-b0b3-f51c91fc848e&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 153,
+    "KnowledgePoint": "爱护水资源",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=8af01df5-6332-4010-bcb5-0cebbe388e93&chapterId=339817e9-fb97-3db1-b842-379d00eb02a1&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 154,
+    "KnowledgePoint": "水的净化",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e0d2a293-993d-4fcd-a840-094710c4468b&chapterId=1338faf9-5712-31e9-85ff-9e542aa21bde&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 155,
+    "KnowledgePoint": "水的组成",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=de4b1582-957d-4221-a00d-2fe166128467&chapterId=312805ae-0760-3dfa-b24d-60968c959164&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 156,
+    "KnowledgePoint": "化学式与化合价",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=24c52666-612a-46f8-8087-66f9ee5de9b0&chapterId=3d517837-2269-335a-a039-22705d99300b&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 157,
+    "KnowledgePoint": "化学式与化合价 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=24c52666-612a-46f8-8087-66f9ee5de9b0&chapterId=3d517837-2269-335a-a039-22705d99300b&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 158,
+    "KnowledgePoint": "质量守恒定律",
+    "RelatedKnowledgePointID": 434,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c3fe25ee-ab89-4c50-b691-f64a9d7637f7&chapterId=05fc22c7-2a16-320f-a10f-80f2023fdf33&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 159,
+    "KnowledgePoint": "如何正确书写化学方程式",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0344db75-ec97-4e37-a248-0bba4afe013e&chapterId=336cdfce-9427-3565-bb5b-fc2fb12082a4&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 160,
+    "KnowledgePoint": "利用化学方程式的简单计算",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=fa94dc58-1621-449f-b04d-b274f77ab457&chapterId=48f005df-2aac-3445-9037-d219bc07ba5a&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 161,
+    "KnowledgePoint": "质量守恒定律 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c3fe25ee-ab89-4c50-b691-f64a9d7637f7&chapterId=05fc22c7-2a16-320f-a10f-80f2023fdf33&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 162,
+    "KnowledgePoint": "如何正确书写化学方程式 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0344db75-ec97-4e37-a248-0bba4afe013e&chapterId=336cdfce-9427-3565-bb5b-fc2fb12082a4&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 163,
+    "KnowledgePoint": "金刚石、石墨和C60",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=72e9bbfd-f457-4c90-bad4-d0414ad56e52&chapterId=4f42e674-4bcf-3ec1-a117-b16b4cabe218&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 164,
+    "KnowledgePoint": "二氧化碳制取的研究",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=455fed75-cd5b-4155-bf88-768d2e6a59c1&chapterId=daef5f4f-00be-3111-bcf6-7bc595349717&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 165,
+    "KnowledgePoint": "二氧化碳的实验室制取",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=95cf5cd8-8eea-4973-a7a1-687f359aa2d3&chapterId=3fccb36a-d84d-3640-9af1-7ce2376ccebd&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 166,
+    "KnowledgePoint": "二氧化碳制取的研究 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=455fed75-cd5b-4155-bf88-768d2e6a59c1&chapterId=daef5f4f-00be-3111-bcf6-7bc595349717&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 167,
+    "KnowledgePoint": "二氧化碳和一氧化碳 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=95cf5cd8-8eea-4973-a7a1-687f359aa2d3&chapterId=3fccb36a-d84d-3640-9af1-7ce2376ccebd&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 168,
+    "KnowledgePoint": "燃烧和灭火",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=66e3316a-7325-4728-80c2-0c7b3f2958b4&chapterId=153303ba-487e-32e1-ace3-6d439a0ba4d4&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 169,
+    "KnowledgePoint": "燃料的合理利用与开发",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b58b407a-2dce-483f-83c0-410894e508f6&chapterId=38960873-cd89-3245-8378-9a3cd6746d7f&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 170,
+    "KnowledgePoint": "燃烧和灭火 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=66e3316a-7325-4728-80c2-0c7b3f2958b4&chapterId=153303ba-487e-32e1-ace3-6d439a0ba4d4&teachingmaterialId=1304566d-68d0-43fa-ad50-7be785632038&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 171,
+    "KnowledgePoint": "溶液的形成",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=74922939-c1c4-4c00-b995-843d33f44701&chapterId=82f203c0-f5d1-3a34-86ea-5754459303f3&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 172,
+    "KnowledgePoint": "溶解度",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=65ad6ba6-da02-4ec2-9966-50d1f9e3c84e&chapterId=026b8b62-09e8-3a23-84ea-ab015dd35060&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 173,
+    "KnowledgePoint": "溶液的浓度",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=fec0640c-4c80-4788-a4df-eee6bf96fc24&chapterId=90a41b94-975a-3d69-a2d7-1f3cf402c031&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 174,
+    "KnowledgePoint": "溶液的形成 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=74922939-c1c4-4c00-b995-843d33f44701&chapterId=82f203c0-f5d1-3a34-86ea-5754459303f3&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 175,
+    "KnowledgePoint": "溶解度 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=65ad6ba6-da02-4ec2-9966-50d1f9e3c84e&chapterId=026b8b62-09e8-3a23-84ea-ab015dd35060&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 176,
+    "KnowledgePoint": "溶液的浓度 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=fec0640c-4c80-4788-a4df-eee6bf96fc24&chapterId=90a41b94-975a-3d69-a2d7-1f3cf402c031&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 177,
+    "KnowledgePoint": "常见的酸和碱",
+    "RelatedKnowledgePointID": 421,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=8f98c134-0fa4-4aad-bcae-9bf914014e78&chapterId=8f75e4f2-781e-3a27-810a-f6d6ef711aba&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 178,
+    "KnowledgePoint": "常见的酸和碱（碱的化学性质）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=9e4e1174-9582-49c3-ba9f-826a1e2b8e81&chapterId=f4b984b9-173c-3074-8242-d3c131e9f33b&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 179,
+    "KnowledgePoint": "常见的酸和碱（常见的碱）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=576eda16-734d-4590-b84e-8736dc226e88&chapterId=f4b984b9-173c-3074-8242-d3c131e9f33b&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 180,
+    "KnowledgePoint": "酸和碱的中和反应",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c41da91b-b541-4cc4-a349-0e508f83d2fc&chapterId=03d5f782-05b2-3715-b5da-af79f0685c7b&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 181,
+    "KnowledgePoint": "常见的酸和碱 第二课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=8f98c134-0fa4-4aad-bcae-9bf914014e78&chapterId=8f75e4f2-781e-3a27-810a-f6d6ef711aba&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 182,
+    "KnowledgePoint": "生活中常见的盐",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=11978d7d-124c-49d7-9c6f-cd594ce5d8e6&chapterId=048394b0-cdda-3157-84a8-01922b31fec4&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 183,
+    "KnowledgePoint": "物质的分类及转化",
+    "RelatedKnowledgePointID": 431,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3fde7a89-b363-4d32-9fa6-c844b203c082&chapterId=83a93d4d-7b81-36c3-aa74-87d88ae793de&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 184,
+    "KnowledgePoint": "离子反应",
+    "RelatedKnowledgePointID": 362,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=33769009-2c63-4e5b-babb-1ea787991642&chapterId=a1a52514-ae2f-34ec-b894-aceb4e6dc397&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 185,
+    "KnowledgePoint": "氧化还原反应",
+    "RelatedKnowledgePointID": 361,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ce843365-65b8-4fcd-9c8f-17ba78b2f782&chapterId=5c411051-8049-3017-aa07-5dd16a547d9f&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 186,
+    "KnowledgePoint": "物质及其变化复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=41df81b5-9e42-4d0f-a40f-fc51c4aa6794&chapterId=267f1ef6-881c-33aa-bbf1-a86a4a916cf5&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 187,
+    "KnowledgePoint": "钠及其化合物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2dac9636-0435-478d-8484-ab1543ae2adf&chapterId=145dad94-2bc2-30ec-b229-0f13a8a4ba5e&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 188,
+    "KnowledgePoint": "氯及其化合物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=270e8534-7c4f-4d56-9206-0cfa7ea3ca8a&chapterId=3a1798f1-e329-3121-bd95-7bf446397bf9&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 189,
+    "KnowledgePoint": "物质的量",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c8377ced-3a61-49fa-b991-ef3cdbb5a415&chapterId=c20d28e7-02c0-3989-96cb-6411b30c09f2&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 190,
+    "KnowledgePoint": "海水中的重要元素——钠和氯复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/qualityCourse?courseId=05fe3b33-efac-773d-d00f-1529247cf0f8&chapterId=5c2549f5-0513-3cf7-ad17-18b1a5173984&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 191,
+    "KnowledgePoint": "铁及其化合物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=861a6d71-aa5f-4fcf-91fa-a91f10da2e9a&chapterId=4f23260c-1827-32e1-9fbf-7415b9c31daf&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 192,
+    "KnowledgePoint": "金属材料",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=559a770d-3588-42f8-ac93-c2a4eff866b3&chapterId=045525f0-c5b0-3b65-93cd-56634318edfe&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 193,
+    "KnowledgePoint": "铁 金属材料复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f367a773-7f34-4875-960e-e48cdeb67074&chapterId=4bc69500-6470-39b6-8ffd-38a735751dbf&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 194,
+    "KnowledgePoint": "原子结构与元素周期表",
+    "RelatedKnowledgePointID": 366,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d006d2b1-6698-49fa-a80d-e29857c2f1ec&chapterId=cbb4775f-9bfd-3a51-b0d4-14f94c1cce40&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 195,
+    "KnowledgePoint": "元素周期律",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4bd0d887-9892-42d4-83d1-e2812778cbe6&chapterId=6003ac34-eebe-3324-9127-e29b3ff7239b&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 196,
+    "KnowledgePoint": "化学键",
+    "RelatedKnowledgePointID": 367,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d0b8d0ae-a9fd-48b0-bd30-e32321940146&chapterId=de943b2a-b728-3a23-9741-e500d41567a8&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 197,
+    "KnowledgePoint": "物质结构 元素周期律复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=cfc6bf5f-bef4-40ce-a4f2-9ecef43514d0&chapterId=04fe2a4b-27d2-3390-af1c-4aa81128117a&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 198,
+    "KnowledgePoint": "非金属及其化合物性质",
+    "RelatedKnowledgePointID": 364,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b263dc65-e7b5-4ea3-8ee5-9d56466b2863&chapterId=04fe2a4b-27d2-3390-af1c-4aa81128117a&teachingmaterialId=76625bf4-a8aa-42de-a626-5c2051e6c774&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 199,
+    "KnowledgePoint": "二氧化硫",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=202efb58-a84a-437a-819f-22226fdcabbb&chapterId=9798ebdb-9f81-3667-bc9d-a3b16d341077&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 200,
+    "KnowledgePoint": "（合格考水平）二氧化硫",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=db936b4d-e2af-4afb-a005-fc42e6a32a3c&chapterId=9798ebdb-9f81-3667-bc9d-a3b16d341077&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 201,
+    "KnowledgePoint": "硫酸，硫酸根离子检验",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=25198186-89ea-4490-97d2-ce5ac320540d&chapterId=f926b193-59f1-36c2-93a8-737b39842126&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 202,
+    "KnowledgePoint": "（合格考水平）硫酸及硫酸根离子检验",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f021ff04-504c-4d74-966a-e4d0951cd963&chapterId=f926b193-59f1-36c2-93a8-737b39842126&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 203,
+    "KnowledgePoint": "不同价态含硫物质的转化",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3a8d00bf-4d1a-434a-8bbf-286fe8c8612f&chapterId=b2ea859b-688e-3be1-8f8c-dd14e9ef845a&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 204,
+    "KnowledgePoint": "科学认识消毒剂等化学物质",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b8dced33-c56a-4478-adfe-56f5fbf7fcc7&chapterId=e74f373d-6aeb-351a-af3f-1d712bb36830&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 205,
+    "KnowledgePoint": "《硫及其化合物》习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=cee60745-855a-42bf-9541-a405a57d70f5&chapterId=e74f373d-6aeb-351a-af3f-1d712bb36830&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 206,
+    "KnowledgePoint": "（合格考水平）《硫及其化合物》习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=72505689-5cc5-47ef-860d-c95a2b4c90a0&chapterId=e74f373d-6aeb-351a-af3f-1d712bb36830&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 207,
+    "KnowledgePoint": "氮及其化合物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=bf654318-14ec-468d-aef1-65c192dfe6a2&chapterId=b2762d06-999a-3af7-98d4-4d202c0d4495&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 208,
+    "KnowledgePoint": "（合格考水平）氮气和氮的氧化物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c7cd6ac5-86ce-42ae-8b1e-fca0d1913245&chapterId=b2762d06-999a-3af7-98d4-4d202c0d4495&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 209,
+    "KnowledgePoint": "氨和铵盐",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3c55bb22-a236-49e5-8dbd-c4fbfe7eff56&chapterId=62c7eb43-631d-35bb-86ea-61c00b4175e4&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 210,
+    "KnowledgePoint": "硝酸",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=05203661-2ad8-40b5-b5dd-92ba45b57e90&chapterId=990ba287-9401-3313-b8b9-66a1dd298bda&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 211,
+    "KnowledgePoint": "（合格考水平）氨气和硝酸",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7089757e-8fbe-41b4-a588-a532ba5930c0&chapterId=990ba287-9401-3313-b8b9-66a1dd298bda&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 212,
+    "KnowledgePoint": "《氮及其化合物》习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=cb1a4d50-9695-4c95-8a6e-999d9a14c195&chapterId=e673ea06-d12d-34bb-9da7-d3ec49c4ada6&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 213,
+    "KnowledgePoint": "（合格考水平）《氮及其化合物》习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7027f414-d7b2-4f7e-bfb2-2c8b2a564380&chapterId=e673ea06-d12d-34bb-9da7-d3ec49c4ada6&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 214,
+    "KnowledgePoint": "硅及其化合物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3bf6f32a-e3e4-4f52-81bc-f03bb4e59d1e&chapterId=dc3bff1d-c64b-3c18-8fc3-f1da8df751fc&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 215,
+    "KnowledgePoint": "无机非金属材料",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=1ceb2aa1-169d-442f-a846-5d183cea055d&chapterId=dc3bff1d-c64b-3c18-8fc3-f1da8df751fc&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 216,
+    "KnowledgePoint": "第五章单元复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=313db314-4c7c-4b0a-aff3-106f1e20fef0&chapterId=45bc4b03-839d-31e2-b983-a914ed1e660b&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 217,
+    "KnowledgePoint": "第五章习题精讲",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=9c6ae211-805d-4bec-a33b-779fc7c597ed&chapterId=45bc4b03-839d-31e2-b983-a914ed1e660b&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 218,
+    "KnowledgePoint": "化学反应与热能",
+    "RelatedKnowledgePointID": 379,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ed38db73-cf11-4f70-b98b-3e0c659de6d3&chapterId=66329ef3-ed5a-312d-8906-d222111e7602&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 219,
+    "KnowledgePoint": "化学反应与电能",
+    "RelatedKnowledgePointID": 380,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=224593ef-d2ec-4e3c-ab57-8aa246ec8a92&chapterId=c282f6fb-7d22-3874-aa6d-d8180ae8ba22&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 220,
+    "KnowledgePoint": "化学电源",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=95125f77-085d-4f2b-8da2-dc0b06019eb7&chapterId=3ea07ba3-956c-38c1-b49d-62af3c488510&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 221,
+    "KnowledgePoint": "《化学反应与能量变化》习题精讲",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6ccbc6a0-5bf0-44e8-873d-efcd10856633&chapterId=717c6962-df25-3445-a903-030e485d470e&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 222,
+    "KnowledgePoint": "化学反应速率",
+    "RelatedKnowledgePointID": 382,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=70aa13ca-e31e-4deb-9843-70a7e48c04e3&chapterId=0a3e9174-1846-3883-b786-b54f1760e441&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 223,
+    "KnowledgePoint": "探究影响化学反应速率的因素",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=da0c8c26-415a-446b-890c-08d69475f7dd&chapterId=c7eb0da8-4d9a-3bed-a1a2-07d12ac20312&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 224,
+    "KnowledgePoint": "化学反应的限度及条件控制",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3bc68de0-68c6-416c-9b1c-8cbadad1c13e&chapterId=a2720677-8e8c-3943-bf59-7889df1cb2a2&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 225,
+    "KnowledgePoint": "《化学反应与能量变化》习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=454afb63-d9dc-4d49-8bb6-b263e5d9e6ee&chapterId=5f3b37e7-169c-37cd-a975-b10a230ee190&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 226,
+    "KnowledgePoint": "有机化合物中碳原子的成键特点",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b26da0d4-2c7e-44de-8580-e80c1e29467b&chapterId=dfecf17e-50d3-3be0-a746-3319b65e2fea&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 227,
+    "KnowledgePoint": "烷烃的结构",
+    "RelatedKnowledgePointID": 370,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=73c005f5-c04c-40b0-81fd-d694053c2771&chapterId=dfecf17e-50d3-3be0-a746-3319b65e2fea&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 228,
+    "KnowledgePoint": "烷烃的性质",
+    "RelatedKnowledgePointID": 402,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0c563598-8493-4f9d-9cb0-5a787f6b0c6e&chapterId=dfecf17e-50d3-3be0-a746-3319b65e2fea&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 229,
+    "KnowledgePoint": "认识有机化合物习题解析",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=cda5067c-4551-492c-a7d8-56d5bbc49921&chapterId=dfecf17e-50d3-3be0-a746-3319b65e2fea&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 230,
+    "KnowledgePoint": "烷烃的命名",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=304c3bc9-b50f-4f04-ba4e-b03e342af224&chapterId=dfecf17e-50d3-3be0-a746-3319b65e2fea&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 231,
+    "KnowledgePoint": "乙烯",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=41c39c0a-6852-4f8a-ba1e-7079bf8cfbd6&chapterId=1ed1ed76-221f-30ea-b9cf-d8300207b7e3&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 232,
+    "KnowledgePoint": "烃",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f3b521d6-de1f-4b3e-839d-80fa700c14e2&chapterId=99fbdf96-eb6f-38ea-b617-87f454c2cae4&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 233,
+    "KnowledgePoint": "同分异构体",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=565f1c82-54ad-46e6-830a-1a7a7f2157a9&chapterId=99fbdf96-eb6f-38ea-b617-87f454c2cae4&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 234,
+    "KnowledgePoint": "有机高分子材料",
+    "RelatedKnowledgePointID": 406,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ef200976-b72d-46f5-9105-87feca32f1dc&chapterId=20ddc68c-bd13-315c-9e33-e665d133e4d3&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 235,
+    "KnowledgePoint": "“乙烯与有机高分材料”习题解析",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3b5ff02d-150a-4bb0-b9c8-b5fa644a1f01&chapterId=214d69df-e37e-3865-911e-ea66f7753903&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 236,
+    "KnowledgePoint": "乙醇",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=bcce0dcb-d5ce-4345-8c69-d867d1600eef&chapterId=f1193730-7aef-3ff6-8ff8-42794272c2e5&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 237,
+    "KnowledgePoint": "乙酸",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=12951326-f880-4653-b666-e4a200c8e3c7&chapterId=f1193730-7aef-3ff6-8ff8-42794272c2e5&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 238,
+    "KnowledgePoint": "官能团与有机化合物的分类",
+    "RelatedKnowledgePointID": 400,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=9aabe541-f881-4412-8627-a63444adb9eb&chapterId=f1193730-7aef-3ff6-8ff8-42794272c2e5&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 239,
+    "KnowledgePoint": "“乙醇与乙酸”习题解析",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=19299027-8c12-4db1-931c-ee0f34e08e75&chapterId=f1193730-7aef-3ff6-8ff8-42794272c2e5&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 240,
+    "KnowledgePoint": "糖类",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f61dcca3-f3bc-47e5-9d39-5002662d2f90&chapterId=1815c9a8-03a3-3f4a-95a5-090a64257f84&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 241,
+    "KnowledgePoint": "蛋白质",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e2ca8bcf-96d6-4a40-a008-18864288c8de&chapterId=970a8193-4340-3f44-9da6-603055b22ef3&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 242,
+    "KnowledgePoint": "油脂",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=29db7fb1-d2bc-462a-9d47-eac243773658&chapterId=b15811dd-3659-3c9c-bce7-bcdae3cb48ca&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 243,
+    "KnowledgePoint": "稀土金属的开发与利用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2984bc65-0e25-4f69-b0b9-2daf41e604d9&chapterId=326dc406-0f44-3c4d-856a-5b3644cdab83&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 244,
+    "KnowledgePoint": "金属矿物的开发利用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5b7ad606-429e-47a4-a378-90a61ee7b43d&chapterId=326dc406-0f44-3c4d-856a-5b3644cdab83&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 245,
+    "KnowledgePoint": "海水资源的开发利用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=635df61e-6d37-4e60-959d-ca8fc4e1cd6b&chapterId=326dc406-0f44-3c4d-856a-5b3644cdab83&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 246,
+    "KnowledgePoint": "煤、石油、天然气开发利用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=14c5c4bb-095d-4288-8d5b-ec20a6340509&chapterId=326dc406-0f44-3c4d-856a-5b3644cdab83&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 247,
+    "KnowledgePoint": "化肥、农药的合理施用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0597a760-e40d-44c3-b306-dedfd936ad1a&chapterId=17db38e0-02c5-3372-a9f0-74ad4796fb72&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 248,
+    "KnowledgePoint": "合理用药",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4aa91de4-89fa-4406-83c9-d01fb2af3ea5&chapterId=17db38e0-02c5-3372-a9f0-74ad4796fb72&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 249,
+    "KnowledgePoint": "安全使用食品添加剂",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d205cb71-f153-43b3-ab1d-912e2ccceac3&chapterId=17db38e0-02c5-3372-a9f0-74ad4796fb72&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 250,
+    "KnowledgePoint": "化学工业流程专题习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=99d2d5f6-3235-4927-b645-c6fab1bd9c2a&chapterId=2ca64ef4-0e5e-343b-8236-5ebfcbab03f0&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 251,
+    "KnowledgePoint": "绿色化学",
+    "RelatedKnowledgePointID": 437,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5fc042bd-0b4b-45c6-b0b7-2df4a2f2586a&chapterId=2ca64ef4-0e5e-343b-8236-5ebfcbab03f0&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 252,
+    "KnowledgePoint": "化学工业流程专题",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6dfbc63c-38bf-4b35-9bac-3b33737e74eb&chapterId=2ca64ef4-0e5e-343b-8236-5ebfcbab03f0&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 253,
+    "KnowledgePoint": "化学与环境保护",
+    "RelatedKnowledgePointID": 376,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ada32a17-991c-4dd3-983f-943f94993223&chapterId=2ca64ef4-0e5e-343b-8236-5ebfcbab03f0&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 254,
+    "KnowledgePoint": "突破无机推断题",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=580c4c24-59e0-4837-95b1-1a5bdbb204c9&chapterId=0cf1003d-ffac-31de-9d9b-32e2fd1af74e&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 255,
+    "KnowledgePoint": "探究性实验设计的一般思路",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b2e7fc34-958d-4a86-bb1e-145c03bf4d01&chapterId=b14ccd34-466e-3e71-9edf-dfb1fcd0e751&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 256,
+    "KnowledgePoint": "物质制备实验设计的一般思路",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=bc3d4fd5-d539-4f2a-8aea-8e5035f188e9&chapterId=488f6ffd-3133-3b1f-a4c3-58a0169d4389&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 257,
+    "KnowledgePoint": "反应热",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e82d743d-26d3-42f8-bebb-b3ef5aef95ed&chapterId=eb48dfb0-5de5-3026-816f-ae6b3aece09d&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 258,
+    "KnowledgePoint": "化学反应与能量变化习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d4754f67-97ad-4b31-9fe2-61fa1076d25d&chapterId=2652e205-31fb-34f0-976f-dd424624a0cb&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 259,
+    "KnowledgePoint": "反应热的计算",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b762ae29-1ca9-4f1d-85a5-5519ebf13562&chapterId=2652e205-31fb-34f0-976f-dd424624a0cb&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 260,
+    "KnowledgePoint": "化学反应与能量变化专题",
+    "RelatedKnowledgePointID": 369,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c37ec964-8f1c-4e2b-9e12-457ab1840007&chapterId=2652e205-31fb-34f0-976f-dd424624a0cb&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 261,
+    "KnowledgePoint": "复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6115efe5-586c-478b-9c15-6de74fd5f3a0&chapterId=1b13d33a-b166-3dde-88b2-241749bdaf90&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 262,
+    "KnowledgePoint": "影响化学反应速率的因素",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7de3fda0-4d40-4cf8-8998-f504cc9d8b49&chapterId=0a3e9174-1846-3883-b786-b54f1760e441&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 263,
+    "KnowledgePoint": "化学反应碰撞理论简介",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e94fdd77-b4d3-4d92-85c0-9d962765c1f5&chapterId=0a3e9174-1846-3883-b786-b54f1760e441&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 264,
+    "KnowledgePoint": "化学反应速率习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=96dfd254-45a8-46ff-aa69-444cae7ec972&chapterId=0a3e9174-1846-3883-b786-b54f1760e441&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 265,
+    "KnowledgePoint": "化学平衡",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=09928cb0-816a-4334-ae71-8bc59d053fa5&chapterId=9867926c-4f4e-3487-86a3-375e4d3eeb1d&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 266,
+    "KnowledgePoint": "化学平衡的移动",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=fb5d3ff9-6334-4c7e-8fa6-10360790a6f5&chapterId=9867926c-4f4e-3487-86a3-375e4d3eeb1d&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 267,
+    "KnowledgePoint": "化学平衡习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=27f7a3b7-ddc5-4cc1-afec-aedf7a4f2a54&chapterId=9867926c-4f4e-3487-86a3-375e4d3eeb1d&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 268,
+    "KnowledgePoint": "化学反应的调控",
+    "RelatedKnowledgePointID": 383,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2499ddf8-2592-4a23-b9d3-40de845c3807&chapterId=5b56b08d-661c-3d32-843d-13a500bb3e9b&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 269,
+    "KnowledgePoint": "弱电解质的电离",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=549fd70c-8df2-4ecf-94b0-a7c2bbb53edf&chapterId=2c105929-4948-3fcb-add2-70eb0ffa56cc&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 270,
+    "KnowledgePoint": "电离平衡",
+    "RelatedKnowledgePointID": 385,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=aa298bbc-6730-418a-b5bc-d572803ad6ce&chapterId=2c105929-4948-3fcb-add2-70eb0ffa56cc&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 271,
+    "KnowledgePoint": "弱电解质的电离习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=afd21d8e-f3f8-4da8-a085-480abd421173&chapterId=d8c6a277-2bcf-3643-b85b-447a70ce924e&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 272,
+    "KnowledgePoint": "水的电离和溶液的酸碱性习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=43d18663-2c4d-46bc-a723-04cf39a368b7&chapterId=d8c6a277-2bcf-3643-b85b-447a70ce924e&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 273,
+    "KnowledgePoint": "水的电离和溶液的酸碱性",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=1b1dad12-097c-4cbf-829f-add06d6a6c86&chapterId=d8c6a277-2bcf-3643-b85b-447a70ce924e&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 274,
+    "KnowledgePoint": "水的电离和溶液的pH",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=98b14170-6ef9-42fe-910c-84a063131f7b&chapterId=d8c6a277-2bcf-3643-b85b-447a70ce924e&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 275,
+    "KnowledgePoint": "盐类的水解习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=70e0701c-b0cd-46e2-b0d3-e5f6205df673&chapterId=9c8995b9-9c84-3f6c-87d9-17699ed225a2&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 276,
+    "KnowledgePoint": "盐类的水解",
+    "RelatedKnowledgePointID": 386,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e1574874-e450-4a38-a4a6-942cba05fbfc&chapterId=9c8995b9-9c84-3f6c-87d9-17699ed225a2&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 277,
+    "KnowledgePoint": "盐类的水解应用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ab6df3dd-9aa1-4811-8ef1-bd2fdadd6c90&chapterId=9c8995b9-9c84-3f6c-87d9-17699ed225a2&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 278,
+    "KnowledgePoint": "水溶液中的平衡习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=bd909cca-f085-4620-8d67-65bf869a194c&chapterId=3d10f6c6-c175-3ed8-a28b-6ab8606b81f6&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 279,
+    "KnowledgePoint": "难溶电解质的溶解平衡习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=1401bca8-6d0b-47c1-a21f-6a61ca6a25cb&chapterId=3d10f6c6-c175-3ed8-a28b-6ab8606b81f6&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 280,
+    "KnowledgePoint": "水溶液中的离子平衡习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3955c6dd-8d24-40c4-b4ef-e1dc58c27439&chapterId=3d10f6c6-c175-3ed8-a28b-6ab8606b81f6&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 281,
+    "KnowledgePoint": "难溶电解质的溶解平衡",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e8204ed6-8f97-49f5-af97-9dc92f02a163&chapterId=3d10f6c6-c175-3ed8-a28b-6ab8606b81f6&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 282,
+    "KnowledgePoint": "水溶液中的离子平衡专题",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=edd38c24-eb86-4f65-bd64-bf73b1f50eef&chapterId=04097dd0-86a5-32e8-b9b3-f47f0dc185ed&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_4"
+  },
+  {
+    "KnowledgePointID": 283,
+    "KnowledgePoint": "沉淀溶解平衡",
+    "RelatedKnowledgePointID": 387,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7c18f494-f4cf-4f4c-89f0-952177da6d19&chapterId=3d10f6c6-c175-3ed8-a28b-6ab8606b81f6&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 284,
+    "KnowledgePoint": "酸碱中和滴定",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=bd6e3cda-092f-49b2-886b-d5c1db076ae2&chapterId=b4a0ca3d-2403-3a6d-97dc-233e3d89b96d&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 285,
+    "KnowledgePoint": "酸碱中和滴定图像分析",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=88f4a0bf-3bee-4c3f-95d4-61de1b6a9a66&chapterId=b4a0ca3d-2403-3a6d-97dc-233e3d89b96d&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 286,
+    "KnowledgePoint": "水溶液中的离子反应与平衡复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=bf329f06-9704-402a-ac90-e39a3af58d1f&chapterId=e0632133-1be1-388e-83c8-00d084712fe1&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 287,
+    "KnowledgePoint": "原电池",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0e060eb0-031e-4664-951e-0cb967e814c1&chapterId=3ea07ba3-956c-38c1-b49d-62af3c488510&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 288,
+    "KnowledgePoint": "原电池习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d10319f1-b590-457c-a082-61ce4ee4ab95&chapterId=3ea07ba3-956c-38c1-b49d-62af3c488510&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 289,
+    "KnowledgePoint": "电解池习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=bab48b32-29c8-4189-8d32-329840acad0d&chapterId=9a0aee73-8afa-31ab-b7af-05b1bf918f70&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 290,
+    "KnowledgePoint": "电解池",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4ddf1506-8c8b-42c5-a858-651df0659d53&chapterId=9a0aee73-8afa-31ab-b7af-05b1bf918f70&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 291,
+    "KnowledgePoint": "金属的腐蚀与防护",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=313862ee-e217-47e2-a598-59ddf77b0d5b&chapterId=1795e34d-9f0c-30c7-bf7e-460b0cddfed9&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 292,
+    "KnowledgePoint": "化学反应与电能复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=cb9bb726-a653-410c-a993-8c4db3171a3c&chapterId=e9e58626-2620-31c4-9a3a-e123cf2d6760&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 293,
+    "KnowledgePoint": "电化学专题",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=1f1c116a-8038-4b14-9bea-654927da5657&chapterId=bd0c64c3-3b42-3dad-aeb4-7e45e516d1db&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 294,
+    "KnowledgePoint": "化学反应速率与平衡专题",
+    "RelatedKnowledgePointID": 368,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d281569e-0fb3-4fc0-a184-119611b24e0f&chapterId=2be218ca-5526-307b-bd8d-036f7b300bc5&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 295,
+    "KnowledgePoint": "化学反应进行的方向",
+    "RelatedKnowledgePointID": 381,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5b43ab20-8339-48e8-8bd9-5c4565c2bc78&chapterId=5999c610-b662-311b-bb59-389c61f73883&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 296,
+    "KnowledgePoint": "各类平衡常数的应用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b8b1e20c-05be-421c-bbc4-f61cf1c2bab4&chapterId=ee6c1093-3d66-3c80-b25f-70d5853ef3ee&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 297,
+    "KnowledgePoint": "探究性化学实验专题",
+    "RelatedKnowledgePointID": 413,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=af0ca9f2-3c2c-43f2-a8a6-a6a5db29af7f&chapterId=bca9528a-83d2-3878-86ea-cc3d73668a34&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 298,
+    "KnowledgePoint": "物质的性质和转化规律",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a1ed15a8-a162-4ac5-9a60-5aa6f5544e17&chapterId=7edfa75b-3e22-38aa-a793-59a0fa17d238&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 299,
+    "KnowledgePoint": "化学思维路径构建策略",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c2823dd6-3669-4a0b-b8fc-daa893886103&chapterId=0cc207af-2a64-3fa5-8eef-82ffdc9e3f67&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 300,
+    "KnowledgePoint": "化学大题中的“有机推断”",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=90c3d398-be93-487d-9393-52e966e14bf6&chapterId=2cae6698-da0f-3c38-82be-ae6621ce0df6&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 301,
+    "KnowledgePoint": "高考化学复习（一）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=1d07fce7-2875-4240-8b33-2e4bad175682&chapterId=18bf23bd-962e-3ba9-ba4d-6b55f8d876b5&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 302,
+    "KnowledgePoint": "高考化学复习（三）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=cf65d475-6e4f-4c62-8622-8fffd8d1c14c&chapterId=1a9e1371-eb94-3596-8af7-6a013413c7b7&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 303,
+    "KnowledgePoint": "高考化学复习（二）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=36484ae4-f2c6-4069-a632-96ffe0603925&chapterId=0f2626e5-eb51-3811-a75f-34576169d84f&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 304,
+    "KnowledgePoint": "高考化学复习（四）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7d55e50c-79b4-42d7-9b44-e151b4a2d318&chapterId=8081059d-9834-3894-9dc6-bc43f86a1648&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 305,
+    "KnowledgePoint": "核心素养视域下的化学问题解决",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b5a85e65-54c4-4592-b4a9-546300c1798b&chapterId=483662df-c760-3b5b-8c86-503235badde2&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 306,
+    "KnowledgePoint": "高考化学复习（五）——有机合成常见信息分析",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f44c6fbd-dbea-4fa8-943f-fc0a6ac1ac66&chapterId=096474e7-d49a-3e96-a841-b2f6e56760b0&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 307,
+    "KnowledgePoint": "证据推理与模型认知—电化学复习策略与方法",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e1957c0a-6018-47fb-8ee3-8223406fb620&chapterId=0d6b81a3-fd7b-3dbe-876e-b03bcaf58573&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 308,
+    "KnowledgePoint": "同分异构体的判断与书写",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6a6fa673-5f78-4480-a601-cb2b05f56af1&chapterId=7a6b18aa-7816-3b27-ba7a-c8b63b5d4561&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 309,
+    "KnowledgePoint": "“运用原理分析问题”解题策略",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=66564b13-0c15-4ec2-8b74-22d6eb8d19b7&chapterId=471ad7af-81c7-3429-9291-6aa88144b765&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 310,
+    "KnowledgePoint": "高三化学应考策略",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=02e8a4ad-9d49-45c8-a546-125b4d6d39f6&chapterId=5555291e-84be-318e-bcc1-4430246ca656&teachingmaterialId=078f7ea9-41f2-44de-a6c9-a3beb5838af4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 311,
+    "KnowledgePoint": "原子结构",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f99dc6a7-fe56-4fa9-b945-95417ae1c3c5&chapterId=b55a7f4b-941f-306e-ba50-6106f0397014&teachingmaterialId=614ce40d-3b75-4760-9250-55fdb63875c0&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 312,
+    "KnowledgePoint": "原子结构与元素的性质",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c48bd6f2-2e9b-4fff-be95-2131aac103e7&chapterId=0bf4a4f3-ad55-31d5-a881-e46ac5b3c92b&teachingmaterialId=614ce40d-3b75-4760-9250-55fdb63875c0&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 313,
+    "KnowledgePoint": "原子结构与性质复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6ced7e84-4b60-4223-b3aa-82b850643e1f&chapterId=1bdd494a-fd42-34ce-8258-aec02a25e3aa&teachingmaterialId=614ce40d-3b75-4760-9250-55fdb63875c0&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 314,
+    "KnowledgePoint": "共价键",
+    "RelatedKnowledgePointID": 393,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=1421c3de-64da-4be5-bfe5-0107a42de072&chapterId=1312481c-963f-37d1-aa4a-1f1c4f3e1d1c&teachingmaterialId=614ce40d-3b75-4760-9250-55fdb63875c0&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 315,
+    "KnowledgePoint": "分子的空间结构",
+    "RelatedKnowledgePointID": 394,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=20c5c548-08bb-4961-8dfa-63da6124bda8&chapterId=e61a1561-59d5-35f1-981a-7e7ae1f1da8b&teachingmaterialId=614ce40d-3b75-4760-9250-55fdb63875c0&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 316,
+    "KnowledgePoint": "分子结构与物质的性质",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=91c64863-9b6a-4ae7-8663-5b191d07ef72&chapterId=5f62f2ad-8f9f-37a8-99b3-840836c5728b&teachingmaterialId=614ce40d-3b75-4760-9250-55fdb63875c0&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 317,
+    "KnowledgePoint": "分子结构与性质复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=41647781-94ff-4164-a3f7-ff5cfecdf83a&chapterId=179988f4-ad20-3b75-94f5-30ac05975c57&teachingmaterialId=614ce40d-3b75-4760-9250-55fdb63875c0&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 318,
+    "KnowledgePoint": "物质的聚集状态与晶体的常识",
+    "RelatedKnowledgePointID": 395,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=fe455ca1-4092-468d-ba66-d66634e08d5c&chapterId=5cd0ef55-18f8-3570-8881-58a2e9ed5f0f&teachingmaterialId=614ce40d-3b75-4760-9250-55fdb63875c0&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 319,
+    "KnowledgePoint": "分子晶体与共价晶体",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7e514731-3007-42c2-a3f5-d0b15b3f5aeb&chapterId=19cebf2b-115e-3453-8be5-d6c5b2f5c93c&teachingmaterialId=614ce40d-3b75-4760-9250-55fdb63875c0&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 320,
+    "KnowledgePoint": "金属晶体与离子晶体",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=adab3df3-0fcf-4619-ae83-1468a6d86e08&chapterId=cc8bfdec-b197-3514-919b-0da565f11f9c&teachingmaterialId=614ce40d-3b75-4760-9250-55fdb63875c0&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 321,
+    "KnowledgePoint": "配合物与超分子",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3e89c4d8-786e-4ccc-b6d7-a8565b58f4ac&chapterId=1e5ee9e3-97cb-3ebb-ba84-bbda084b71a9&teachingmaterialId=614ce40d-3b75-4760-9250-55fdb63875c0&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 322,
+    "KnowledgePoint": "晶体结构与性质复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a1c86656-dc97-4f8d-adbd-daaa9cf9a172&chapterId=3fc9f9c5-ad2e-3098-a48c-6f4c4977a56c&teachingmaterialId=614ce40d-3b75-4760-9250-55fdb63875c0&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 323,
+    "KnowledgePoint": "燃料的燃烧",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=de159c50-b8ce-43d4-d3c1-656acb881709&chapterId=0df0851c-cddd-498f-8eb2-f4bbcf8e7ca9&teachingmaterialId=9e0891e5-3e37-427b-9862-5d8956150f21&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 324,
+    "KnowledgePoint": "碳的氧化物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=540fb3e0-02b3-ceba-9210-50ee61fcff7f&chapterId=3266203f-5d4b-4bba-a51b-4e2ddeb41283&teachingmaterialId=9e0891e5-3e37-427b-9862-5d8956150f21&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 325,
+    "KnowledgePoint": "物质组成的表示",
+    "RelatedKnowledgePointID": 428,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=06c666bb-7a70-1c6c-6f49-bbf706561d1c&chapterId=ef2f943e-8c6e-4418-a1f3-f46b7839059f&teachingmaterialId=9e0891e5-3e37-427b-9862-5d8956150f21&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 326,
+    "KnowledgePoint": "水资源及其利用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0366ba71-85ba-4dbf-602a-d31a18237ea8&chapterId=40e33ed5-1699-49b9-8da7-2dfcfef3ed5f&teachingmaterialId=9e0891e5-3e37-427b-9862-5d8956150f21&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 327,
+    "KnowledgePoint": "化学实验与科学探究",
+    "RelatedKnowledgePointID": 410,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2e8e5217-e577-f7e7-9b08-9c0831e94c3d&chapterId=a0169f24-1c82-44ea-b566-eae3d02bb5d8&teachingmaterialId=9e0891e5-3e37-427b-9862-5d8956150f21&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 328,
+    "KnowledgePoint": "碳单质的多样性",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=60e38fcd-d3da-334b-d7ee-97b225dbe4a0&chapterId=99c67d4d-ce1b-4d03-ae43-bed29df06f24&teachingmaterialId=9e0891e5-3e37-427b-9862-5d8956150f21&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 329,
+    "KnowledgePoint": "化石能源的合理利用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e443924d-f091-4848-94ff-cd1c8a39a904&chapterId=fb80f495-e566-4ca3-9d70-fe71c7b32c97&teachingmaterialId=9e0891e5-3e37-427b-9862-5d8956150f21&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 330,
+    "KnowledgePoint": "中考题型解法之技巧",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d2d154ab-2884-431b-9ab4-33d458e61478&chapterId=e77fe523-63e5-38da-a7bc-bff24d9bb4e6&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 331,
+    "KnowledgePoint": "金属复习一",
+    "RelatedKnowledgePointID": 363,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0903900d-037e-4b16-8da7-6c2fe731daaf&chapterId=7ad4b098-5c7d-3e3b-97d8-5a20ce6f0194&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 332,
+    "KnowledgePoint": "金属复习二",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0903900d-037e-4b16-8da7-6c2fe731daaf&chapterId=7ad4b098-5c7d-3e3b-97d8-5a20ce6f0194&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 333,
+    "KnowledgePoint": "金属复习三",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0903900d-037e-4b16-8da7-6c2fe731daaf&chapterId=7ad4b098-5c7d-3e3b-97d8-5a20ce6f0194&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_3"
+  },
+  {
+    "KnowledgePointID": 334,
+    "KnowledgePoint": "科学探究易错点专题复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3d5baeb2-3b89-4f72-aa3b-e93ef0ee0dcb&chapterId=b87d24f5-4ffc-300e-9148-da86ae514356&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 335,
+    "KnowledgePoint": "人类重要的营养物质第",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/qualityCourse?courseId=8ae7e49e-7c76-341c-017c-76e50f5a000a&chapterId=3aca9b33-8c9b-359e-82bb-2518811181d8&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 336,
+    "KnowledgePoint": "化肥的鉴别",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/qualityCourse?courseId=8ae7e498-7c9c-cef0-017c-9e3e14a60450&chapterId=c7be00bd-7235-34db-8915-f2b103a2ee11&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 337,
+    "KnowledgePoint": "复分解反应的发生",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/examinationpapers?resourceId=e70e9d0b-ae21-43fa-a1f8-341bdd43d7a9&chapterId=048394b0-cdda-3157-84a8-01922b31fec4&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 338,
+    "KnowledgePoint": "酸碱盐复习",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5c15dcd1-ca22-433e-aef1-0bf7dea283d2&chapterId=c7615c23-9130-31bd-a53e-d38b590f7d0b&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 339,
+    "KnowledgePoint": "一定溶质质量分数的氯化钠",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/qualityCourse?courseId=8ae7e4a3-83f9-d174-0183-ff107bd90799&chapterId=dc65e941-51f5-37a0-b5ce-b1edfabb5ddd&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 340,
+    "KnowledgePoint": "酸碱盐复习之家庭小实验中的化学",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f6789828-5fbe-4aae-b50d-c1a382a36da6&chapterId=c7615c23-9130-31bd-a53e-d38b590f7d0b&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 341,
+    "KnowledgePoint": "金属资源的利用和保护",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/qualityCourse?courseId=8ae7e490-83f9-d064-0184-0d972956262a&chapterId=cb6e3ff7-0dac-3cfe-b6b6-9eea44235525&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 342,
+    "KnowledgePoint": "金属的化学性质",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/qualityCourse?courseId=8ae7e4a8-7c7b-691c-017c-7d4549e303e5&chapterId=c8324c10-9069-3d28-b418-74327e20d7e4&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 343,
+    "KnowledgePoint": "与控制变量有关的科学探究",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ab9f8814-452e-419f-8945-01fc8d1feeae&chapterId=fd828873-c05b-3fe0-8bcb-7cf3b1515121&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 344,
+    "KnowledgePoint": "化学肥料",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/qualityCourse?courseId=8ae7e498-7c9c-cef0-017c-9e3e14a60450&chapterId=c7be00bd-7235-34db-8915-f2b103a2ee11&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 345,
+    "KnowledgePoint": "化学元素与人体健康",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/qualityCourse?courseId=8ae7e4b2-8422-f88d-0184-231e6cb2001a&chapterId=055d7130-ab78-3cc0-9ef1-3c9f673b614f&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 346,
+    "KnowledgePoint": "酸碱盐知识复习与训练",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2585d1fb-b2c8-4bee-a4c2-069474481d21&chapterId=c7615c23-9130-31bd-a53e-d38b590f7d0b&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 347,
+    "KnowledgePoint": "碱的化学性质",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/qualityCourse?courseId=8ae7e4a1-8460-ac4c-0184-75cea0f90392&chapterId=f1f79b12-cdf2-392c-a3bd-c921cabd4f7e&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 348,
+    "KnowledgePoint": "中考题型解法之检验",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d9103cc2-1df7-4ccb-89c7-a4a8d1161a30&chapterId=55565f9f-a560-318a-a26a-bc7bb17349cb&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 349,
+    "KnowledgePoint": "有机合成材料",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/qualityCourse?courseId=8ae7e4b2-7c77-78ec-017c-784f5242029b&chapterId=35910eb8-0802-3c65-93a0-ff2816809662&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 350,
+    "KnowledgePoint": "金属的物理性质和某些化学",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/qualityCourse?courseId=8ae7e493-84a2-1322-0184-a26151b10006&chapterId=6718c3d5-0b5f-36d1-9d05-549e7199c1b7&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 351,
+    "KnowledgePoint": "化学反应的利用",
+    "RelatedKnowledgePointID": 433,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f1c71930-b173-4f41-bc05-492826371e41&chapterId=fb7bd79b-0678-3051-85ee-c04031a80bf0&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 352,
+    "KnowledgePoint": "有机化合物单元整理与提升",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=1e05ac55-de4d-4b5e-9ab9-82f591eeb45a&chapterId=d8054554-6504-3df5-ad19-89acb30bb8e9&teachingmaterialId=c1048b60-3971-432e-9ffe-23327fa04366&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 353,
+    "KnowledgePoint": "化学平衡常数",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5637520b-7e29-40ce-8b19-26296563c8d6&chapterId=9867926c-4f4e-3487-86a3-375e4d3eeb1d&teachingmaterialId=f3c84ad7-50a6-4488-9b10-239c3806272f&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 354,
+    "KnowledgePoint": "自制酸碱指示剂",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=8f98c134-0fa4-4aad-bcae-9bf914014e78&chapterId=8f75e4f2-781e-3a27-810a-f6d6ef711aba&teachingmaterialId=b02a45bb-2056-413d-adbf-a63e404be5fb&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 355,
+    "KnowledgePoint": "化学科学的主要特征",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 356,
+    "KnowledgePoint": "科学探究过程",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 357,
+    "KnowledgePoint": "化学实验",
+    "RelatedKnowledgePointID": 138,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 358,
+    "KnowledgePoint": "科学态度与安全意识",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 359,
+    "KnowledgePoint": "学生必做实验",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 360,
+    "KnowledgePoint": "元素与物质",
+    "RelatedKnowledgePointID": 150,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 361,
+    "KnowledgePoint": "氧化还原反应",
+    "RelatedKnowledgePointID": 185,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 362,
+    "KnowledgePoint": "电离与离子反应",
+    "RelatedKnowledgePointID": 184,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 363,
+    "KnowledgePoint": "金属及其化合物",
+    "RelatedKnowledgePointID": 331,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 364,
+    "KnowledgePoint": "非金属及其化合物",
+    "RelatedKnowledgePointID": 198,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 365,
+    "KnowledgePoint": "物质性质及物质转化的价值",
+    "RelatedKnowledgePointID": 136,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 366,
+    "KnowledgePoint": "原子结构与元素周期律",
+    "RelatedKnowledgePointID": 194,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 367,
+    "KnowledgePoint": "化学键",
+    "RelatedKnowledgePointID": 196,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 368,
+    "KnowledgePoint": "化学反应的限度和快慢",
+    "RelatedKnowledgePointID": 294,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 369,
+    "KnowledgePoint": "化学反应与能量转化",
+    "RelatedKnowledgePointID": 260,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 370,
+    "KnowledgePoint": "有机化合物的结构特点",
+    "RelatedKnowledgePointID": 227,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 371,
+    "KnowledgePoint": "典型有机化合物的性质",
+    "RelatedKnowledgePointID": 228,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 372,
+    "KnowledgePoint": "有机化学研究的价值",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 373,
+    "KnowledgePoint": "化学促进可持续发展",
+    "RelatedKnowledgePointID": 251,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 374,
+    "KnowledgePoint": "化学科学在材料科学、人类健康等方面的重要作用",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 375,
+    "KnowledgePoint": "化学在自然资源和能源综合利用方面的重要价值",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 376,
+    "KnowledgePoint": "化学在环境保护中的作用",
+    "RelatedKnowledgePointID": 253,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 377,
+    "KnowledgePoint": "化学应用的安全与规则意识",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 378,
+    "KnowledgePoint": "体系与能量",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 379,
+    "KnowledgePoint": "化学反应与热能",
+    "RelatedKnowledgePointID": 218,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 380,
+    "KnowledgePoint": "化学反应与电能",
+    "RelatedKnowledgePointID": 219,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 381,
+    "KnowledgePoint": "化学反应的方向与限度",
+    "RelatedKnowledgePointID": 295,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 382,
+    "KnowledgePoint": "化学反应速率",
+    "RelatedKnowledgePointID": 222,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 383,
+    "KnowledgePoint": "化学反应的调控",
+    "RelatedKnowledgePointID": 268,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 384,
+    "KnowledgePoint": "电解质在水溶液中的行为",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 385,
+    "KnowledgePoint": "电离平衡",
+    "RelatedKnowledgePointID": 270,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 386,
+    "KnowledgePoint": "水解平衡",
+    "RelatedKnowledgePointID": 276,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 387,
+    "KnowledgePoint": "沉淀溶解平衡",
+    "RelatedKnowledgePointID": 283,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 388,
+    "KnowledgePoint": "离子反应与平衡的应用",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 389,
+    "KnowledgePoint": "原子核外电子的运动状态",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 390,
+    "KnowledgePoint": "核外电子排布规律",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 391,
+    "KnowledgePoint": "核外电子排布与元素周期律（表）",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 392,
+    "KnowledgePoint": "微粒间的相互作用",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 393,
+    "KnowledgePoint": "共价键的本质和特征",
+    "RelatedKnowledgePointID": 314,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 394,
+    "KnowledgePoint": "分子的空间结构",
+    "RelatedKnowledgePointID": 315,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 395,
+    "KnowledgePoint": "晶体和聚集状态",
+    "RelatedKnowledgePointID": 318,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 396,
+    "KnowledgePoint": "物质结构的探索是无止境的",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 397,
+    "KnowledgePoint": "研究物质结构的方法",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 398,
+    "KnowledgePoint": "研究物质结构的价值",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 399,
+    "KnowledgePoint": "有机化合物的分子结构",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 400,
+    "KnowledgePoint": "有机化合物中的官能团",
+    "RelatedKnowledgePointID": 238,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 401,
+    "KnowledgePoint": "有机化合物中的化学键",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 402,
+    "KnowledgePoint": "烃的性质与应用",
+    "RelatedKnowledgePointID": 228,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 403,
+    "KnowledgePoint": "烃的衍生物的性质与应用",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 404,
+    "KnowledgePoint": "有机反应类型与有机合成",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 405,
+    "KnowledgePoint": "有机化合物的安全使用",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 406,
+    "KnowledgePoint": "聚合物的结构特点",
+    "RelatedKnowledgePointID": 234,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 407,
+    "KnowledgePoint": "生物大分子",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 408,
+    "KnowledgePoint": "合成高分子",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 409,
+    "KnowledgePoint": "化学科学本质",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 410,
+    "KnowledgePoint": "实验探究",
+    "RelatedKnowledgePointID": 327,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 411,
+    "KnowledgePoint": "科学探究的能力",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 412,
+    "KnowledgePoint": "基本的化学实验技能",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 413,
+    "KnowledgePoint": "化学实验探究的思路与方法",
+    "RelatedKnowledgePointID": 297,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 414,
+    "KnowledgePoint": "科学探究的态度",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 415,
+    "KnowledgePoint": "学生必做实验及实践活动",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 416,
+    "KnowledgePoint": "物质的多样性",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 417,
+    "KnowledgePoint": "常见的物质",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 418,
+    "KnowledgePoint": "空气、氧气、二氧化碳",
+    "RelatedKnowledgePointID": 140,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 419,
+    "KnowledgePoint": "水和溶液",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 420,
+    "KnowledgePoint": "金属与金属矿物",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 421,
+    "KnowledgePoint": "常见的酸、碱、盐",
+    "RelatedKnowledgePointID": 177,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 422,
+    "KnowledgePoint": "认识物质性质的思路与方法",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 423,
+    "KnowledgePoint": "物质性质的广泛应用及化学品的合理使用",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 424,
+    "KnowledgePoint": "物质的组成",
+    "RelatedKnowledgePointID": 325,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 425,
+    "KnowledgePoint": "元素、分子、原子与物质",
+    "RelatedKnowledgePointID": 150,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 426,
+    "KnowledgePoint": "元素",
+    "RelatedKnowledgePointID": 150,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 427,
+    "KnowledgePoint": "分子、原子",
+    "RelatedKnowledgePointID": 148,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 428,
+    "KnowledgePoint": "物质组成的表示",
+    "RelatedKnowledgePointID": 325,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 429,
+    "KnowledgePoint": "认识物质的组成与结构的思路与方法",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 430,
+    "KnowledgePoint": "研究物质的组成与结构的意义",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 431,
+    "KnowledgePoint": "物质的变化与转化",
+    "RelatedKnowledgePointID": 183,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 432,
+    "KnowledgePoint": "化学反应及质量守恒定律",
+    "RelatedKnowledgePointID": 158,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 433,
+    "KnowledgePoint": "化学变化的特征及化学反应的基本类型",
+    "RelatedKnowledgePointID": 351,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 434,
+    "KnowledgePoint": "化学反应的定量关系与质量守恒定律",
+    "RelatedKnowledgePointID": 158,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 435,
+    "KnowledgePoint": "认识化学反应的思路与方法",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 436,
+    "KnowledgePoint": "化学反应的应用价值及合理调控",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 437,
+    "KnowledgePoint": "化学与可持续发展",
+    "RelatedKnowledgePointID": 251,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 438,
+    "KnowledgePoint": "化学与资源、能源、材料、环境、健康",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 439,
+    "KnowledgePoint": "化学、技术、工程融合解决跨学科问题的思路与方法",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 440,
+    "KnowledgePoint": "应对未来不确定性挑战",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 441,
+    "KnowledgePoint": "科学伦理及法律规范",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 442,
+    "KnowledgePoint": "社会性科学议题的合理应对",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 443,
+    "KnowledgePoint": "跨学科实践活动",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  }
+]

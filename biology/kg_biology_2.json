@@ -1,0 +1,3158 @@
+[
+  {
+    "KnowledgePointID": 163,
+    "KnowledgePoint": "生物的特征",
+    "RelatedKnowledgePointID": 428,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=1d9b72b3-d43c-4ed4-b266-4b72e55c61b8&chapterId=d61763b3-6d76-3fcc-81e1-51ae5ab3905f&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 164,
+    "KnowledgePoint": "调查我们身边的生物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d1b802d8-bfc9-45b2-9728-b4428b32b2e9&chapterId=41168d64-ac00-37c0-8473-da96e9df45b2&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 165,
+    "KnowledgePoint": "生物与环境的关系",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c71dd7a5-2fc1-45a7-b418-ab57bcf068a8&chapterId=27314bee-a6ca-39c1-b991-dba8f09bfac5&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 166,
+    "KnowledgePoint": "生物与环境组成生态系统",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=9e786fa8-e808-4237-a806-40cd45af4d25&chapterId=36ebcf54-a5fe-323e-a250-11b247c23155&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 167,
+    "KnowledgePoint": "生物圈是最大的生态系统",
+    "RelatedKnowledgePointID": 452,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=fef6f2d4-b36d-4582-958b-50271af953ef&chapterId=7ba17c01-e8b0-3a74-bda5-6a007e1b8481&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 168,
+    "KnowledgePoint": "练习使用显微镜",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5d38d46a-d44c-4b40-ac4f-938a35b6a1a4&chapterId=ff73da8e-8ff3-3b76-8283-95d8cab6bd49&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 169,
+    "KnowledgePoint": "植物细胞",
+    "RelatedKnowledgePointID": 421,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=8a255156-f45a-4c55-a105-f26643ef095b&chapterId=b4a56871-e234-37a6-b1ac-06e9352836d7&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 170,
+    "KnowledgePoint": "动物细胞",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5fa49aed-71ef-4a9a-87c0-16efc2c00780&chapterId=7ac56f39-5555-3376-aede-6dbd932b0c6a&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 171,
+    "KnowledgePoint": "细胞的生活",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b7b95537-54bc-49b1-b9f5-efb92347f43b&chapterId=b2948449-962c-3a95-b2e8-9d8da71f4e9d&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 172,
+    "KnowledgePoint": "细胞通过分裂产生新细胞",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=980da7e7-e899-431e-b8de-52a8fa335ca0&chapterId=e8089566-7971-3b9d-b585-e3e9856d6040&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 173,
+    "KnowledgePoint": "动物体的结构层次",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e4d66a43-e55e-4db6-9d67-8a34eba0b5e9&chapterId=e86ed6e1-4f1b-38cd-85a3-c237a9ee1ff9&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 174,
+    "KnowledgePoint": "植物体的结构层次",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4bacb4ab-774e-4550-a375-c465f9611713&chapterId=d02b64e1-a9a8-373a-92b2-15daa8e3f345&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 175,
+    "KnowledgePoint": "单细胞生物",
+    "RelatedKnowledgePointID": 543,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=9fe0f874-8ecc-4547-a2f1-42c1ff4777f8&chapterId=863c4f01-1d21-31ca-ba07-654f2009ccae&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 176,
+    "KnowledgePoint": "藻类、苔藓和蕨类植物",
+    "RelatedKnowledgePointID": 432,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=96f9eab9-9cce-4756-ad52-341235fa3d87&chapterId=3880c4e3-da5a-3787-84ea-3b5bd441844a&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 177,
+    "KnowledgePoint": "种子植物",
+    "RelatedKnowledgePointID": 433,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3c7e7cc9-0c79-4ea0-9346-05b9abf4faf0&chapterId=1195867c-f852-3260-8a96-ca83c89a1513&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 178,
+    "KnowledgePoint": "种子的萌发",
+    "RelatedKnowledgePointID": 458,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=099857b1-595e-4a00-b71b-a0b0e9153978&chapterId=98a864a6-f815-3a7b-9f15-65c2a84cfd14&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 179,
+    "KnowledgePoint": "植株的生长",
+    "RelatedKnowledgePointID": 459,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=39c69f80-5f96-4a97-8792-7ecd1144d483&chapterId=0c48a3bb-8c02-3826-a9b4-d3daa144a426&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 180,
+    "KnowledgePoint": "开花和结果",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b0dcf566-3b8f-4dcd-8e6e-6a8c7bd77d31&chapterId=2023a3dd-788a-39db-ae04-b74f09218436&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 181,
+    "KnowledgePoint": "绿色植物与生物圈的水循环",
+    "RelatedKnowledgePointID": 472,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5e5d1555-6332-4f0e-9382-eaf4b5c4ce3d&chapterId=13bf1e5e-6470-364f-8356-e5d9f4443511&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 182,
+    "KnowledgePoint": "绿色植物是生物圈中有机物制造者",
+    "RelatedKnowledgePointID": 471,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=db1ef54c-d980-4f35-ae9a-1a41749de80c&chapterId=46c9b804-b441-381a-b9c9-3c670bca3e39&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 183,
+    "KnowledgePoint": "光合作用吸收二氧化碳释放氧气",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=37d41c05-3af3-47dd-9a9f-96446b763df8&chapterId=53a194fe-30b1-361c-997c-6601bd9051f9&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 184,
+    "KnowledgePoint": "绿色植物的呼吸作用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6a49a0c5-cf2f-4fff-8b94-73e0b66a6c41&chapterId=de49ad55-a6a7-34b5-be67-12b67f4338d2&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 185,
+    "KnowledgePoint": "爱护植被，绿化祖国",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7e8b741e-3dd1-41d6-9d18-8eb9acfb74f8&chapterId=00a4d3d6-2bb1-3da6-a6b4-3cb7e9aae5d8&teachingmaterialId=b74612d1-bfb9-41e3-be12-0cc07afeab45&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 186,
+    "KnowledgePoint": "人类的起源与发展",
+    "RelatedKnowledgePointID": 527,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=576411f7-532c-4b22-8ae0-afcc5c58adc9&chapterId=b747b4ed-8d06-3a24-a861-c44c432918f2&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 187,
+    "KnowledgePoint": "人的生殖",
+    "RelatedKnowledgePointID": 512,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6f14415f-47fe-4548-b63c-609c294e4e68&chapterId=3740a771-7b69-37ee-a3d1-860464d05138&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 188,
+    "KnowledgePoint": "青春期",
+    "RelatedKnowledgePointID": 498,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=de789c62-12d3-43b1-8f40-61c518597222&chapterId=d0e990d9-4363-3535-9d57-89281980833f&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 189,
+    "KnowledgePoint": "《人的由来》复习课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=941692d4-2d72-4bb3-b6b4-643c9d58fdfe&chapterId=d0e990d9-4363-3535-9d57-89281980833f&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 190,
+    "KnowledgePoint": "食物中的营养物质",
+    "RelatedKnowledgePointID": 474,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=04a56223-fb5f-4cf2-8d7a-e2bc5c224cec&chapterId=1a1c3d1e-c0f2-3f1f-b24d-1bdade24bcf4&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 191,
+    "KnowledgePoint": "消化和吸收",
+    "RelatedKnowledgePointID": 476,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=bb6f75ec-f3bc-4fea-b839-1031fc1501ec&chapterId=9067e9c0-f6d4-3f32-b7fd-38db389e5bd6&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 192,
+    "KnowledgePoint": "合理营养与食品安全",
+    "RelatedKnowledgePointID": 478,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b99e5236-b3ab-4ec4-9949-4b905a263c8e&chapterId=1d1f279d-66e8-3832-995c-fee4d4ad98ea&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 193,
+    "KnowledgePoint": "呼吸道对空气的处理",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4378371b-f705-46b1-83ff-cf5d76b5d3ae&chapterId=a82e677b-5287-3dcd-867b-9fbdaec0eb07&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 194,
+    "KnowledgePoint": "发生在肺内的气体交换",
+    "RelatedKnowledgePointID": 485,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0881080e-1a08-42ec-af2b-798f2375f20b&chapterId=0d6883aa-d966-3720-851e-efa1dd858940&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 195,
+    "KnowledgePoint": "流动的组织——血液",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6dbc651a-f142-40a1-bf89-21609b5e397f&chapterId=cb299f39-585b-367f-b7f5-bde164fc408c&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 196,
+    "KnowledgePoint": "血流的管道--血管",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=52c2bb9b-e00d-4bda-b0da-15778452b6e8&chapterId=57fb9840-cd7a-39f5-84a1-514e9ccd7269&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 197,
+    "KnowledgePoint": "输送血液的泵--心脏",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=1f090071-fd8a-4dbb-b795-3b2e6f96da7c&chapterId=965c81db-e791-3281-9abb-c5c8ec338dc5&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 198,
+    "KnowledgePoint": "输血和血型",
+    "RelatedKnowledgePointID": 480,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=eeeaf37f-f8d0-456c-b1ac-d789bedbb1ed&chapterId=72caa2ba-c121-31e1-bd26-abe3d0d13aff&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 199,
+    "KnowledgePoint": "人体内废物的排出",
+    "RelatedKnowledgePointID": 489,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4a137bda-b6e4-4390-a98d-9ecf447f91e4&chapterId=4120ea36-1450-3933-b516-4c36b15de4a9&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 200,
+    "KnowledgePoint": "人体对外界环境的感知",
+    "RelatedKnowledgePointID": 494,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=95b2865b-2160-4b3e-91a5-13f1a8a8e58b&chapterId=b9b30551-d0a4-3732-9f01-a480de1961f3&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 201,
+    "KnowledgePoint": "神经系统的组成",
+    "RelatedKnowledgePointID": 491,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=05bfa405-0bbd-43d9-9748-73072d80500a&chapterId=44185cbf-c5a3-31c4-a5a0-616fc87b7590&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 202,
+    "KnowledgePoint": "神经调节的基本方式",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2bd18d95-60de-4d77-805f-caf6e36e87a2&chapterId=9b294fad-d1ce-3dca-9f5b-233104f0f642&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 203,
+    "KnowledgePoint": "激素调节",
+    "RelatedKnowledgePointID": 603,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=8362cb3c-5dac-4761-8610-1f931c2dc81b&chapterId=6ba12baa-03b3-3176-9346-49526170d502&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 204,
+    "KnowledgePoint": "人类活动对生态环境的影响",
+    "RelatedKnowledgePointID": 639,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=57bb3604-0564-4679-8288-53a1de3b1d1a&chapterId=1fd27e5a-0ad1-3d3c-8918-1c4fb2085117&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 205,
+    "KnowledgePoint": "探究环境污染对生物的影响",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=183256c6-08ee-4922-bae6-5004dccefc43&chapterId=701a2dcd-cc5a-3b8b-bbee-f0a3f0c2d830&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 206,
+    "KnowledgePoint": "拟定保护生态环境的计划",
+    "RelatedKnowledgePointID": 644,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ad260847-afe1-4c56-a14d-65c63a7ce178&chapterId=0b74973f-3f54-3d5f-8752-4b9e0e2ea143&teachingmaterialId=e2bd3c55-bb34-4e5c-9830-f82c99f6d4a3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 207,
+    "KnowledgePoint": "腔肠动物和扁形动物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b148422a-1e2e-49e5-94fd-251b6c2be22b&chapterId=9653412a-12dc-3232-ae51-0044e7cb58c7&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 208,
+    "KnowledgePoint": "环节动物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6593dae3-c9b2-4c50-a841-9dd389c8c4ba&chapterId=144a7fc4-e52f-3bee-8519-7da201b4045a&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 209,
+    "KnowledgePoint": "软体动物和节肢动物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4546501b-145d-4b06-b3ad-5ea37b6adecb&chapterId=908f326c-c2ce-34aa-9092-73a1c52621f9&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 210,
+    "KnowledgePoint": "鱼",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=53e69b82-c5de-4229-b509-0206ff0dc52d&chapterId=eb94e60c-cd94-38c0-9c5c-aa7c8f382c2f&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 211,
+    "KnowledgePoint": "两栖动物和爬行动物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=adbd49a6-0be2-48d8-abbe-f4b4171fc689&chapterId=ec4e64f0-11c9-3811-831c-bb97cffc50a5&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 212,
+    "KnowledgePoint": "鸟",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f9b00be6-02d4-4103-8426-8ff1c733772a&chapterId=b701181b-9db2-34d3-b51a-d4bf21fe440d&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 213,
+    "KnowledgePoint": "哺乳动物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=28ae3744-a319-4025-98bc-c613db7f689c&chapterId=6da904c0-d10d-3a3b-bcb6-3ccac4e850b4&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 214,
+    "KnowledgePoint": "动物的运动",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=93a837b9-fafa-4bbb-9d1d-31126d55ce09&chapterId=08e01b54-2635-3437-bdc6-99684c890864&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 215,
+    "KnowledgePoint": "先天性行为和学习行为",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=56e02093-afd4-4cc5-883b-db941020ee18&chapterId=01957a96-c2e3-36fd-8947-9394dbc4edcd&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 216,
+    "KnowledgePoint": "社会行为",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b6fc1e80-fdb0-4bde-9ad9-bee1994c7dd1&chapterId=abe62ae8-66ce-3f58-80a5-13882a19006c&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 217,
+    "KnowledgePoint": "动物在生物圈中的作用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ec90fd7a-57c0-44cd-8d3a-c9b1976fe651&chapterId=8f86ee87-3f0d-3439-be33-47f64f383c28&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 218,
+    "KnowledgePoint": "细菌和真菌的分布",
+    "RelatedKnowledgePointID": 437,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=fabce56d-6e19-4ada-a6db-58af20ad0f04&chapterId=c9705d2e-cc17-390e-b836-939aed339acf&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 219,
+    "KnowledgePoint": "细菌",
+    "RelatedKnowledgePointID": 439,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c9c9b600-4219-41aa-ad88-3aa1aa79fae2&chapterId=97f5f4bf-eb2d-32d7-b572-37447ac5af3c&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 220,
+    "KnowledgePoint": "真菌",
+    "RelatedKnowledgePointID": 440,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7212e496-f3a6-4929-b974-b1abcab6433d&chapterId=39599b09-6edb-306d-8a72-5f0f864be496&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 221,
+    "KnowledgePoint": "细菌和真菌在自然界中的作用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e6953315-73b7-4355-96fc-4d8ed1dfd6ce&chapterId=aa5bfd30-2f9d-3eb2-8b48-b6fc0bb15b17&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 222,
+    "KnowledgePoint": "人类对细菌和真菌的利用",
+    "RelatedKnowledgePointID": 441,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7dd54df2-d125-4d25-9be1-b9770b48c137&chapterId=06e69725-b176-3215-877e-eb50a91a27f0&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 223,
+    "KnowledgePoint": "病毒",
+    "RelatedKnowledgePointID": 438,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=9473b610-78ac-40f2-b363-8dfbbabf40fc&chapterId=f61b65c1-f6cd-3ca0-8396-21bca58d66db&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 224,
+    "KnowledgePoint": "尝试对生物进行分类",
+    "RelatedKnowledgePointID": 430,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b505d385-c227-42f3-83c4-825bb446e959&chapterId=1a3be6c3-d2e1-3fd1-9093-4822544385cf&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 225,
+    "KnowledgePoint": "从种到界",
+    "RelatedKnowledgePointID": 429,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a342b743-beb5-4c1d-9d09-33813662e8d2&chapterId=15ff8c7a-1eaa-35a6-862b-cbdc3cd04c97&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 226,
+    "KnowledgePoint": "认识生物的多样性",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=79bb491a-abc5-48f0-8635-79964e912dc3&chapterId=64df60b2-4478-3972-b7e2-c86c8254508b&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 227,
+    "KnowledgePoint": "保护生物的多样性",
+    "RelatedKnowledgePointID": 642,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4709f69a-662c-4e00-8141-8bba4b6271dd&chapterId=c31532e2-f6ba-37a2-a5cb-9a06b0e32c5e&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 228,
+    "KnowledgePoint": "植物的生殖",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d5fb0d86-c671-46e2-8f82-922672503a88&chapterId=8747ac91-e5d7-3927-8247-42ad05cc9d79&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 229,
+    "KnowledgePoint": "昆虫的生殖和发育",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6d172104-84cb-43ec-8708-150483f2684d&chapterId=ed26935b-cbb6-3c23-9ec2-c29c801ef98f&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 230,
+    "KnowledgePoint": "两栖动物的生殖和发育",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6084a36c-2c1e-4a54-b5b2-d29469e3f201&chapterId=d948518f-ded1-3dc6-adb4-4a4b8749aafd&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 231,
+    "KnowledgePoint": "鸟的生殖和发育",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b88a3a3a-41e1-4d2c-b2f8-53131d94c4e5&chapterId=bf556eb1-82bc-3cc5-9b9f-eae6a9cf3c13&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 232,
+    "KnowledgePoint": "生物的生殖复习课",
+    "RelatedKnowledgePointID": 513,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a75730c2-0a44-4751-a1bd-a5bc79ed8211&chapterId=bf556eb1-82bc-3cc5-9b9f-eae6a9cf3c13&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 233,
+    "KnowledgePoint": "基因控制生物的性状",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e6f0462a-43ff-4ef5-b6ce-f4e5a1235b84&chapterId=1c5c251d-7b61-3b26-beb2-4baf005d87ad&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 234,
+    "KnowledgePoint": "基因在亲子代间的传递",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=8233e493-f237-44be-94fe-69bd650f1af8&chapterId=d86d885f-f708-3b53-8c24-a9d72d85131d&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 235,
+    "KnowledgePoint": "基因的显性和隐性",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0942fbf6-e415-466d-97c0-e663e2b1af2c&chapterId=ae9cc920-a286-32b5-9845-227359431d6e&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 236,
+    "KnowledgePoint": "人的性别遗传",
+    "RelatedKnowledgePointID": 570,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4e13b4c5-c1e3-489c-a310-c46d2d3d2d7a&chapterId=b367ab69-c968-3682-8402-c40230bbad53&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 237,
+    "KnowledgePoint": "生物的变异",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f83cced7-549d-41e5-984f-34c0f1b7c4e1&chapterId=6a3e0e9b-89fe-3b28-9ef8-28fac66ff02e&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 238,
+    "KnowledgePoint": "地球上生命的起源",
+    "RelatedKnowledgePointID": 522,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2ab7e572-0526-434e-999b-e5f5b536f130&chapterId=511981c3-233a-3c87-b97b-cdc3e48ac479&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 239,
+    "KnowledgePoint": "生物进化的历程",
+    "RelatedKnowledgePointID": 580,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2492e677-1e98-4921-8fab-8946399cd485&chapterId=e712062f-9d90-3eac-aee5-c4b41edc3fb0&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 240,
+    "KnowledgePoint": "生物进化的原因",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3480ce9d-6b80-418c-bf4a-cd0c7d421cca&chapterId=ed43fe51-7fac-33ee-9cce-f5c4e9e2cf6f&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 241,
+    "KnowledgePoint": "传染病与预防",
+    "RelatedKnowledgePointID": 502,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=be469e28-f9ba-4a1b-a460-99047ac43506&chapterId=24381f17-4ee9-37f6-90e2-9a8e03436c69&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 242,
+    "KnowledgePoint": "免疫与计划免疫",
+    "RelatedKnowledgePointID": 504,
+    "ExerciseURL": "https://zxx-preview.ykt.eduyun.cn/syncClassroom/classActivity?activityId=b2e90f21-2695-4cef-9a90-db0ce8eb8c7b&chapterId=684a794a-a382-3ff5-b078-d9c2aaf2ff7b&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 243,
+    "KnowledgePoint": "用药与急救",
+    "RelatedKnowledgePointID": 510,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6aec136e-12e7-4403-8287-e823d6459053&chapterId=9dd0f019-0538-37e8-8946-2017ab8fbdce&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 244,
+    "KnowledgePoint": "了解自己增进健康",
+    "RelatedKnowledgePointID": 508,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=8813bfdf-0d3c-4b25-8b2f-1f2a489afca8&chapterId=64af2e6a-d410-3e4e-a780-0f8c752e10fc&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 245,
+    "KnowledgePoint": "健康生活复习课",
+    "RelatedKnowledgePointID": 506,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3f9a37a5-5418-4d1b-9108-4d7756068f99&chapterId=99a9df94-84d3-3e3e-a713-d67570156527&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 246,
+    "KnowledgePoint": "生物与环境",
+    "RelatedKnowledgePointID": 448,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=39adb1cf-60d0-443e-b12a-44ae1a0f3691&chapterId=f9852e27-a3f2-3ae1-8718-b4c2f275f155&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 247,
+    "KnowledgePoint": "生态系统中的物质与能量",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=cc511ad8-3e04-4610-9a54-950b99a53fd6&chapterId=3773fcae-dc4e-3b6f-bbdd-60dde40b7ca3&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 248,
+    "KnowledgePoint": "细胞",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=56e540db-0cbc-4f82-b396-2387a25717e1&chapterId=74b19c77-6f70-3954-929e-65eeca4a2b74&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 249,
+    "KnowledgePoint": "单细胞",
+    "RelatedKnowledgePointID": 419,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=11e994ed-0fc4-4cff-b903-ee4a9e6b560b&chapterId=82436019-e5f8-3dc8-ad9a-bebd1df0d55b&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 250,
+    "KnowledgePoint": "细胞分裂细胞分化",
+    "RelatedKnowledgePointID": 460,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3ded42ad-b4a0-4476-a2d9-0e37a52c0a81&chapterId=9c82bf80-7767-3d58-bd6a-842ec9507578&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 251,
+    "KnowledgePoint": "生物体的结构层次",
+    "RelatedKnowledgePointID": 426,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=31ded4fd-2a88-4209-9b30-49a8a1f9ca01&chapterId=ef649b13-121c-30f1-b9de-09d5d8dcc364&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 252,
+    "KnowledgePoint": "种子的结构",
+    "RelatedKnowledgePointID": 457,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=bfd7c5e5-8fb0-41f5-9536-877617fbf1bd&chapterId=1ef17b70-d1b4-3338-8241-26a5f97dd77c&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 253,
+    "KnowledgePoint": "开花结果",
+    "RelatedKnowledgePointID": 461,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c56d120e-7d23-46a1-9734-ad175e0097dc&chapterId=ae14c521-1003-339c-bbb4-5a035a155144&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 254,
+    "KnowledgePoint": "绿色植物的蒸腾作用",
+    "RelatedKnowledgePointID": 464,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a3a43bb0-918a-4166-ad2f-c61bc6663cc2&chapterId=becc4cf0-0e38-3736-8ac0-774b236b8dc6&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 255,
+    "KnowledgePoint": "绿色植物的光合作用",
+    "RelatedKnowledgePointID": 465,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3f8ee939-f147-4f6c-a76d-0eac2d41d798&chapterId=6859df46-cd35-3cc0-ae76-13d675560d61&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 256,
+    "KnowledgePoint": "植物的呼吸作用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c9fa8af9-1487-4db3-b408-2a7ddbac3613&chapterId=bd39ac96-d619-3e63-a7ed-a8a775b024cb&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 257,
+    "KnowledgePoint": "人体的呼吸",
+    "RelatedKnowledgePointID": 482,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=218dafb3-72b6-42b4-ad7b-bcd121d61e5f&chapterId=6db82619-621a-3226-b9d7-a3e5b2c760d2&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 258,
+    "KnowledgePoint": "血液循环系统的组成",
+    "RelatedKnowledgePointID": 480,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d6f16b25-25ce-4572-b730-c0a4eee3a238&chapterId=6c91ad1e-c1f7-305c-a1c8-57b0c6928e98&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 259,
+    "KnowledgePoint": "血液循环的途径",
+    "RelatedKnowledgePointID": 481,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=74be3797-416f-4123-a739-ecebbfb1c876&chapterId=6a688d46-ac8f-3a96-85b8-d8b3c30e8dd9&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 260,
+    "KnowledgePoint": "人体内代谢废物的排出",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=64ee8ca1-9ed9-4e4e-9072-6949206fe4b6&chapterId=b6a6faab-939a-389f-a329-9c9bfd39efbb&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 261,
+    "KnowledgePoint": "神经调节",
+    "RelatedKnowledgePointID": 596,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e8b1eb2f-185a-4562-9f35-da5b06085d81&chapterId=b48e3a74-f0e9-3777-bea6-9a7b45ed6a02&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 262,
+    "KnowledgePoint": "无脊椎动物",
+    "RelatedKnowledgePointID": 434,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=14700ab7-988d-44d1-a27a-ea883c6bbd83&chapterId=0b37440a-f60c-34d9-8bc6-5bbfe13f22b9&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 263,
+    "KnowledgePoint": "脊椎动物",
+    "RelatedKnowledgePointID": 435,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=27d90a44-f858-4a87-9d32-a31e1ba471a3&chapterId=4d04d082-dcfc-336c-8f2f-107313556a72&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 264,
+    "KnowledgePoint": "动物的运动和行为",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ccc7015f-8760-4905-81a5-c89625539bcc&chapterId=22f5b490-7cb2-39b4-b29f-63f001167af9&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 265,
+    "KnowledgePoint": "第四章 细菌和真菌",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=db92d8f9-1f7c-4cc0-b3d4-8b45a05adf6a&chapterId=333389e2-b923-3b52-b649-d2eb37800aba&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 266,
+    "KnowledgePoint": "生物的多样性及其保护",
+    "RelatedKnowledgePointID": 442,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c7c094b9-1898-43e0-9baf-ab11943b7ffb&chapterId=93fd80ce-a016-39e9-8587-f5e66145a485&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 267,
+    "KnowledgePoint": "动物的生殖和发育",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=35201260-c979-43e7-bacf-1ec7918a7e6b&chapterId=b42730fa-6f6f-3edc-af05-473dd1012a26&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 268,
+    "KnowledgePoint": "基因控制生物性状",
+    "RelatedKnowledgePointID": 559,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e3a28e8b-5eb2-40aa-bfc7-6761765f31ca&chapterId=e7f32401-329d-3e40-9362-d2de1a18052f&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 269,
+    "KnowledgePoint": "生物的遗传和变异",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d40004e3-137f-46b7-a163-a0b3a06147d0&chapterId=562fbb95-1c5b-3096-aa78-01aaa378fb6e&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 270,
+    "KnowledgePoint": "传染病和免疫",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=9ff30fce-0e10-4dae-b581-ca0a57dabefd&chapterId=db099e92-8a3c-308c-ae15-62aca645b38f&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 271,
+    "KnowledgePoint": "初中生物学中的结构与功能观",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7ff03094-98a4-4d2c-bcaa-d3fdeb6a69f3&chapterId=14c72e59-0dcb-3c96-a1c0-efa72dd4f5a5&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 272,
+    "KnowledgePoint": "初中生物学中的科学探究",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom?defaultTag=e7bbce2c-0590-11ed-9c79-92fc3b3249d5%2F44bec67a-54e6-11ed-9c34-850ba61fa9f4%2F44bebcde-54e6-11ed-9c34-850ba61fa9f4%2Fff8080814371757b01437c363a187b0a%2Fff8080814371757b014390fcdce504bd"
+  },
+  {
+    "KnowledgePointID": 273,
+    "KnowledgePoint": "扁形动物和线形动物",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://zxx-preview.ykt.eduyun.cn/syncClassroom/classActivity?activityId=b148422a-1e2e-49e5-94fd-251b6c2be22b&chapterId=9653412a-12dc-3232-ae51-0044e7cb58c7&teachingmaterialId=f1c8863f-3221-4676-8fd1-f78b2c0e890e&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 274,
+    "KnowledgePoint": "免疫的功能和计划免疫",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://zxx-preview.ykt.eduyun.cn/syncClassroom/classActivity?activityId=b2e90f21-2695-4cef-9a90-db0ce8eb8c7b&chapterId=684a794a-a382-3ff5-b078-d9c2aaf2ff7b&teachingmaterialId=61920dca-8e52-4a6d-bb9a-ceee1ffc0778&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 275,
+    "KnowledgePoint": "细胞是生命活动的基本单位",
+    "RelatedKnowledgePointID": 528,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5e42fd46-45c3-4cdd-a422-9def468b19a1&chapterId=41755b22-f8b3-391c-995c-84ae84713c79&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 276,
+    "KnowledgePoint": "细胞的多样性和统一性",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=04ed1969-c374-4226-b997-19ae5209875a&chapterId=f52c95f8-f935-3502-a0f7-a69561061231&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 277,
+    "KnowledgePoint": "细胞中的元素和化合物",
+    "RelatedKnowledgePointID": 530,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e224f3dd-4639-4f4d-8c25-b1e26a84398d&chapterId=f02572e3-7737-3229-9b29-2b6627511b9b&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 278,
+    "KnowledgePoint": "细胞中的无机物",
+    "RelatedKnowledgePointID": 532,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f6bcac88-ecc5-4d4b-84f5-88623f3bf218&chapterId=0d95be71-b4f3-39aa-bc60-6cbb82cda973&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 279,
+    "KnowledgePoint": "细胞中的糖类和脂质",
+    "RelatedKnowledgePointID": 534,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=62f23b1e-b2dc-48eb-b013-fc9139db99fe&chapterId=526cad60-bf56-3f61-b6ea-40b675ae2f9e&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 280,
+    "KnowledgePoint": "蛋白质是生命活动的主要承担者",
+    "RelatedKnowledgePointID": 535,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=054ab717-b9f1-4dfc-b355-a1ee3dd6a022&chapterId=8efd3701-e644-3e63-b7c7-4b3f6d33258c&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 281,
+    "KnowledgePoint": "核酸是遗传信息的携带者",
+    "RelatedKnowledgePointID": 536,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=8965edd1-4db1-4229-8d6e-8ca026877fe7&chapterId=a4de0a99-1b46-367f-b044-010b0ca05c60&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 282,
+    "KnowledgePoint": "细胞膜的结构和功能",
+    "RelatedKnowledgePointID": 547,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=589d92f9-5066-4380-953a-7411bb68997e&chapterId=7c0e41dc-a441-34e4-9532-2db6fce2a838&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 283,
+    "KnowledgePoint": "细胞器之间的分工合作",
+    "RelatedKnowledgePointID": 550,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5aa2f262-ced8-42c6-afc5-754445742bf1&chapterId=dbd06d66-ea1b-3065-8bfd-0c906bb94c60&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 284,
+    "KnowledgePoint": "细胞核的结构和功能",
+    "RelatedKnowledgePointID": 540,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7556d5ee-5e0c-4363-97d5-6f540874ebd5&chapterId=646b16da-f855-3384-8f5a-044eff72f2f3&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 285,
+    "KnowledgePoint": "被动运输",
+    "RelatedKnowledgePointID": 548,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=93ec8638-1d4c-405f-9880-531409bb9fe7&chapterId=881e8b25-2b64-3797-9b1f-daa74b28e65d&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 286,
+    "KnowledgePoint": "主动运输与胞吞、胞吐",
+    "RelatedKnowledgePointID": 549,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=68d2bde2-c7f1-4ffc-8535-eff1cb8fbad7&chapterId=bb6f3012-95f9-3170-9247-40bd5b12b730&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 287,
+    "KnowledgePoint": "降低化学反应活化能的酶",
+    "RelatedKnowledgePointID": 551,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a3d6c1b9-ee0e-4d38-adc6-69ebf00ba70e&chapterId=e893352c-28e2-3a94-b143-f945c6a0cb24&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 288,
+    "KnowledgePoint": "细胞的能量“货币”ATP",
+    "RelatedKnowledgePointID": 552,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6052650e-46e9-417f-88ff-91337a059605&chapterId=a7a388db-e7c2-37bc-9fbf-08c369778bb9&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 289,
+    "KnowledgePoint": "细胞呼吸的原理和应用",
+    "RelatedKnowledgePointID": 554,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=db242c2b-b88b-46c8-b08f-5e5c4b4fde3c&chapterId=9262e25e-d670-3819-b8a9-ba147555b2c7&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 290,
+    "KnowledgePoint": "光合作用与能量转化",
+    "RelatedKnowledgePointID": 553,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=893a9bc5-b5e6-4798-8f17-a1490b8216ee&chapterId=ea3812f9-c820-3410-b0fa-a7172c06cfc4&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 291,
+    "KnowledgePoint": "细胞的增殖",
+    "RelatedKnowledgePointID": 556,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=14389172-5288-4602-a752-a6d4bd522e03&chapterId=19286f48-312a-3efc-b2ca-96d0b59d7f08&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 292,
+    "KnowledgePoint": "细胞的分化",
+    "RelatedKnowledgePointID": 557,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0a1de5a8-f86b-4d50-8e12-3d648729589a&chapterId=6dd4c2be-3082-3eec-909c-52efeb7df0de&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 293,
+    "KnowledgePoint": "细胞的衰老和死亡",
+    "RelatedKnowledgePointID": 558,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=185cd5d9-9c8d-4605-8956-5009f0454996&chapterId=99da787f-9768-326e-8332-9b46aac911fc&teachingmaterialId=35801c4f-214a-4f0f-8326-f47e46f326c3&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 294,
+    "KnowledgePoint": "孟德尔的豌豆杂交实验（一）习题课一",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a2bb5709-c2b8-406c-ac1e-9a7937a60837&chapterId=427708cc-6877-3773-b384-1caeb8ba5143&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 295,
+    "KnowledgePoint": "（合格考水平）孟德尔豌豆杂交实验（一）习题课一",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4bcdaacd-c3ba-414f-a17a-99b0536427b4&chapterId=427708cc-6877-3773-b384-1caeb8ba5143&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 296,
+    "KnowledgePoint": "习题课二",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=138f4c1e-2b33-41af-bd13-eccf73369ed7&chapterId=1615e7cb-fc48-3a6e-a713-a1d1c7b0ad62&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 297,
+    "KnowledgePoint": "孟德尔豌豆杂交实验（二）第一课时",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=34bfa711-15c6-4602-a6a6-4bd98d68f858&chapterId=1615e7cb-fc48-3a6e-a713-a1d1c7b0ad62&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 298,
+    "KnowledgePoint": "（合格考水平）习题课二",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=6e5c59ac-6900-4dc3-a4cd-ac937db3b30a&chapterId=1615e7cb-fc48-3a6e-a713-a1d1c7b0ad62&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 299,
+    "KnowledgePoint": "孟德尔的豌豆杂交实验（一）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=02677f14-d877-4340-952e-3ce505b4637f&chapterId=1615e7cb-fc48-3a6e-a713-a1d1c7b0ad62&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 300,
+    "KnowledgePoint": "孟德尔豌豆杂交实验（二）",
+    "RelatedKnowledgePointID": 569,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=570c5f94-b230-47ac-a902-b830756ff4a8&chapterId=1615e7cb-fc48-3a6e-a713-a1d1c7b0ad62&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 301,
+    "KnowledgePoint": "减数分裂和受精作用",
+    "RelatedKnowledgePointID": 567,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4ffda1ea-4d3d-48ce-9ebb-ac78ab2fe2be&chapterId=40907efb-6c50-353b-b2fb-255343523919&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 302,
+    "KnowledgePoint": "基因在染色体上",
+    "RelatedKnowledgePointID": 568,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4ffda1ea-4d3d-48ce-9ebb-ac78ab2fe2be&chapterId=40907efb-6c50-353b-b2fb-255343523919&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 303,
+    "KnowledgePoint": "习题课三",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7eff63bb-1087-4ca2-a502-0b7ec73e7b86&chapterId=88c6b341-c9c6-3aba-82cf-908bc40c573c&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 304,
+    "KnowledgePoint": "伴性遗传",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=73a41ea2-49d0-47ea-8dd6-d6ce59c87964&chapterId=88c6b341-c9c6-3aba-82cf-908bc40c573c&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 305,
+    "KnowledgePoint": "习题课四",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=82d5a452-0f3e-4e99-bcb7-e0951c29c41e&chapterId=88c6b341-c9c6-3aba-82cf-908bc40c573c&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 306,
+    "KnowledgePoint": "第1、2章总结提升",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=479535b1-e6f3-4db2-b7e6-c89d2d010add&chapterId=88c6b341-c9c6-3aba-82cf-908bc40c573c&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 307,
+    "KnowledgePoint": "习题课五",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4393367e-e6d5-47e3-9480-ceb0fc503c19&chapterId=88c6b341-c9c6-3aba-82cf-908bc40c573c&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 308,
+    "KnowledgePoint": "DNA是主要的遗传物质",
+    "RelatedKnowledgePointID": 560,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=72b44531-c640-4f15-954d-76e3e8d9f439&chapterId=cce3e51a-4c2d-37e3-bfd5-c1b8b1d44cb2&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 309,
+    "KnowledgePoint": "DNA的结构",
+    "RelatedKnowledgePointID": 562,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d698a228-2c26-46ef-a45a-1cf5b9abef61&chapterId=8b945c9a-0c4a-3cb9-af43-0907c1a07870&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 310,
+    "KnowledgePoint": "DNA的复制",
+    "RelatedKnowledgePointID": 563,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b3ddc4e1-ba5d-491e-8c1a-5895f80f5819&chapterId=825c86c4-456c-3836-a8fc-57763f0f141c&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 311,
+    "KnowledgePoint": "基因通常是有遗传效应的DNA片段",
+    "RelatedKnowledgePointID": 561,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5148a052-335e-48f8-ae31-59ffde9f72a8&chapterId=a80e72ce-91c8-37cf-9c18-539182d29575&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 312,
+    "KnowledgePoint": "基因指导蛋白质的合成",
+    "RelatedKnowledgePointID": 564,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e243e685-a410-41e2-bd93-7be4ab8d72e8&chapterId=c7a9e63a-967d-3547-81c7-b691e578a2b2&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 313,
+    "KnowledgePoint": "习题课六",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f1b8bd16-ed0d-47e5-9e1a-c9887954304b&chapterId=e2afdeff-c881-349f-aee4-5b8dfaea24fa&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 314,
+    "KnowledgePoint": "习题课七",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d6563571-c848-449d-9a42-34f33ceea36f&chapterId=e2afdeff-c881-349f-aee4-5b8dfaea24fa&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 315,
+    "KnowledgePoint": "基因表达与性状的关系",
+    "RelatedKnowledgePointID": 565,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2459b4e6-96bf-47f4-91b8-6a674eaef80e&chapterId=e2afdeff-c881-349f-aee4-5b8dfaea24fa&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 316,
+    "KnowledgePoint": "基因突变和基因重组",
+    "RelatedKnowledgePointID": 573,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f7096976-db8d-4d24-a05d-25bc4cdc1187&chapterId=a809b738-08c4-3b14-baee-e723a428defc&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 317,
+    "KnowledgePoint": "染色体变异",
+    "RelatedKnowledgePointID": 576,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=376d1dd2-6904-458c-85bc-95e8296889bc&chapterId=29bcba51-2423-35bb-8c91-01fc82a27d32&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 318,
+    "KnowledgePoint": "习题课八",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f64d9293-5803-4abe-b2c6-4cbffc7c02ee&chapterId=777a9998-6ae3-395c-8c0b-f4113d14b8be&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 319,
+    "KnowledgePoint": "人类遗传病",
+    "RelatedKnowledgePointID": 577,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=9a237ea3-0598-402e-9926-7d04c2816dd1&chapterId=777a9998-6ae3-395c-8c0b-f4113d14b8be&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 320,
+    "KnowledgePoint": "习题课九",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=78b15e6a-6662-4d01-b689-b0bab772db1c&chapterId=777a9998-6ae3-395c-8c0b-f4113d14b8be&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 321,
+    "KnowledgePoint": "生物有共同祖先的证据",
+    "RelatedKnowledgePointID": 579,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2860e37c-407f-4da6-97fb-6358c5b88f5f&chapterId=a981e433-af16-3f4d-80fc-084b9e4bc0ab&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 322,
+    "KnowledgePoint": "自然选择与适应的形成",
+    "RelatedKnowledgePointID": 585,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c028ae7b-be8a-4e1a-928c-d5ab71cfcceb&chapterId=6e6e24d0-f10a-370e-8aef-facc6b347676&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 323,
+    "KnowledgePoint": "种群基因组成的变化与物种的形成",
+    "RelatedKnowledgePointID": 587,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f365c137-da36-4c94-82cd-8a6cffc199bb&chapterId=74cf1a37-5ece-3050-8068-7d3abf799dcb&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 324,
+    "KnowledgePoint": "协同进化与生物多样性的形成",
+    "RelatedKnowledgePointID": 586,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b28879dd-f709-421c-8448-ab8f47e4f5a1&chapterId=a0408053-2268-3459-9c28-4fde634e04e6&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 325,
+    "KnowledgePoint": "高一的你应该了解的2019—nCOV",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7c1bf824-586c-4945-98b9-c06ab39099c8&chapterId=cc23a934-b4c3-3e61-9587-d42df4cd8259&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 326,
+    "KnowledgePoint": "（合格考水平）高一的你应该了解的2019—nCOV",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7738c463-e43e-44aa-9366-87ad78df731a&chapterId=8f449aca-789a-357f-b614-bfafbf73a81c&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 327,
+    "KnowledgePoint": "遗传定律与伴性遗传专题",
+    "RelatedKnowledgePointID": 575,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=49c39a08-340c-4bf3-9aa2-0a5057c7d64a&chapterId=7b599f2a-a74c-321b-885c-9123a21296a3&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 328,
+    "KnowledgePoint": "基因的本质及表达专题",
+    "RelatedKnowledgePointID": 516,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=293f0759-fa5c-454f-abb4-060c4098b8fe&chapterId=639826a6-2d96-31e8-a106-cd8f55096b1b&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 329,
+    "KnowledgePoint": "细胞分裂与变异专题",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=69c68c0f-606e-4b51-bf2c-6a803776b7aa&chapterId=685148ac-f0f9-3615-b7a3-9a5a52ae80d8&teachingmaterialId=75867dfe-5c7f-4dac-b594-fe1e858e3e5d&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 330,
+    "KnowledgePoint": "细胞生活的环境",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a7b66355-f2f3-49eb-a606-e79c068e5fb2&chapterId=9ce5de4b-e925-3873-b230-bc66fd13d306&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 331,
+    "KnowledgePoint": "内环境的稳态",
+    "RelatedKnowledgePointID": 595,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=83191dd6-067e-4a37-af24-20ca0ece1a92&chapterId=39a8a13b-0b18-369c-969e-1ae0dabe1dc6&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 332,
+    "KnowledgePoint": "神经调节的结构基础",
+    "RelatedKnowledgePointID": 597,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c248bc06-626e-46af-b1b1-fb9c6ab89112&chapterId=8d999589-2020-306f-95f9-d9e4a3d9a674&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 333,
+    "KnowledgePoint": "神经冲动的产生和传导",
+    "RelatedKnowledgePointID": 599,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0b11f319-dfc1-4061-ba29-e4238e0d84d7&chapterId=707854a1-78ea-3aac-9439-7becd610b153&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 334,
+    "KnowledgePoint": "神经系统的分级调节",
+    "RelatedKnowledgePointID": 601,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7c9cf9ee-e4d4-4e48-ad17-e69975fb5ce8&chapterId=f2ec1c6a-12b1-340f-819f-e08491a5165f&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 335,
+    "KnowledgePoint": "人脑的高级功能",
+    "RelatedKnowledgePointID": 602,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d76fcf07-a15b-4294-b451-6a25e81ae722&chapterId=a67a52f4-6d45-31c2-9924-bf3a66c77dc6&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 336,
+    "KnowledgePoint": "激素与内分泌系统",
+    "RelatedKnowledgePointID": 604,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=dffb1c4f-9de2-46f0-80a5-4e0ff6c7806a&chapterId=00d21880-3496-3643-8a61-1fc0494a718a&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 337,
+    "KnowledgePoint": "激素调节的过程",
+    "RelatedKnowledgePointID": 605,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=34d35062-c330-4777-93ac-d0a1b12bf95d&chapterId=3f6fd6e7-f46c-34fa-83f7-db37d23cc71e&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 338,
+    "KnowledgePoint": "体液调节与神经调节的关系",
+    "RelatedKnowledgePointID": 607,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e52fd777-8f40-4868-a008-a5119909a455&chapterId=45c85533-ac70-3bfd-b91b-408ac0c587d3&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 339,
+    "KnowledgePoint": "免疫系统的组成和功能",
+    "RelatedKnowledgePointID": 609,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ae550050-cbda-4f9b-82f6-6207698c632e&chapterId=a0e7ab4b-4a3c-3e8b-baee-38d0e02a20d9&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 340,
+    "KnowledgePoint": "新型冠状病毒的免疫和预防",
+    "RelatedKnowledgePointID": 505,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=96c0c5fb-0b21-4850-a7e1-cba60cb3b02a&chapterId=cb219413-2f3f-3279-9589-9c3f042dc802&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 341,
+    "KnowledgePoint": "特异性免疫",
+    "RelatedKnowledgePointID": 611,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0e62e146-5aed-4572-b626-b19d3ff58687&chapterId=cb219413-2f3f-3279-9589-9c3f042dc802&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 342,
+    "KnowledgePoint": "免疫失调",
+    "RelatedKnowledgePointID": 612,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=5beb678f-601e-4b46-988f-633a5080f73d&chapterId=75894fa2-a166-3b3e-bc6b-084153c4a8db&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 343,
+    "KnowledgePoint": "免疫学的应用",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c1b711ba-40fa-4c94-a2be-f1d39ce948cf&chapterId=a7967aaf-2765-329e-9f7c-d0f73c0046e1&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 344,
+    "KnowledgePoint": "植物生长素",
+    "RelatedKnowledgePointID": 614,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=bc795992-0467-4d9a-a92b-8777817ccabe&chapterId=d6b20eda-9d2d-30ed-87eb-d23647715cf1&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 345,
+    "KnowledgePoint": "其他植物激素",
+    "RelatedKnowledgePointID": 615,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a7588efd-3703-43d9-a2c2-08ad9bdce3cf&chapterId=61625add-e85b-3b8d-b463-ac5170ba80c3&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 346,
+    "KnowledgePoint": "植物生长调节剂的应用",
+    "RelatedKnowledgePointID": 616,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=de21465f-05b0-4a2f-8eca-f4be4ba56129&chapterId=9108ab39-d32c-375c-bb8d-4669957d498a&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 347,
+    "KnowledgePoint": "环境因素参与调节植物的生命活动",
+    "RelatedKnowledgePointID": 617,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=cbed2874-2495-4dfa-9336-9b9340f89323&chapterId=fe63e222-5169-3085-9a1e-89dc2bbc8686&teachingmaterialId=352fef83-573f-45d0-94f3-2ce725776395&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 348,
+    "KnowledgePoint": "种群的数量特征",
+    "RelatedKnowledgePointID": 620,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=97fa8a4b-0e31-490e-bee1-b28b5ceb5f06&chapterId=1778efa2-e4ba-3d20-920d-98e49594dd06&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 349,
+    "KnowledgePoint": "种群数量的变化",
+    "RelatedKnowledgePointID": 621,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c430442e-72fe-4546-a9c2-6bb10763a00a&chapterId=73f7596b-0acc-3355-b4b0-1d29a1112fe1&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 350,
+    "KnowledgePoint": "影响种群数量变化的因素",
+    "RelatedKnowledgePointID": 622,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=9b189379-958e-4655-a908-cc9e20abc0ae&chapterId=976195fc-b5ec-39e2-a5f9-4f4af4fc033d&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 351,
+    "KnowledgePoint": "群落的结构",
+    "RelatedKnowledgePointID": 623,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d2940278-00cf-4484-acb3-ab4950c24e4d&chapterId=8ab70b68-deeb-3da1-b0ba-ff002608c5a5&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 352,
+    "KnowledgePoint": "群落的主要类型",
+    "RelatedKnowledgePointID": 625,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=60683d8a-591e-4d44-8dd4-f30b9bedb080&chapterId=a5a26122-24df-3e70-b4d9-796883454c16&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 353,
+    "KnowledgePoint": "群落的演替",
+    "RelatedKnowledgePointID": 624,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e8cefddb-117b-44f0-960f-4734858fdd41&chapterId=fae6904d-fee5-35df-b9bc-9ee1549681a5&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 354,
+    "KnowledgePoint": "生态系统的结构",
+    "RelatedKnowledgePointID": 634,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c59686b6-4aa5-49ac-b61c-d41b47cf15fc&chapterId=f7396f02-a9b5-3838-a592-63f7e6406953&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 355,
+    "KnowledgePoint": "生态系统的能量流动",
+    "RelatedKnowledgePointID": 626,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=43648b59-1e39-43f9-8f2e-0d438fcabd41&chapterId=5fa9c5d8-dbc1-3db6-adc4-fd8d6e6f939f&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 356,
+    "KnowledgePoint": "生态系统的物质循环",
+    "RelatedKnowledgePointID": 629,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=69ff46a9-28c8-4f17-a77d-74807fde10e6&chapterId=4b4be26c-f0ac-3f48-a47c-e92691de7e12&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 357,
+    "KnowledgePoint": "生态系统的信息传递",
+    "RelatedKnowledgePointID": 633,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=1cea3614-192c-4c01-9910-88583438edf8&chapterId=a6aad234-f233-3b79-acb1-f085e8217dfc&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 358,
+    "KnowledgePoint": "生态系统的稳定性",
+    "RelatedKnowledgePointID": 638,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=aefea1a3-ad64-44a8-97af-8f8f24c8e69a&chapterId=f5a79803-8b50-3a31-b8cf-f69db455c391&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 359,
+    "KnowledgePoint": "生态工程的基本原理",
+    "RelatedKnowledgePointID": 630,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d3aeb649-ae72-4d6f-852b-935bd2324622&chapterId=4eb8c79e-5df6-3562-b8f0-b6c9fa118b16&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 360,
+    "KnowledgePoint": "生态工程的实例和发展前景",
+    "RelatedKnowledgePointID": 643,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=71678a8d-0c32-44c1-a77e-5add5d262630&chapterId=911cae67-1868-3be1-90f9-f99d660fa6b7&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 361,
+    "KnowledgePoint": "生态工程习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=96268421-1743-41d0-902b-a710ad2e2ecf&chapterId=911cae67-1868-3be1-90f9-f99d660fa6b7&teachingmaterialId=8921e92e-3963-4230-b638-924d7954afbe&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 362,
+    "KnowledgePoint": "果酒和果醋的制作",
+    "RelatedKnowledgePointID": 654,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b56d912b-36f8-45e3-aa12-4772d148092d&chapterId=ff07905e-28a3-3a47-9887-1ffed4722b8b&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 363,
+    "KnowledgePoint": "腐乳的制作",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=77037521-29db-4cfb-8a0e-7b5e94acefd6&chapterId=ff07905e-28a3-3a47-9887-1ffed4722b8b&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 364,
+    "KnowledgePoint": "制作泡菜并检测亚硝酸盐含量",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=76319582-6b57-4a37-9c81-c2fffbde1d3d&chapterId=ff07905e-28a3-3a47-9887-1ffed4722b8b&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 365,
+    "KnowledgePoint": "传统发酵技术的应用习题课",
+    "RelatedKnowledgePointID": 655,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4c9372ff-8fdc-45d6-9bce-2e66bacec903&chapterId=ff07905e-28a3-3a47-9887-1ffed4722b8b&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 366,
+    "KnowledgePoint": "微生物的实验室培养",
+    "RelatedKnowledgePointID": 649,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0f8845ad-b138-471e-a4dc-91805ad5f08c&chapterId=aa431d3e-77bf-30a5-bd55-fcc9311b30d4&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 367,
+    "KnowledgePoint": "土壤中分解尿素的细菌的分离与计数",
+    "RelatedKnowledgePointID": 650,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=1909e965-c883-4a7a-b1e0-422d60e0e9af&chapterId=b749b122-737c-37b7-936c-57e85873a443&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 368,
+    "KnowledgePoint": "分解纤维素的微生物的分离",
+    "RelatedKnowledgePointID": 651,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0a790ef3-9888-4e68-90d6-eed63a6dd648&chapterId=b749b122-737c-37b7-936c-57e85873a443&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 369,
+    "KnowledgePoint": "微生物的培养与应用习题课",
+    "RelatedKnowledgePointID": 645,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7589dacb-63de-406c-b732-394e499537e5&chapterId=c993198c-7a5a-39ac-87f3-b6d400d030df&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 370,
+    "KnowledgePoint": "植物组织培养技术",
+    "RelatedKnowledgePointID": 658,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=186ec9ac-aafb-4eca-a289-ec4b8d4b48c5&chapterId=292a3e7e-ecac-37e4-80d0-21d4decdaf6b&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 371,
+    "KnowledgePoint": "植物体细胞杂交技术",
+    "RelatedKnowledgePointID": 659,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c2a5dc08-227d-48ce-a6a4-7b589428bbed&chapterId=292a3e7e-ecac-37e4-80d0-21d4decdaf6b&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 372,
+    "KnowledgePoint": "植物细胞工程的实际应用",
+    "RelatedKnowledgePointID": 660,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3f752e70-22c8-4f1f-a3b8-977303743644&chapterId=57c46c72-24af-3767-b77c-6e9982082c66&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 373,
+    "KnowledgePoint": "动物细胞培养",
+    "RelatedKnowledgePointID": 662,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=41d0dac8-3b2a-49cf-bf25-6cd98836d17d&chapterId=11b3dc65-f7d3-3d78-b856-44896d707bf4&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 374,
+    "KnowledgePoint": "动物细胞融合与单克隆抗体",
+    "RelatedKnowledgePointID": 665,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e2a24c4c-2b20-4c89-8dfc-4249cd4ef0e9&chapterId=c536ad20-5b15-3313-ac98-5082e13628d6&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 375,
+    "KnowledgePoint": "核移植技术和克隆动物",
+    "RelatedKnowledgePointID": 683,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=220ab57c-f9e9-479b-b9b5-db30a67a63c8&chapterId=38b8e2e6-340b-3ad5-ba23-2b6ae853c149&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 376,
+    "KnowledgePoint": "细胞工程习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a52ed21f-b8cd-4033-b059-bbe6e854eb55&chapterId=38b8e2e6-340b-3ad5-ba23-2b6ae853c149&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 377,
+    "KnowledgePoint": "胚胎工程的概念与精子、卵子的发生",
+    "RelatedKnowledgePointID": 669,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b12596af-b299-48f9-8c7a-687a8b23ab9c&chapterId=6988779e-2d46-3a33-ae7b-9ef6726f0a8c&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 378,
+    "KnowledgePoint": "受精和胚胎发育",
+    "RelatedKnowledgePointID": 668,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3c9bb227-bfe3-4d77-88dd-18594aff155b&chapterId=6988779e-2d46-3a33-ae7b-9ef6726f0a8c&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 379,
+    "KnowledgePoint": "试管动物技术与体外受精",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f5bc0737-f0da-49b0-bd60-85a4483762cd&chapterId=e704b0ae-2cec-351b-9929-c8b732811af6&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 380,
+    "KnowledgePoint": "试管动物技术与胚胎的早期培养",
+    "RelatedKnowledgePointID": 667,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ac68737f-7eeb-44a8-8034-7045cebff696&chapterId=e704b0ae-2cec-351b-9929-c8b732811af6&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 381,
+    "KnowledgePoint": "胚胎移植",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=71ab5c5d-cfd9-4c67-bc29-17b6244ae11e&chapterId=e704b0ae-2cec-351b-9929-c8b732811af6&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 382,
+    "KnowledgePoint": "胚胎分割和胚胎干细胞",
+    "RelatedKnowledgePointID": 666,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=294659e9-e908-460f-a1b7-1faa71ed920f&chapterId=e704b0ae-2cec-351b-9929-c8b732811af6&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 383,
+    "KnowledgePoint": "胚胎工程习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=0230cf01-d23b-4f18-b0d1-10324badd4f9&chapterId=e704b0ae-2cec-351b-9929-c8b732811af6&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 384,
+    "KnowledgePoint": "DNA重组技术的基本工具",
+    "RelatedKnowledgePointID": 673,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=8dd93051-5d25-4b49-8cd4-66395e62980b&chapterId=56ecccb4-e35c-362a-81da-72d88d6f5eec&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 385,
+    "KnowledgePoint": "基因工程的基本操作程序",
+    "RelatedKnowledgePointID": 674,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=14bd2d6c-31b7-430f-8013-8a3dce73349d&chapterId=7d16c981-e5f1-3c79-ab53-9c53042d47d3&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 386,
+    "KnowledgePoint": "基因工程的应用1（植物）",
+    "RelatedKnowledgePointID": 675,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c5d5d08e-3ee3-45c4-bed2-a045a8ec8478&chapterId=642b577f-6321-3c45-a1fc-157930f818f5&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 387,
+    "KnowledgePoint": "基因工程的应用2（动物）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=239b78f7-f322-4db7-8a71-a8615f0c7859&chapterId=642b577f-6321-3c45-a1fc-157930f818f5&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 388,
+    "KnowledgePoint": "基因工程习题课1",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=dc5d2b57-9a3b-4b3b-8beb-980c0d647a27&chapterId=cc0823f3-b825-3c26-963e-e5784003d91f&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 389,
+    "KnowledgePoint": "蛋白质工程的崛起",
+    "RelatedKnowledgePointID": 678,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=686155a1-383d-4c2e-ad51-29a4d0649e36&chapterId=cc0823f3-b825-3c26-963e-e5784003d91f&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 390,
+    "KnowledgePoint": "基因工程习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=b59bbadc-916e-4a76-91d4-1cb6592bfe58&chapterId=cc0823f3-b825-3c26-963e-e5784003d91f&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_2"
+  },
+  {
+    "KnowledgePointID": 391,
+    "KnowledgePoint": "转基因产品的安全性",
+    "RelatedKnowledgePointID": 681,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f5b37a7b-a76c-451d-9452-e8bb8f9bacda&chapterId=2c50dfdc-b346-33c9-b979-0b1f64ae752d&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 392,
+    "KnowledgePoint": "关注生物技术的伦理问题",
+    "RelatedKnowledgePointID": 684,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e54e56df-adb5-43e9-bdf1-74885159b78c&chapterId=4bec864a-e2c6-3e60-a5d7-e7679b519039&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 393,
+    "KnowledgePoint": "禁止生物武器",
+    "RelatedKnowledgePointID": 688,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=57c161ca-6573-4f0a-9279-bc4d0c92231e&chapterId=ca6b63ab-b42a-3135-9766-d604368bda6f&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 394,
+    "KnowledgePoint": "生物技术的安全性和伦理问题习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ac31f90e-9c41-45a8-8508-8342c38e9c3b&chapterId=ca6b63ab-b42a-3135-9766-d604368bda6f&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 395,
+    "KnowledgePoint": "生物技术与工程综合提升",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=c4fd5e2c-9089-43cb-a715-acf7538b5e2c&chapterId=ca6b63ab-b42a-3135-9766-d604368bda6f&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 396,
+    "KnowledgePoint": "细胞的物质基础",
+    "RelatedKnowledgePointID": 529,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a2e5e03c-16ec-41b5-9bc0-14842898e8e8&chapterId=74529bdb-8e41-3439-a6f6-19317c58b1c6&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 397,
+    "KnowledgePoint": "细胞的结构和功能",
+    "RelatedKnowledgePointID": 544,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=a0d33df2-b8ca-4936-96e5-5e23a48e9b58&chapterId=d8c5ef98-00c6-3c8f-92c0-969341da34e7&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 398,
+    "KnowledgePoint": "细胞的物质运输",
+    "RelatedKnowledgePointID": 546,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=02df825d-de03-459e-803e-5bfe3821abca&chapterId=ee473e0f-5f10-3c46-97a1-67c772ab4241&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 399,
+    "KnowledgePoint": "酶专题",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=484380f4-25cb-46c2-b1b5-163a03ec9259&chapterId=2960da36-c06a-34a2-bf93-17f35af7a6be&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 400,
+    "KnowledgePoint": "细胞分化、衰老、死亡和植物细胞工程",
+    "RelatedKnowledgePointID": 555,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=4ee7436a-998e-43ac-9600-d57da6b66bd4&chapterId=910314c8-111e-3ea3-9d9b-7bd2885f0b85&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 401,
+    "KnowledgePoint": "细胞增殖、癌变和动物细胞培养",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=ba6c07f0-07ca-4ca4-b7b2-c4bfec6d7b25&chapterId=d05a78e0-48be-3631-b9dc-fb7085a9c825&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 402,
+    "KnowledgePoint": "单克隆抗体和免疫",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f40cc64d-e73e-49c8-8ef0-ed07d19c5722&chapterId=123f0323-34dd-30a9-ba1b-401a85787527&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 403,
+    "KnowledgePoint": "细胞的物质基础和结构基础习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=87936b96-35a7-4f6e-ab0c-765236ee2085&chapterId=6568310c-ab13-3a60-8040-887ed90dafd9&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 404,
+    "KnowledgePoint": "细胞的物质运输和酶专题习题课",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=252beb59-4a89-4150-9c68-1ec9b379d17d&chapterId=f4397b76-0d26-3d9a-b02d-f8a5e06339da&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0"
+  },
+  {
+    "KnowledgePointID": 405,
+    "KnowledgePoint": "细胞与细胞工程习题课",
+    "RelatedKnowledgePointID": 656,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=7c753089-b846-4033-8bb9-5573a358f07d&chapterId=31ae5cc1-3985-3d63-80e6-b70efcd28ac0&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 406,
+    "KnowledgePoint": "生物学核心素养中的科学探究（上）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=481c1675-3d86-4dcb-a22a-19dab581939b&chapterId=a515ab81-1f9c-3b68-925f-e04f64c399d5&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 407,
+    "KnowledgePoint": "生物学核心素养中的科学探究（中）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e539ab40-a533-4365-abb9-f407a1682a74&chapterId=9f5b1df6-379f-3f6d-9a02-eaea3cd2ba16&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 408,
+    "KnowledgePoint": "生物学核心素养中的科学探究（下）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=3a65fda9-f9de-472c-b76c-0d9122ebc954&chapterId=6ebff851-9e28-3393-b5cc-9e8f7c208b78&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 409,
+    "KnowledgePoint": "高考生物复习（一）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d2a5cf70-b865-4a19-a8e7-fe5728a371de&chapterId=b7fa6aa7-fcbe-3c42-b92b-c250c0592941&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 410,
+    "KnowledgePoint": "高考生物复习（二）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=21192edc-8e19-4c6a-9536-5097ee1aa401&chapterId=85c99fb2-b1a8-3a05-afbf-0e7c33bd12fe&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 411,
+    "KnowledgePoint": "高考生物复习（三）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d372467c-7a97-46fb-9413-fb018a423072&chapterId=697055dc-3542-3b0f-8f3f-20e0c48c6e21&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 412,
+    "KnowledgePoint": "高考生物复习（四）—— 生物学核心素养中的生命观念（2）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=de44b9b6-005e-4f83-a336-9cd38105670f&chapterId=7315edf2-a65c-3525-bbe4-232700a1b0a9&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 413,
+    "KnowledgePoint": "生物学核心素养中的科学思维（1）",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=42770532-cb7d-458f-b4c9-13cac2e7431d&chapterId=c2e39351-e369-3a52-8e52-61557f124713&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 414,
+    "KnowledgePoint": "生物学核心素养中的生命观念（3）",
+    "RelatedKnowledgePointID": 581,
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=f5a55d58-0361-457a-8066-6cccd8a19c8a&chapterId=7a2cd787-9044-3fc0-9e88-658554314714&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 415,
+    "KnowledgePoint": "科学方法提高复习效率",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d5301c70-58a2-4fc8-87c6-23746b01bad9&chapterId=18f350a8-c60b-3e39-adf8-1cc0fe22952a&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 416,
+    "KnowledgePoint": "领会学科思想和掌握学科方法",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=d5e7fed9-1929-4c68-8488-8e1f39fb20a2&chapterId=d8888a9d-f77d-3553-a427-d27e8142c553&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 417,
+    "KnowledgePoint": "生物学中的内环境稳态及其调节机制",
+    "RelatedKnowledgePointID": [],
+    "ExerciseURL": "https://basic.smartedu.cn/syncClassroom/classActivity?activityId=2f65dc61-d30a-4678-ab26-e7c607ffa3dd&chapterId=6e997922-0dfb-3330-b737-6f35baf1aa5c&teachingmaterialId=020c9b9c-e695-4afb-b615-99d02f1f3cf4&fromPrepare=0&classHourId=lesson_1"
+  },
+  {
+    "KnowledgePointID": 418,
+    "KnowledgePoint": "细胞是生物体结构和功能的基本单位",
+    "RelatedKnowledgePointID": 275,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 419,
+    "KnowledgePoint": "一些生物由单细胞构成，一些生物由多细胞组成",
+    "RelatedKnowledgePointID": 249,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 420,
+    "KnowledgePoint": "动物细胞、植物细胞都具有细胞膜、细胞质、细胞核等结构",
+    "RelatedKnowledgePointID": 397,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 421,
+    "KnowledgePoint": "植物细胞具有不同于动物细胞的结构，如叶绿体和细胞壁",
+    "RelatedKnowledgePointID": 169,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 422,
+    "KnowledgePoint": "细胞不同结构的功能各不相同，共同完成细胞的各项生命活动",
+    "RelatedKnowledgePointID": 283,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 423,
+    "KnowledgePoint": "细胞核是遗传信息库",
+    "RelatedKnowledgePointID": 284,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 424,
+    "KnowledgePoint": "生物体的各部分在结构上相互联系，在功能上相互配合，共同完成各项生命活动",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 425,
+    "KnowledgePoint": "细胞能通过分裂和分化形成不同的组织",
+    "RelatedKnowledgePointID": 250,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 426,
+    "KnowledgePoint": "绿色开花植物体的结构层次包括细胞、组织、器官和个体，高等动物体的结构层次包括细胞、组织、器官、系统和个体",
+    "RelatedKnowledgePointID": 251,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 427,
+    "KnowledgePoint": "生物体在结构和功能上是一个统一的整体",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 428,
+    "KnowledgePoint": "对生物进行科学分类需要以生物的特征为依据",
+    "RelatedKnowledgePointID": 163,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 429,
+    "KnowledgePoint": "根据生物之间的相似程度将生物划分为界、门、纲、目、科、属、种等分类等级",
+    "RelatedKnowledgePointID": 225,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 430,
+    "KnowledgePoint": "种是最基本的生物分类单位",
+    "RelatedKnowledgePointID": 224,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 431,
+    "KnowledgePoint": "根据生物的形态结构、生理功能以及繁殖方式等，可以将生物分为不同的类群",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 432,
+    "KnowledgePoint": "藻类是能够进行光合作用的结构简单的生物",
+    "RelatedKnowledgePointID": 176,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 433,
+    "KnowledgePoint": "从苔藓植物、蕨类植物，到种子植物，逐渐出现根、茎、叶等器官的分化，植物繁殖过程逐渐摆脱了对水环境的依赖",
+    "RelatedKnowledgePointID": 177,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 434,
+    "KnowledgePoint": "无脊椎动物与人类关系密切，如线虫动物（蛔虫）、环节动物（蚯蚓）、节肢动物（蝗虫、蜜蜂）等",
+    "RelatedKnowledgePointID": 262,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 435,
+    "KnowledgePoint": "脊椎动物（鱼类、两栖类、爬行类、鸟类、哺乳类）都具有适应其生活方式和环境的主要特征",
+    "RelatedKnowledgePointID": 263,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 436,
+    "KnowledgePoint": "动植物类群可能对人类生活产生积极的或负面的影响",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 437,
+    "KnowledgePoint": "微生物一般是指个体微小、结构简单的生物，主要包括病毒、细菌和真菌",
+    "RelatedKnowledgePointID": 218,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 438,
+    "KnowledgePoint": "病毒无细胞结构，需要在活细胞内完成增殖",
+    "RelatedKnowledgePointID": 223,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 439,
+    "KnowledgePoint": "细菌是单细胞生物，无成形的细胞核",
+    "RelatedKnowledgePointID": 219,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 440,
+    "KnowledgePoint": "真菌是单细胞或多细胞生物，有成形的细胞核",
+    "RelatedKnowledgePointID": 220,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 441,
+    "KnowledgePoint": "有些微生物会使人患病，有些微生物在食品生产、医药工业等方面得到广泛应用",
+    "RelatedKnowledgePointID": 222,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 442,
+    "KnowledgePoint": "我国拥有丰富的动植物资源，保护生物的多样性是每个人应有的责任",
+    "RelatedKnowledgePointID": 266,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 443,
+    "KnowledgePoint": "我国拥有大熊猫、朱鹮、江豚、银杉、珙桐等珍稀动植物资源",
+    "RelatedKnowledgePointID": 227,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 444,
+    "KnowledgePoint": "可通过就地保护、迁地保护等多种方式保护生物资源；有关野生动植物资源保护的法律法规是保护生物资源的基本遵循",
+    "RelatedKnowledgePointID": 227,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 445,
+    "KnowledgePoint": "外来物种入侵会与本地的物种竞争空间、营养等资源，进而威胁生态安全",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 446,
+    "KnowledgePoint": "生态系统中的生物与非生物环境相互作用，实现了物质循环和能量流动",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 447,
+    "KnowledgePoint": "水、温度、空气、光等是生物生存的环境条件",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 448,
+    "KnowledgePoint": "生态因素能够影响生物的生活和分布，生物能够适应和影响环境",
+    "RelatedKnowledgePointID": 246,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 449,
+    "KnowledgePoint": "生态系统是由生产者、消费者、分解者与非生物环境构成的有机整体",
+    "RelatedKnowledgePointID": 354,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 450,
+    "KnowledgePoint": "生态系统中不同生物之间通过捕食关系形成了食物链和食物网",
+    "RelatedKnowledgePointID": 357,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 451,
+    "KnowledgePoint": "生态系统中的物质和能量通过食物链在生物之间传递",
+    "RelatedKnowledgePointID": 356,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 452,
+    "KnowledgePoint": "生物圈是包含多种类型生态系统的最大生态系统",
+    "RelatedKnowledgePointID": 167,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 453,
+    "KnowledgePoint": "生态系统的自我调节能力有一定限度，保护生物圈就是保护生态安全",
+    "RelatedKnowledgePointID": 358,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 454,
+    "KnowledgePoint": "生态系统具有一定的自我调节能力",
+    "RelatedKnowledgePointID": 358,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 455,
+    "KnowledgePoint": "人类活动可能对生态环境产生影响，可以通过防止环境污染、合理利用自然资源等措施保障生态安全",
+    "RelatedKnowledgePointID": 204,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 456,
+    "KnowledgePoint": "绿色开花植物的生命周期包括种子萌发、生长、开花、结果与死亡等阶段",
+    "RelatedKnowledgePointID": 178,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 457,
+    "KnowledgePoint": "种子包括种皮和胚等结构",
+    "RelatedKnowledgePointID": 252,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 458,
+    "KnowledgePoint": "种子萌发需要完整、有活力的胚，需要充足的空气、适宜的温度、适量的水等环境条件",
+    "RelatedKnowledgePointID": 178,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 459,
+    "KnowledgePoint": "根的生长主要包括根尖分生区细胞的分裂和伸长区细胞的生长",
+    "RelatedKnowledgePointID": 179,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 460,
+    "KnowledgePoint": "叶芽通过细胞的分裂和分化发育成茎和叶",
+    "RelatedKnowledgePointID": 250,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 461,
+    "KnowledgePoint": "花中最重要的结构是雄蕊和雌蕊，雄蕊产生的精子与雌蕊产生的卵细胞相结合形成受精卵，花经过传粉和受精后形成果实和种子",
+    "RelatedKnowledgePointID": 253,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 462,
+    "KnowledgePoint": "植物可以通过扦插、嫁接、组织培养等无性生殖的方式繁殖后代",
+    "RelatedKnowledgePointID": 370,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 463,
+    "KnowledgePoint": "植物通过吸收、运输和蒸腾作用等生理活动，获取养分，进行物质运输，参与生物圈中的水循环",
+    "RelatedKnowledgePointID": 181,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 464,
+    "KnowledgePoint": "植物根部吸收生活所需的水和无机盐，通过导管向上运输，供植物利用，其中大部分水通过蒸腾作用散失",
+    "RelatedKnowledgePointID": 254,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 465,
+    "KnowledgePoint": "叶片产生的有机物通过筛管运输，供植物其他器官利用",
+    "RelatedKnowledgePointID": 255,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 466,
+    "KnowledgePoint": "植物通过对水的吸收和散失参与生物圈中的水循环",
+    "RelatedKnowledgePointID": 181,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 467,
+    "KnowledgePoint": "植物通过光合作用和呼吸作用获得生命活动必需的物质和能量，有助于维持生物圈中的碳氧平衡",
+    "RelatedKnowledgePointID": 181,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 468,
+    "KnowledgePoint": "植物能利用太阳能（光能），将二氧化碳和水合成为贮存了能量的有机物，同时释放氧气",
+    "RelatedKnowledgePointID": 290,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 469,
+    "KnowledgePoint": "细胞能通过分解糖类获得生命活动所需的能量，同时生成二氧化碳和水",
+    "RelatedKnowledgePointID": 289,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 470,
+    "KnowledgePoint": "光合作用和呼吸作用原理在生产生活中有广泛的应用",
+    "RelatedKnowledgePointID": 290,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 471,
+    "KnowledgePoint": "植物可以为生物圈中的其他生物提供有机物和氧气",
+    "RelatedKnowledgePointID": 182,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 472,
+    "KnowledgePoint": "植物在维持生物圈中碳氧平衡方面具有重要作用",
+    "RelatedKnowledgePointID": 181,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 473,
+    "KnowledgePoint": "人体通过消化系统从外界获取生命活动所需的营养物质",
+    "RelatedKnowledgePointID": 191,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 474,
+    "KnowledgePoint": "水、无机盐、糖类、蛋白质、脂质和维生素是人体生命活动所需的主要营养物质",
+    "RelatedKnowledgePointID": 190,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 475,
+    "KnowledgePoint": "消化系统由消化道和消化腺组成",
+    "RelatedKnowledgePointID": 257,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 476,
+    "KnowledgePoint": "消化系统能够将食物消化，并通过吸收将营养物质转运到血液中",
+    "RelatedKnowledgePointID": 191,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 477,
+    "KnowledgePoint": "不合理的饮食习惯和饮食结构可能导致营养不良或肥胖",
+    "RelatedKnowledgePointID": 192,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 478,
+    "KnowledgePoint": "食品安全对人体健康至关重要，良好的饮食、卫生等习惯对人体健康有积极的影响",
+    "RelatedKnowledgePointID": 192,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 479,
+    "KnowledgePoint": "人体通过循环系统进行体内的物质运输",
+    "RelatedKnowledgePointID": 258,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 480,
+    "KnowledgePoint": "血液循环系统包括心脏、血管和血液",
+    "RelatedKnowledgePointID": 258,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 481,
+    "KnowledgePoint": "血液循环包括体循环和肺循环，其功能是运输氧气、二氧化碳、营养物质、代谢废物和激素等物质",
+    "RelatedKnowledgePointID": 259,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 482,
+    "KnowledgePoint": "人体通过呼吸系统与外界进行气体交换",
+    "RelatedKnowledgePointID": 257,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 483,
+    "KnowledgePoint": "呼吸系统由呼吸道和肺构成，其主要功能是从大气中摄取代谢所需要的氧气，排出代谢产生的二氧化碳",
+    "RelatedKnowledgePointID": 194,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 484,
+    "KnowledgePoint": "呼吸运动可以实现肺与外界的气体交换",
+    "RelatedKnowledgePointID": 194,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 485,
+    "KnowledgePoint": "肺泡与周围毛细血管内的血液、毛细血管内的血液与组织细胞进行气体交换",
+    "RelatedKnowledgePointID": 194,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 486,
+    "KnowledgePoint": "人体主要通过泌尿系统排出代谢废物和多余的水",
+    "RelatedKnowledgePointID": 199,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 487,
+    "KnowledgePoint": "泌尿系统包括肾脏、输尿管、膀胱和尿道等结构",
+    "RelatedKnowledgePointID": 199,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 488,
+    "KnowledgePoint": "血液经过肾小球和肾小囊的滤过作用及肾小管的重吸收作用形成尿液",
+    "RelatedKnowledgePointID": 199,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 489,
+    "KnowledgePoint": "人体可以通过汗腺排出部分尿素、无机盐和水等物质",
+    "RelatedKnowledgePointID": 199,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 490,
+    "KnowledgePoint": "人体各系统在神经系统和内分泌系统的调节下，相互联系和协调，共同完成各项生命活动，以适应机体内外环境的变化",
+    "RelatedKnowledgePointID": 331,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 491,
+    "KnowledgePoint": "神经系统由脑、脊髓及与它们相连的神经构成",
+    "RelatedKnowledgePointID": 201,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 492,
+    "KnowledgePoint": "反射是神经调节的基本方式，反射弧是反射的结构基础",
+    "RelatedKnowledgePointID": 332,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 493,
+    "KnowledgePoint": "人体的运动是在神经系统支配下，由肌肉牵拉着骨围绕关节进行的",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 494,
+    "KnowledgePoint": "人体通过眼、耳等感觉器官获取外界信息，科学用眼和用耳能够保护眼和耳的健康",
+    "RelatedKnowledgePointID": 200,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 495,
+    "KnowledgePoint": "甲状腺激素、胰岛素等激素参与人体生命活动的调节",
+    "RelatedKnowledgePointID": 203,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 496,
+    "KnowledgePoint": "性激素能促进生殖器官的发育，对第二性征的发育和维持具有重要作用",
+    "RelatedKnowledgePointID": 188,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 497,
+    "KnowledgePoint": "人在青春期会出现一些显著的生理变化，如身高和体重迅速增加、出现第二性征、各项生理功能增强等",
+    "RelatedKnowledgePointID": 188,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 498,
+    "KnowledgePoint": "青春期的卫生保健和良好的心理状态有利于青少年顺利发展",
+    "RelatedKnowledgePointID": 188,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 499,
+    "KnowledgePoint": "人体具有免疫功能，通过计划免疫等措施能够预防传染病",
+    "RelatedKnowledgePointID": 242,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 500,
+    "KnowledgePoint": "人体能够通过特异性免疫和非特异性免疫抵抗病原微生物的侵染",
+    "RelatedKnowledgePointID": 339,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 501,
+    "KnowledgePoint": "常见的寄生虫病（如血吸虫病、肠道蠕虫病等）、细菌性传染病（如淋病）、病毒性传染病（如严重急性呼吸综合征、新型冠状病毒肺炎、艾滋病、乙型肝炎、丙型肝炎等）是人体健康的威胁",
+    "RelatedKnowledgePointID": 241,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 502,
+    "KnowledgePoint": "传染病可通过空气、食物、血液、接触等多种途径传播",
+    "RelatedKnowledgePointID": 241,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 503,
+    "KnowledgePoint": "控制传染源、切断传播途径和保护易感人群等措施可以控制传染病的流行",
+    "RelatedKnowledgePointID": 242,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 504,
+    "KnowledgePoint": "接种疫苗能够提高人体对特定传染病的免疫力",
+    "RelatedKnowledgePointID": 242,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 505,
+    "KnowledgePoint": "某些传染病，如新型冠状病毒肺炎，会对社会、经济和科技发展产生严重影响",
+    "RelatedKnowledgePointID": 340,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 506,
+    "KnowledgePoint": "生活习惯与行为选择能够影响人体健康",
+    "RelatedKnowledgePointID": 245,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 507,
+    "KnowledgePoint": "心血管疾病、癌症等疾病严重危害人体健康",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 508,
+    "KnowledgePoint": "酗酒、吸烟等不良嗜好和吸毒等违法行为对人体健康具有危害作用",
+    "RelatedKnowledgePointID": 244,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 509,
+    "KnowledgePoint": "药物可分为处方药和非处方药，遵从医嘱、按照药物使用说明合理用药，避免药物误用和滥用",
+    "RelatedKnowledgePointID": 243,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 510,
+    "KnowledgePoint": "在特定的情况下，人工呼吸、心肺复苏、包扎止血等一些急救方法能减少伤害或挽救生命",
+    "RelatedKnowledgePointID": 243,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 511,
+    "KnowledgePoint": "生物通过有性生殖或无性生殖产生后代",
+    "RelatedKnowledgePointID": 232,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 512,
+    "KnowledgePoint": "睾丸和卵巢可分别产生精子和卵细胞，卵细胞受精后形成的受精卵能够发育成新个体",
+    "RelatedKnowledgePointID": 187,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 513,
+    "KnowledgePoint": "生物可以通过有性生殖或无性生殖繁殖后代",
+    "RelatedKnowledgePointID": 232,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 514,
+    "KnowledgePoint": "生物体的性状主要由基因控制",
+    "RelatedKnowledgePointID": 268,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 515,
+    "KnowledgePoint": "DNA是主要的遗传物质",
+    "RelatedKnowledgePointID": 308,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 516,
+    "KnowledgePoint": "基因是包含遗传信息的DNA片段，随配子由亲代传给子代",
+    "RelatedKnowledgePointID": 328,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 517,
+    "KnowledgePoint": "基因位于染色体上，人的性别是由性染色体的组成决定的",
+    "RelatedKnowledgePointID": 236,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 518,
+    "KnowledgePoint": "生物的性状是由基因组成和环境共同决定的",
+    "RelatedKnowledgePointID": 315,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 519,
+    "KnowledgePoint": "遗传信息发生改变可以引起生物变异",
+    "RelatedKnowledgePointID": 316,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 520,
+    "KnowledgePoint": "杂交育种、转基因等技术促进了农业发展",
+    "RelatedKnowledgePointID": 386,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 521,
+    "KnowledgePoint": "地球上现存的生物具有共同祖先",
+    "RelatedKnowledgePointID": 321,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 522,
+    "KnowledgePoint": "生命最有可能是在原始海洋中形成的",
+    "RelatedKnowledgePointID": 238,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 523,
+    "KnowledgePoint": "化石记录是生物进化的直接证据",
+    "RelatedKnowledgePointID": 239,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 524,
+    "KnowledgePoint": "多种多样的生物是经过自然选择长期进化的结果",
+    "RelatedKnowledgePointID": 322,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 525,
+    "KnowledgePoint": "遗传变异和环境因素的共同作用导致了生物的进化",
+    "RelatedKnowledgePointID": 327,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 526,
+    "KnowledgePoint": "生物的进化总体上呈现出由简单到复杂、由水生到陆生的趋势",
+    "RelatedKnowledgePointID": 239,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 527,
+    "KnowledgePoint": "人类和现代类人猿都是由古猿进化而来的",
+    "RelatedKnowledgePointID": 186,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 528,
+    "KnowledgePoint": "概念1细胞是生物体结构与生命活动的基本单位",
+    "RelatedKnowledgePointID": 275,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 529,
+    "KnowledgePoint": "细胞由多种多样的分子组成，包括水、无机盐、糖类、脂质、蛋白质和核酸等，其中蛋白质和核酸是两类最重要的生物大分子",
+    "RelatedKnowledgePointID": 396,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 530,
+    "KnowledgePoint": "说出细胞主要由C、H、O、N、P、S等元素构成，它们以碳链为骨架形成复杂的生物大分子",
+    "RelatedKnowledgePointID": 277,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 531,
+    "KnowledgePoint": "指出水大约占细胞重量的2/3，以自由水和结合水的形式存在，赋予了细胞许多特性，在生命活动中具有重要作用",
+    "RelatedKnowledgePointID": 278,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 532,
+    "KnowledgePoint": "举例说出无机盐在细胞内含量虽少，但与生命活动密切相关",
+    "RelatedKnowledgePointID": 278,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 533,
+    "KnowledgePoint": "概述糖类有多种类型，它们既是细胞的重要结构成分，又是生命活动的主要能源物质",
+    "RelatedKnowledgePointID": 279,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 534,
+    "KnowledgePoint": "举例说出不同种类的脂质对维持细胞结构和功能有重要作用",
+    "RelatedKnowledgePointID": 279,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 535,
+    "KnowledgePoint": "阐明蛋白质通常由20种氨基酸分子组成，它的功能取决于氨基酸序列及其形成的空间结构，细胞的功能主要由蛋白质完成",
+    "RelatedKnowledgePointID": 280,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 536,
+    "KnowledgePoint": "概述核酸由核苷酸聚合而成，是储存与传递遗传信息的生物大分子",
+    "RelatedKnowledgePointID": 281,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 537,
+    "KnowledgePoint": "细胞各部分结构既分工又合作，共同执行细胞的各项生命活动",
+    "RelatedKnowledgePointID": 397,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 538,
+    "KnowledgePoint": "概述细胞都由质膜包裹，质膜将细胞与其生活环境分开，能控制物质进出，并参与细胞间的信息交流",
+    "RelatedKnowledgePointID": 282,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 539,
+    "KnowledgePoint": "阐明细胞内具有多个相对独立的结构，担负着物质运输、合成与分解、能量转换和信息传递等生命活动",
+    "RelatedKnowledgePointID": 283,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 540,
+    "KnowledgePoint": "阐明遗传信息主要储存在细胞核中",
+    "RelatedKnowledgePointID": 284,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 541,
+    "KnowledgePoint": "举例说明细胞各部分结构之间相互联系、协调一致，共同执行细胞的各项生命活动",
+    "RelatedKnowledgePointID": 397,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 542,
+    "KnowledgePoint": "各种细胞具有相似的基本结构，但在形态与功能上有所差异",
+    "RelatedKnowledgePointID": 397,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 543,
+    "KnowledgePoint": "说明有些生物体只有一个细胞，而有的由很多细胞构成，这些细胞形态和功能多样，但都具有相似的基本结构",
+    "RelatedKnowledgePointID": 175,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 544,
+    "KnowledgePoint": "描述原核细胞与真核细胞的最大区别是原核细胞没有由核膜包被的细胞核",
+    "RelatedKnowledgePointID": 397,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 545,
+    "KnowledgePoint": "概念2细胞的生存需要能量和营养物质，并通过分裂实现增殖",
+    "RelatedKnowledgePointID": 291,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 546,
+    "KnowledgePoint": "物质通过被动运输、主动运输等方式进出细胞，以维持细胞的正常代谢活动",
+    "RelatedKnowledgePointID": 398,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 547,
+    "KnowledgePoint": "阐明质膜具有选择透过性",
+    "RelatedKnowledgePointID": 282,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 548,
+    "KnowledgePoint": "举例说明有些物质顺浓度梯度进出细胞，不需要额外提供能量；有些物质逆浓度梯度进出细胞，需要能量和载体蛋白",
+    "RelatedKnowledgePointID": 285,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 549,
+    "KnowledgePoint": "举例说明大分子物质可以通过胞吞、胞吐进出细胞",
+    "RelatedKnowledgePointID": 286,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 550,
+    "KnowledgePoint": "细胞的功能绝大多数基于化学反应，这些反应发生在细胞的特定区域",
+    "RelatedKnowledgePointID": 283,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 551,
+    "KnowledgePoint": "说明绝大多数酶是一类能催化生化反应的蛋白质，酶活性受到环境因素（如pH和温度等）的影响",
+    "RelatedKnowledgePointID": 287,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 552,
+    "KnowledgePoint": "解释ATP是驱动细胞生命活动的直接能源物质",
+    "RelatedKnowledgePointID": 288,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 553,
+    "KnowledgePoint": "说明植物细胞的叶绿体从太阳光中捕获能量，这些能量在二氧化碳和水转变为糖与氧气的过程中，转换并储存为糖分子中的化学能",
+    "RelatedKnowledgePointID": 290,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 554,
+    "KnowledgePoint": "说明生物通过细胞呼吸将储存在有机分子中的能量转化为生命活动可以利用的能量",
+    "RelatedKnowledgePointID": 289,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 555,
+    "KnowledgePoint": "细胞会经历生长、增殖、分化、衰老和死亡等生命进程",
+    "RelatedKnowledgePointID": 400,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 556,
+    "KnowledgePoint": "描述细胞通过不同的方式进行分裂，其中有丝分裂保证了遗传信息在亲代和子代细胞中的一致性",
+    "RelatedKnowledgePointID": 291,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 557,
+    "KnowledgePoint": "说明在个体发育过程中，细胞在形态、结构和功能方面发生特异性的分化，形成了复杂的多细胞生物体",
+    "RelatedKnowledgePointID": 292,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 558,
+    "KnowledgePoint": "描述在正常情况下，细胞衰老和死亡是一种自然的生理过程",
+    "RelatedKnowledgePointID": 293,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 559,
+    "KnowledgePoint": "概念3遗传信息控制生物性状，并代代相传",
+    "RelatedKnowledgePointID": 268,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 560,
+    "KnowledgePoint": "亲代传递给子代的遗传信息主要编码在DNA分子上",
+    "RelatedKnowledgePointID": 308,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 561,
+    "KnowledgePoint": "概述多数生物的基因是DNA分子的功能片段，有些病毒的基因在RNA分子上",
+    "RelatedKnowledgePointID": 311,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 562,
+    "KnowledgePoint": "概述DNA分子是由四种脱氧核苷酸构成，通常由两条碱基互补配对的反向平行长链形成双螺旋结构，碱基的排列顺序编码了遗传信息",
+    "RelatedKnowledgePointID": 309,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 563,
+    "KnowledgePoint": "概述DNA分子通过半保留方式进行复制",
+    "RelatedKnowledgePointID": 310,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 564,
+    "KnowledgePoint": "概述DNA分子上的遗传信息通过RNA指导蛋白质的合成，细胞分化的本质是基因选择性表达的结果，生物的性状主要通过蛋白质表现",
+    "RelatedKnowledgePointID": 312,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 565,
+    "KnowledgePoint": "概述某些基因中碱基序列不变但表型改变的表观遗传现象",
+    "RelatedKnowledgePointID": 315,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 566,
+    "KnowledgePoint": "有性生殖中基因的分离和重组导致双亲后代的基因组合有多种可能",
+    "RelatedKnowledgePointID": 316,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 567,
+    "KnowledgePoint": "阐明减数分裂产生染色体数量减半的精细胞或卵细胞",
+    "RelatedKnowledgePointID": 301,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 568,
+    "KnowledgePoint": "说明进行有性生殖的生物体，其遗传信息通过配子传递给子代",
+    "RelatedKnowledgePointID": 302,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 569,
+    "KnowledgePoint": "阐明有性生殖中基因的分离和自由组合使得子代的基因型和表型有多种可能，并可由此预测子代的遗传性状",
+    "RelatedKnowledgePointID": 300,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 570,
+    "KnowledgePoint": "概述性染色体上的基因传递和性别相关联",
+    "RelatedKnowledgePointID": 236,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 571,
+    "KnowledgePoint": "由基因突变、染色体变异和基因重组引起的变异是可以遗传的",
+    "RelatedKnowledgePointID": 316,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 572,
+    "KnowledgePoint": "概述碱基的替换、插入或缺失会引发基因中碱基序列的改变",
+    "RelatedKnowledgePointID": 316,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 573,
+    "KnowledgePoint": "阐明基因中碱基序列的改变有可能导致它所编码的蛋白质及相应的细胞功能发生变化，甚至带来致命的后果",
+    "RelatedKnowledgePointID": 316,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 574,
+    "KnowledgePoint": "描述细胞在某些化学物质、射线以及病毒的作用下，基因突变概率可能提高，而某些基因突变能导致细胞分裂失控，甚至发生癌变",
+    "RelatedKnowledgePointID": 317,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 575,
+    "KnowledgePoint": "阐明进行有性生殖的生物在减数分裂过程中，染色体所发生的自由组合和交叉互换，会导致控制不同性状的基因重组，从而使子代出现变异",
+    "RelatedKnowledgePointID": 327,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 576,
+    "KnowledgePoint": "举例说明染色体结构和数量的变异都可能导致生物性状的改变甚至死亡",
+    "RelatedKnowledgePointID": 317,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 577,
+    "KnowledgePoint": "举例说明人类遗传病是可以检测和预防的",
+    "RelatedKnowledgePointID": 319,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 578,
+    "KnowledgePoint": "概念4生物的多样性和适应性是进化的结果",
+    "RelatedKnowledgePointID": 321,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 579,
+    "KnowledgePoint": "地球上的现存物种丰富多样，它们来自共同祖先",
+    "RelatedKnowledgePointID": 321,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 580,
+    "KnowledgePoint": "尝试通过化石记录、比较解剖学和胚胎学等事实，说明当今生物具有共同的祖先",
+    "RelatedKnowledgePointID": 239,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 581,
+    "KnowledgePoint": "尝试通过细胞生物学和分子生物学等知识，说明当今生物在新陈代谢、DNA的结构与功能等方面具有许多共同特征",
+    "RelatedKnowledgePointID": 414,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 582,
+    "KnowledgePoint": "适应是自然选择的结果",
+    "RelatedKnowledgePointID": 322,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 583,
+    "KnowledgePoint": "举例说明种群内的某些可遗传变异将赋予个体在特定环境中的生存和繁殖优势",
+    "RelatedKnowledgePointID": 323,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 584,
+    "KnowledgePoint": "阐明具有优势性状的个体在种群中所占比例将会增加",
+    "RelatedKnowledgePointID": 323,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 585,
+    "KnowledgePoint": "说明自然选择促进生物更好地适应特定的生存环境",
+    "RelatedKnowledgePointID": 322,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 586,
+    "KnowledgePoint": "概述现代生物进化理论以自然选择学说为核心，为地球上的生命进化史提供了科学的解释",
+    "RelatedKnowledgePointID": 324,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 587,
+    "KnowledgePoint": "阐述变异、选择和隔离可导致新物种形成",
+    "RelatedKnowledgePointID": 323,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 588,
+    "KnowledgePoint": "概念1生命个体的结构与功能相适应，各结构协调统一共同完成复杂的生命活动，并通过一定的调节机制保持稳态",
+    "RelatedKnowledgePointID": 331,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 589,
+    "KnowledgePoint": "内环境为机体细胞提供适宜的生存环境，机体细胞通过内环境与外界环境进行物质交换",
+    "RelatedKnowledgePointID": 331,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 590,
+    "KnowledgePoint": "说明血浆、组织液和淋巴等细胞外液共同构成高等动物细胞赖以生存的内环境",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 591,
+    "KnowledgePoint": "阐明机体细胞生活在内环境中，通过内环境与外界环境进行物质交换，同时也参与内环境的形成和维持",
+    "RelatedKnowledgePointID": 331,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 592,
+    "KnowledgePoint": "简述机体通过呼吸、消化、循环和泌尿等系统参与内、外环境间的物质交换",
+    "RelatedKnowledgePointID": 331,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 593,
+    "KnowledgePoint": "内环境的变化会引发机体的自动调节，以维持内环境的稳态",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 594,
+    "KnowledgePoint": "以血糖、体温、pH和渗透压等为例，阐明机体通过调节作用保持内环境的相对稳定，以保证机体的正常生命活动",
+    "RelatedKnowledgePointID": 331,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 595,
+    "KnowledgePoint": "举例说明机体不同器官、系统协调统一地共同完成各项生命活动，是维持内环境稳态的基础",
+    "RelatedKnowledgePointID": 331,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 596,
+    "KnowledgePoint": "神经系统能够及时感知机体内、外环境的变化，并作出反应调控各器官、系统的活动，实现机体稳态",
+    "RelatedKnowledgePointID": 261,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 597,
+    "KnowledgePoint": "概述神经调节的基本方式是反射（可分为条件反射和非条件反射），其结构基础是反射弧",
+    "RelatedKnowledgePointID": 332,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 598,
+    "KnowledgePoint": "阐明神经细胞膜内外在静息状态具有电位差，受到外界刺激后形成动作电位，并沿神经纤维传导",
+    "RelatedKnowledgePointID": 333,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 599,
+    "KnowledgePoint": "阐明神经冲动在突触处的传递通常通过化学传递方式完成",
+    "RelatedKnowledgePointID": 333,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 600,
+    "KnowledgePoint": "分析位于脊髓的低级神经中枢和脑中相应的高级神经中枢相互联系、相互协调，共同调控器官和系统的活动，维持机体的稳态",
+    "RelatedKnowledgePointID": 334,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 601,
+    "KnowledgePoint": "举例说明中枢神经系统通过自主神经来调节内脏的活动",
+    "RelatedKnowledgePointID": 334,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 602,
+    "KnowledgePoint": "简述语言活动和条件反射是由大脑皮层控制的高级神经活动",
+    "RelatedKnowledgePointID": 335,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 603,
+    "KnowledgePoint": "内分泌系统产生的多种类型的激素，通过体液传送而发挥调节作用，实现机体稳态",
+    "RelatedKnowledgePointID": 203,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 604,
+    "KnowledgePoint": "说出人体内分泌系统主要由内分泌腺组成，包括垂体、甲状腺、胸腺、肾上腺、胰岛和性腺等多种腺体，它们分泌的各类激素参与生命活动的调节",
+    "RelatedKnowledgePointID": 336,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 605,
+    "KnowledgePoint": "举例说明激素通过分级调节、反馈调节等机制维持机体的稳态，如甲状腺激素分泌的调节和血糖平衡的调节等",
+    "RelatedKnowledgePointID": 337,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 606,
+    "KnowledgePoint": "举例说出神经调节与体液调节相互协调共同维持机体的稳态，如体温调节和水盐平衡的调节等",
+    "RelatedKnowledgePointID": 338,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 607,
+    "KnowledgePoint": "举例说明其他体液成分参与稳态的调节，如二氧化碳对呼吸运动的调节等",
+    "RelatedKnowledgePointID": 338,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 608,
+    "KnowledgePoint": "免疫系统能够抵御病原体的侵袭，识别并清除机体内衰老、死亡或异常的细胞，实现机体稳态",
+    "RelatedKnowledgePointID": 339,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 609,
+    "KnowledgePoint": "举例说明免疫细胞、免疫器官和免疫活性物质等是免疫调节的结构与物质基础",
+    "RelatedKnowledgePointID": 339,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 610,
+    "KnowledgePoint": "概述人体的免疫包括生来就有的非特异性免疫和后天获得的特异性免疫",
+    "RelatedKnowledgePointID": 341,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 611,
+    "KnowledgePoint": "阐明特异性免疫是通过体液免疫和细胞免疫两种方式，针对特定病原体发生的免疫应答",
+    "RelatedKnowledgePointID": 341,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 612,
+    "KnowledgePoint": "举例说明免疫功能异常可能引发疾病，如过敏、自身免疫病、艾滋病和先天性免疫缺陷病等",
+    "RelatedKnowledgePointID": 342,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 613,
+    "KnowledgePoint": "植物生命活动受到多种因素的调节，其中最重要的是植物激素的调节",
+    "RelatedKnowledgePointID": 344,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 614,
+    "KnowledgePoint": "概述科学家经过不断的探索，发现了植物生长素，并揭示了它在调节植物生长时表现出两重性，既能促进生长，也能抑制生长",
+    "RelatedKnowledgePointID": 344,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 615,
+    "KnowledgePoint": "举例说明几种主要植物激素的作用，这些激素可通过协同、拮抗等方式共同实现对植物生命活动的调节",
+    "RelatedKnowledgePointID": 345,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 616,
+    "KnowledgePoint": "举例说明生长素、细胞分裂素、赤霉素、脱落酸和乙烯等植物激素及其类似物在生产上得到了广泛应用",
+    "RelatedKnowledgePointID": 346,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 617,
+    "KnowledgePoint": "概述其他因素参与植物生命活动的调节，如光、重力和温度等",
+    "RelatedKnowledgePointID": 347,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 618,
+    "KnowledgePoint": "概念2生态系统中的各种成分相互影响，共同实现系统的物质循环、能量流动和信息传递，生态系统通过自我调节保持相对稳定的状态",
+    "RelatedKnowledgePointID": 358,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 619,
+    "KnowledgePoint": "不同种群的生物在长期适应环境和彼此相互适应的过程中形成动态的生物群落",
+    "RelatedKnowledgePointID": 348,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 620,
+    "KnowledgePoint": "列举种群具有种群密度、出生率和死亡率、迁入率和迁出率、年龄结构、性别比例等特征",
+    "RelatedKnowledgePointID": 348,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 621,
+    "KnowledgePoint": "尝试建立数学模型解释种群的数量变动",
+    "RelatedKnowledgePointID": 349,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 622,
+    "KnowledgePoint": "举例说明阳光、温度和水等非生物因素以及不同物种之间的相互作用都会影响生物的种群特征",
+    "RelatedKnowledgePointID": 350,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 623,
+    "KnowledgePoint": "描述群落具有垂直结构和水平结构等特征，并可随时间而改变",
+    "RelatedKnowledgePointID": 351,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 624,
+    "KnowledgePoint": "阐明一个群落替代另一个群落的演替过程，包括初生演替和次生演替两种类型",
+    "RelatedKnowledgePointID": 353,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 625,
+    "KnowledgePoint": "分析不同群落中的生物具有与该群落环境相适应的形态结构、生理特征和分布特点",
+    "RelatedKnowledgePointID": 352,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 626,
+    "KnowledgePoint": "生物群落与非生物的环境因素相互作用形成多样化的生态系统，完成物质循环、能量流动和信息传递",
+    "RelatedKnowledgePointID": 355,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 627,
+    "KnowledgePoint": "阐明生态系统由生产者、消费者和分解者等生物因素以及阳光、空气、水等非生物因素组成，各组分紧密联系使生态系统成为具有一定结构和功能的统一体",
+    "RelatedKnowledgePointID": 354,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 628,
+    "KnowledgePoint": "讨论某一生态系统中生产者和消费者通过食物链和食物网联系在一起形成复杂的营养结构",
+    "RelatedKnowledgePointID": 357,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 629,
+    "KnowledgePoint": "分析生态系统中的物质在生物群落与无机环境之间不断循环、能量在生物群落中单向流动并逐级递减的规律",
+    "RelatedKnowledgePointID": 356,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 630,
+    "KnowledgePoint": "举例说明利用物质循环和能量流动规律，人们能够更加科学、有效地利用生态系统中的资源",
+    "RelatedKnowledgePointID": 359,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 631,
+    "KnowledgePoint": "解释生态金字塔表征了食物网各营养级之间在个体数量、生物量和能量方面的关系",
+    "RelatedKnowledgePointID": 357,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 632,
+    "KnowledgePoint": "阐明某些有害物质会通过食物链不断地富集的现象",
+    "RelatedKnowledgePointID": 357,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 633,
+    "KnowledgePoint": "举例说出生态系统中物理、化学和行为信息的传递对生命活动的正常进行、生物种群的繁衍和种间关系的调节起着重要作用",
+    "RelatedKnowledgePointID": 357,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 634,
+    "KnowledgePoint": "分析特定生态系统的生物与非生物因素决定其营养结构",
+    "RelatedKnowledgePointID": 354,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 635,
+    "KnowledgePoint": "生态系统通过自我调节作用抵御和消除一定限度的外来干扰，保持或恢复自身结构和功能的相对稳定",
+    "RelatedKnowledgePointID": 358,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 636,
+    "KnowledgePoint": "解释生态系统具有保持或恢复自身结构和功能相对稳定，并维持动态平衡的能力",
+    "RelatedKnowledgePointID": 358,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 637,
+    "KnowledgePoint": "举例说明生态系统的稳定性会受到自然或人为因素的影响，如气候变化、自然事件、人类活动或外来物种入侵等",
+    "RelatedKnowledgePointID": 358,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 638,
+    "KnowledgePoint": "阐明生态系统在受到一定限度的外来干扰时，能够通过自我调节维持稳定",
+    "RelatedKnowledgePointID": 358,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 639,
+    "KnowledgePoint": "人类活动对生态系统的动态平衡有着深远的影响，依据生态学原理保护环境是人类生存和可持续发展的必要条件",
+    "RelatedKnowledgePointID": 204,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 640,
+    "KnowledgePoint": "探讨人口增长会对环境造成压力",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 641,
+    "KnowledgePoint": "关注全球气候变化、水资源短缺、臭氧层破坏、酸雨、荒漠化和环境污染等全球性环境问题对生物圈的稳态造成威胁，同时也对人类的生存和可持续发展造成影响",
+    "RelatedKnowledgePointID": "none",
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 642,
+    "KnowledgePoint": "概述生物多样性对维持生态系统的稳定性以及人类生存和发展的重要意义，并尝试提出人与环境和谐相处的合理化建议",
+    "RelatedKnowledgePointID": 227,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 643,
+    "KnowledgePoint": "举例说明根据生态学原理、采用系统工程的方法和技术，达到资源多层次和循环利用的目的，使特定区域中的人和自然环境均受益",
+    "RelatedKnowledgePointID": 360,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 644,
+    "KnowledgePoint": "形成“环境保护需要从我做起”的意识",
+    "RelatedKnowledgePointID": 206,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 645,
+    "KnowledgePoint": "概念3 发酵工程利用微生物的特定功能规模化生产对人类有用的产品",
+    "RelatedKnowledgePointID": 369,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 646,
+    "KnowledgePoint": "获得纯净的微生物培养物是发酵工程的基础",
+    "RelatedKnowledgePointID": 366,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 647,
+    "KnowledgePoint": "阐明在发酵工程中灭菌是获得纯净的微生物培养物的前提",
+    "RelatedKnowledgePointID": 366,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 648,
+    "KnowledgePoint": "阐明无菌技术是在操作过程中，保持无菌物品与无菌区域不被微生物污染的技术",
+    "RelatedKnowledgePointID": 366,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 649,
+    "KnowledgePoint": "举例说明通过调整培养基的配方可有目的地培养某种微生物",
+    "RelatedKnowledgePointID": 366,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 650,
+    "KnowledgePoint": "概述平板划线法和稀释涂布平板法是实验室中进行微生物分离和纯化的常用方法",
+    "RelatedKnowledgePointID": 367,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 651,
+    "KnowledgePoint": "概述稀释涂布平板法和显微镜计数法是测定微生物数量的常用方法",
+    "RelatedKnowledgePointID": 368,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 652,
+    "KnowledgePoint": "发酵工程为人类提供多样的生物产品",
+    "RelatedKnowledgePointID": 362,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 653,
+    "KnowledgePoint": "举例说明日常生活中的某些食品是运用传统发酵技术生产的",
+    "RelatedKnowledgePointID": 365,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 654,
+    "KnowledgePoint": "阐明发酵工程利用现代工程技术及微生物的特定功能，工业化生产人类所需产品",
+    "RelatedKnowledgePointID": 362,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 655,
+    "KnowledgePoint": "举例说明发酵工程在医药、食品及其他工农业生产上有重要的应用价值",
+    "RelatedKnowledgePointID": 365,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 656,
+    "KnowledgePoint": "概念4 细胞工程通过细胞水平上的操作，获得有用的生物体或其产品",
+    "RelatedKnowledgePointID": 405,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 657,
+    "KnowledgePoint": "植物细胞工程包括组织培养和体细胞杂交等技术",
+    "RelatedKnowledgePointID": 370,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 658,
+    "KnowledgePoint": "阐明植物组织培养是在一定条件下，将离体植物器官、组织和细胞在适宜的培养条件下诱导形成愈伤组织，并重新分化，最终形成完整植株的过程",
+    "RelatedKnowledgePointID": 370,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 659,
+    "KnowledgePoint": "概述植物体细胞杂交是将不同植物体细胞在一定条件下融合成杂合细胞，继而培育成新植物体的技术",
+    "RelatedKnowledgePointID": 371,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 660,
+    "KnowledgePoint": "举例说明植物细胞工程利用快速繁殖、脱毒、次生代谢产物生产、育种等方式有效提高了生产效率",
+    "RelatedKnowledgePointID": 372,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 661,
+    "KnowledgePoint": "动物细胞工程包括细胞培养、核移植、细胞融合和干细胞的应用等技术",
+    "RelatedKnowledgePointID": 373,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 662,
+    "KnowledgePoint": "阐明动物细胞培养是从动物体获得相关组织，分散成单个细胞后，在适宜的培养条件下让细胞生长和增殖的过程。动物细胞培养是动物细胞工程的基础",
+    "RelatedKnowledgePointID": 373,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 663,
+    "KnowledgePoint": "阐明动物细胞核移植一般是将体细胞核移入一个去核的卵母细胞中，并使重组细胞发育成新胚胎，继而发育成动物个体的过程",
+    "RelatedKnowledgePointID": 375,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 664,
+    "KnowledgePoint": "阐明动物细胞融合是指通过物理、化学或生物学等手段，使两个或多个动物细胞结合形成一个细胞的过程",
+    "RelatedKnowledgePointID": 374,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 665,
+    "KnowledgePoint": "概述细胞融合技术是单克隆抗体制备的重要技术",
+    "RelatedKnowledgePointID": 374,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 666,
+    "KnowledgePoint": "简述干细胞在生物医学工程中有广泛的应用价值",
+    "RelatedKnowledgePointID": 382,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 667,
+    "KnowledgePoint": "对动物早期胚胎或配子进行显微操作和处理以获得目标个体",
+    "RelatedKnowledgePointID": 380,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 668,
+    "KnowledgePoint": "简述胚胎形成经过了受精及早期发育等过程",
+    "RelatedKnowledgePointID": 378,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 669,
+    "KnowledgePoint": "简述胚胎工程包括体外受精、胚胎移植和胚胎分割等技术",
+    "RelatedKnowledgePointID": 377,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 670,
+    "KnowledgePoint": "概念5 基因工程赋予生物新的遗传特性",
+    "RelatedKnowledgePointID": 385,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 671,
+    "KnowledgePoint": "基因工程是一种重组DNA技术",
+    "RelatedKnowledgePointID": 384,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 672,
+    "KnowledgePoint": "概述基因工程是在遗传学、微生物学、生物化学和分子生物学等学科基础上发展而来的",
+    "RelatedKnowledgePointID": 385,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 673,
+    "KnowledgePoint": "阐明DNA重组技术的实现需要利用限制性内切核酸酶、DNA连接酶和载体三种基本工具",
+    "RelatedKnowledgePointID": 384,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 674,
+    "KnowledgePoint": "阐明基因工程的基本操作程序主要包括目的基因的获取、基因表达载体的构建、目的基因导入受体细胞和目的基因及其表达产物的检测鉴定等步骤",
+    "RelatedKnowledgePointID": 385,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 675,
+    "KnowledgePoint": "举例说明基因工程在农牧、食品及医药等行业的广泛应用改善了人类的生活品质",
+    "RelatedKnowledgePointID": 386,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 676,
+    "KnowledgePoint": "蛋白质工程是基因工程的延伸",
+    "RelatedKnowledgePointID": 389,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 677,
+    "KnowledgePoint": "概述人们根据基因工程原理，进行蛋白质设计和改造，可以获得性状和功能更符合人类需求的蛋白质",
+    "RelatedKnowledgePointID": 389,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 678,
+    "KnowledgePoint": "举例说明依据人类需要对原有蛋白质结构进行基因改造、生产目标蛋白的过程",
+    "RelatedKnowledgePointID": 389,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 679,
+    "KnowledgePoint": "概念6 生物技术在造福人类社会的同时也可能会带来安全与伦理问题",
+    "RelatedKnowledgePointID": 392,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 680,
+    "KnowledgePoint": "转基因产品的安全性引发社会的广泛关注",
+    "RelatedKnowledgePointID": 391,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 681,
+    "KnowledgePoint": "举例说出日常生活中的转基因产品",
+    "RelatedKnowledgePointID": 391,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 682,
+    "KnowledgePoint": "探讨转基因技术在应用过程中带来的影响",
+    "RelatedKnowledgePointID": 392,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 683,
+    "KnowledgePoint": "中国禁止生殖性克隆人",
+    "RelatedKnowledgePointID": 375,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 684,
+    "KnowledgePoint": "举例说出生殖性克隆人面临的伦理问题",
+    "RelatedKnowledgePointID": 392,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 685,
+    "KnowledgePoint": "分析说明我国为什么不赞成、不允许、不支持、不接受任何生殖性克隆人实验",
+    "RelatedKnowledgePointID": 393,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 686,
+    "KnowledgePoint": "世界范围内应全面禁止生物武器",
+    "RelatedKnowledgePointID": 393,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 687,
+    "KnowledgePoint": "举例说明历史上生物武器对人类造成了严重的威胁与伤害",
+    "RelatedKnowledgePointID": 393,
+    "ExerciseURL": "none"
+  },
+  {
+    "KnowledgePointID": 688,
+    "KnowledgePoint": "认同我国反对生物武器及其技术和设备的扩散",
+    "RelatedKnowledgePointID": 393,
+    "ExerciseURL": "none"
+  }
+]

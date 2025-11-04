@@ -1,0 +1,1305 @@
+[
+  {
+    "id": 0,
+    "name": "初中化学",
+    "xueduanID": "czchemistry",
+    "level": 0,
+    "relatedID": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 1,
+    "name": "科学探究与化学实验",
+    "zhishidianid": "czchemistry01",
+    "zhishidianyaoqiuid": "",
+    "level": 1,
+    "relatedID": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ]
+  },
+  {
+    "id": 2,
+    "name": "物质的性质与应用",
+    "zhishidianid": "czchemistry02",
+    "zhishidianyaoqiuid": "",
+    "level": 1,
+    "relatedID": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
+  },
+  {
+    "id": 3,
+    "name": "物质的组成与结构",
+    "zhishidianid": "czchemistry03",
+    "zhishidianyaoqiuid": "",
+    "level": 1,
+    "relatedID": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ]
+  },
+  {
+    "id": 4,
+    "name": "物质的化学变化",
+    "zhishidianid": "czchemistry04",
+    "zhishidianyaoqiuid": "",
+    "level": 1,
+    "relatedID": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ]
+  },
+  {
+    "id": 5,
+    "name": "化学与社会 ·跨学科实践",
+    "zhishidianid": "czchemistry05",
+    "zhishidianyaoqiuid": "",
+    "level": 1,
+    "relatedID": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ]
+  },
+  {
+    "id": 6,
+    "name": "化学科学本质",
+    "zhishidianid": "czchemistry0101",
+    "zhishidianyaoqiu": "知道化学是研究物质的组成、结构、性质、转化及应用的一门基础学科，其特征是从分子层次认识物质，通过化学变化创造物质",
+    "zhishidianyaoqiuid": "czchemistry010101r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 7,
+    "name": "化学科学本质",
+    "zhishidianid": "czchemistry0101",
+    "zhishidianyaoqiu": "初步了解化学科学的发展历程，体会实验探究和模型建构是化学科学研究的基本方法",
+    "zhishidianyaoqiuid": "czchemistry010102r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 8,
+    "name": "化学科学本质",
+    "zhishidianid": "czchemistry0101",
+    "zhishidianyaoqiu": "认识化学科学、技术、社会、环境的相互关系，了解化学科学对社会发展和人类文明进步的重要价值",
+    "zhishidianyaoqiuid": "czchemistry010103r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 9,
+    "name": "化学科学本质",
+    "zhishidianid": "czchemistry0101",
+    "zhishidianyaoqiu": "感悟科学家崇尚真理、严谨求实的科学态度，勇于质疑、批判和创新的精神",
+    "zhishidianyaoqiuid": "czchemistry010104r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 10,
+    "name": "化学科学本质",
+    "zhishidianid": "czchemistry0101",
+    "zhishidianyaoqiu": "学习科学家爱国、奉献的精神，团结协作、攻坚克难的品格",
+    "zhishidianyaoqiuid": "czchemistry010105r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 11,
+    "name": "实验探究",
+    "zhishidianid": "czchemistry0102",
+    "zhishidianyaoqiu": "",
+    "zhishidianyaoqiuid": "",
+    "level": 2,
+    "relatedID": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ]
+  },
+  {
+    "id": 12,
+    "name": "化学实验探究的思路与方法",
+    "zhishidianid": "czchemistry0103",
+    "zhishidianyaoqiu": "通过具体的实验活动初步形成化学实验探究的一般思路与方法，知道围绕实验目的确定实验原理，选择实验仪器，组装实验装置，设计实验步骤，实施实验并完成实验记录，基于实验事实得出结论",
+    "zhishidianyaoqiuid": "czchemistry010301r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 13,
+    "name": "化学实验探究的思路与方法",
+    "zhishidianid": "czchemistry0103",
+    "zhishidianyaoqiu": "通过具体的化学实验探究活动，学习研究物质性质，探究物质组成和反应规律，进行物质分离、检验和制备等不同类型化学实验探究活动的一般思路与基本方法",
+    "zhishidianyaoqiuid": "czchemistry010302r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 14,
+    "name": "化学实验探究的思路与方法",
+    "zhishidianid": "czchemistry0103",
+    "zhishidianyaoqiu": "学习控制变量和对比实验的实验设计方法",
+    "zhishidianyaoqiuid": "czchemistry010303r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 15,
+    "name": "化学实验探究的思路与方法",
+    "zhishidianid": "czchemistry0103",
+    "zhishidianyaoqiu": "通过化学科学发展历程中的经典实验，学习和体会化学家进行科学探究的智慧和方法，理解科学探究的本质",
+    "zhishidianyaoqiuid": "czchemistry010304r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 16,
+    "name": "科学探究的态度",
+    "zhishidianid": "czchemistry0104",
+    "zhishidianyaoqiu": "发展科学探究的好奇心、想象力与探究欲",
+    "zhishidianyaoqiuid": "czchemistry010401r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 17,
+    "name": "科学探究的态度",
+    "zhishidianid": "czchemistry0104",
+    "zhishidianyaoqiu": "通过探究活动，初步养成注重实证、严谨求实的科学态度，初步学会批判性思维方法，具有敢于提出并坚持自己的见解、勇于修正或放弃错误观点、反对伪科学的科学精神",
+    "zhishidianyaoqiuid": "czchemistry010402r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 18,
+    "name": "科学探究的态度",
+    "zhishidianid": "czchemistry0104",
+    "zhishidianyaoqiu": "树立自觉的安全意识和观念，知道化学实验存在安全风险，明确化学实验室安全规则和实验操作规范，了解实验室基本布局，学会正确使用安全防护设施，养成节约和环保的习惯",
+    "zhishidianyaoqiuid": "czchemistry010403r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 19,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0105",
+    "zhishidianyaoqiu": "粗盐中难溶性杂质的去除",
+    "zhishidianyaoqiuid": "czchemistry010501r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 20,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0105",
+    "zhishidianyaoqiu": "氧气的实验室制取与性质",
+    "zhishidianyaoqiuid": "czchemistry010502r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 21,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0105",
+    "zhishidianyaoqiu": "二氧化碳的实验室制取与性质",
+    "zhishidianyaoqiuid": "czchemistry010503r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 22,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0105",
+    "zhishidianyaoqiu": "常见金属的物理性质和化学性质",
+    "zhishidianyaoqiuid": "czchemistry010504r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 23,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0105",
+    "zhishidianyaoqiu": "常见酸、碱的化学性质",
+    "zhishidianyaoqiuid": "czchemistry010505r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 24,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0105",
+    "zhishidianyaoqiu": "一定溶质质量分数的氯化钠溶液的配制",
+    "zhishidianyaoqiuid": "czchemistry010506r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 25,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0105",
+    "zhishidianyaoqiu": "水的组成及变化的探究",
+    "zhishidianyaoqiuid": "czchemistry010507r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 26,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0105",
+    "zhishidianyaoqiu": "燃烧条件的探究",
+    "zhishidianyaoqiuid": "czchemistry010508r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 27,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0105",
+    "zhishidianyaoqiu": "跨学科实践活动(原则上从学习主题5中选择，所用课时不少于本学科总课时的10%)",
+    "zhishidianyaoqiuid": "czchemistry010509r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 28,
+    "name": "物质的多样性",
+    "zhishidianid": "czchemistry0201",
+    "zhishidianyaoqiu": "认识物质是多样的，知道物质既有天然存在的也有人工创造的，既有无机物也有有机物",
+    "zhishidianyaoqiuid": "czchemistry020101r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 29,
+    "name": "物质的多样性",
+    "zhishidianid": "czchemistry0201",
+    "zhishidianyaoqiu": "认识依据物质的组成和性质可以对物质进行分类，知道物质可以分为纯净物和混合物、单质和化合物等",
+    "zhishidianyaoqiuid": "czchemistry020102r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 30,
+    "name": "物质的多样性",
+    "zhishidianid": "czchemistry0201",
+    "zhishidianyaoqiu": "知道物质具有独特的物理性质和化学性质，同类物质在性质上具有一定的相似性",
+    "zhishidianyaoqiuid": "czchemistry020103r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 31,
+    "name": "物质的多样性",
+    "zhishidianid": "czchemistry0201",
+    "zhishidianyaoqiu": "知道物质具有广泛的应用价值，物质的性质决定用途",
+    "zhishidianyaoqiuid": "czchemistry020104r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 32,
+    "name": "常见的物质",
+    "zhishidianid": "czchemistry0202",
+    "zhishidianyaoqiu": "",
+    "zhishidianyaoqiuid": "",
+    "level": 2,
+    "relatedID": [
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ]
+  },
+  {
+    "id": 33,
+    "name": "认识物质性质的思路与方法",
+    "zhishidianid": "czchemistry0203",
+    "zhishidianyaoqiu": "了解物质性质包括物理性质和化学性质，知道可以从物质的存在、组成、变化和用途等视角认识物质的性质",
+    "zhishidianyaoqiuid": "czchemistry020301r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 34,
+    "name": "认识物质性质的思路与方法",
+    "zhishidianid": "czchemistry0203",
+    "zhishidianyaoqiu": "知道可以通过物质类别认识具体物质的性质，了解通过物质的共性和差异性认识一类物质性质的方法",
+    "zhishidianyaoqiuid": "czchemistry020302r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 35,
+    "name": "认识物质性质的思路与方法",
+    "zhishidianid": "czchemistry0203",
+    "zhishidianyaoqiu": "了解观察、实验，以及对事实进行归纳概括、分析解释等认识物质性质的基本方法",
+    "zhishidianyaoqiuid": "czchemistry020303r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 36,
+    "name": "物质性质的广泛应用及化学品的合理使用",
+    "zhishidianid": "czchemistry0204",
+    "zhishidianyaoqiu": "认识物质性质在生活、生产、科技发展等方面的广泛应用，体会科学地利用物质性质对提高人们的生活质量具有重要作用",
+    "zhishidianyaoqiuid": "czchemistry020401r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 37,
+    "name": "物质性质的广泛应用及化学品的合理使用",
+    "zhishidianid": "czchemistry0204",
+    "zhishidianyaoqiu": "结合实例体会化学品的保存、选择和使用与物质性质的重要关系，认识合理使用化学品对保护环境的重要意义，形成合理使用化学品的意识",
+    "zhishidianyaoqiuid": "czchemistry020402r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 38,
+    "name": "物质性质的广泛应用及化学品的合理使用",
+    "zhishidianid": "czchemistry0204",
+    "zhishidianyaoqiu": "认识空气、水、金属矿物是宝贵的自然资源，形成保护和节约资源的可持续发展意识与社会责任",
+    "zhishidianyaoqiuid": "czchemistry020403r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 39,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0205",
+    "zhishidianyaoqiu": "粗盐中难溶性杂质的去除",
+    "zhishidianyaoqiuid": "czchemistry020501r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 40,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0205",
+    "zhishidianyaoqiu": "氧气的实验室制取与性质",
+    "zhishidianyaoqiuid": "czchemistry020502r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 41,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0205",
+    "zhishidianyaoqiu": "二氧化碳的实验室制取与性质",
+    "zhishidianyaoqiuid": "czchemistry020503r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 42,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0205",
+    "zhishidianyaoqiu": "常见金属的物理性质和化学性质",
+    "zhishidianyaoqiuid": "czchemistry020504r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 43,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0205",
+    "zhishidianyaoqiu": "常见酸、碱的化学性质",
+    "zhishidianyaoqiuid": "czchemistry020505r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 44,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0205",
+    "zhishidianyaoqiu": "一定溶质质量分数的氯化钠溶液的配制",
+    "zhishidianyaoqiuid": "czchemistry020506r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 45,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0205",
+    "zhishidianyaoqiu": "跨学科实践活动(从学习主题5中选择)",
+    "zhishidianyaoqiuid": "czchemistry020507r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 46,
+    "name": "物质的组成",
+    "zhishidianid": "czchemistry0301",
+    "zhishidianyaoqiu": "初步形成基于元素和分子、原子认识物质及其变化的视角，建立认识物质的宏观和微观视角之间的关联，知道物质的性质与组成、结构有关",
+    "zhishidianyaoqiuid": "czchemistry030101r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 47,
+    "name": "元素、分子、原子与物质",
+    "zhishidianid": "czchemistry0302",
+    "zhishidianyaoqiu": "",
+    "zhishidianyaoqiuid": "",
+    "level": 2,
+    "relatedID": [
+      118,
+      119,
+      120,
+      121,
+      122
+    ]
+  },
+  {
+    "id": 48,
+    "name": "认识物质的组成与结构的思路与方法",
+    "zhishidianid": "czchemistry0303",
+    "zhishidianyaoqiu": "通过科学史实体会科学家探索物质的组成与结构的智慧，知道可以通过实验、想象、推理、假说、模型等方法探索物质的结构",
+    "zhishidianyaoqiuid": "czchemistry030301r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 49,
+    "name": "认识物质的组成与结构的思路与方法",
+    "zhishidianid": "czchemistry0303",
+    "zhishidianyaoqiu": "初步学习利用物质的性质和化学反应探究物质组成的基本思路与方法",
+    "zhishidianyaoqiuid": "czchemistry030302r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 50,
+    "name": "研究物质的组成与结构的意义",
+    "zhishidianid": "czchemistry0304",
+    "zhishidianyaoqiu": "了解人类对物质的组成与结构的探索是不断发展的，初步认识物质的组成、结构与性质之间的关系，了解研究物质的组成与结构对认识和创造物质的重要意义",
+    "zhishidianyaoqiuid": "czchemistry030401r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 51,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0305",
+    "zhishidianyaoqiu": "水的组成及变化的探究",
+    "zhishidianyaoqiuid": "czchemistry030501r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 52,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0305",
+    "zhishidianyaoqiu": "跨学科实践活动(从学习主题5中选择)",
+    "zhishidianyaoqiuid": "czchemistry030502r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 53,
+    "name": "物质的变化与转化",
+    "zhishidianid": "czchemistry0401",
+    "zhishidianyaoqiu": "知道物质是在不断变化的，物质变化分为物理变化和化学变化",
+    "zhishidianyaoqiuid": "czchemistry040101r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 54,
+    "name": "物质的变化与转化",
+    "zhishidianid": "czchemistry0401",
+    "zhishidianyaoqiu": "认识物质的变化过程伴随着能量变化，在一定条件下通过化学反应可以实现物质转化，化学反应中的各物质间存在定量关系，初步形成变化观",
+    "zhishidianyaoqiuid": "czchemistry040102r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 55,
+    "name": "化学反应及质量守恒定律",
+    "zhishidianid": "czchemistry0402",
+    "zhishidianyaoqiu": "",
+    "zhishidianyaoqiuid": "",
+    "level": 2,
+    "relatedID": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129
+    ]
+  },
+  {
+    "id": 56,
+    "name": "认识化学反应的思路与方法",
+    "zhishidianid": "czchemistry0403",
+    "zhishidianyaoqiu": "学习从物质变化、能量变化、反应条件、反应现象、反应类型和元素守恒等视角认识化学反应，初步形成认识化学反应的系统思维意识",
+    "zhishidianyaoqiuid": "czchemistry040301r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 57,
+    "name": "认识化学反应的思路与方法",
+    "zhishidianid": "czchemistry0403",
+    "zhishidianyaoqiu": "学习利用质量关系、比例关系定量认识化学反应，认识定量研究对化学科学发展的重大作用",
+    "zhishidianyaoqiuid": "czchemistry040302r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 58,
+    "name": "认识化学反应的思路与方法",
+    "zhishidianid": "czchemistry0403",
+    "zhishidianyaoqiu": "初步形成利用化学反应探究物质性质和组成、解决物质制备和检验等实际问题的思路，初步体会化学反应与技术、工程的关系",
+    "zhishidianyaoqiuid": "czchemistry040303r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 59,
+    "name": "化学反应的应用价值及合理调控",
+    "zhishidianid": "czchemistry0404",
+    "zhishidianyaoqiu": "认识化学变化在自然界和生产生活中的广泛存在及重要应用，感受大自然中化学变化的神奇",
+    "zhishidianyaoqiuid": "czchemistry040401r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 60,
+    "name": "化学反应的应用价值及合理调控",
+    "zhishidianid": "czchemistry0404",
+    "zhishidianyaoqiu": "结合实例体会通过化学反应实现物质转化的意义和价值",
+    "zhishidianyaoqiuid": "czchemistry040402r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 61,
+    "name": "化学反应的应用价值及合理调控",
+    "zhishidianid": "czchemistry0404",
+    "zhishidianyaoqiu": "欣赏化学反应造福人类的独特价值，学习化学家的创新精神",
+    "zhishidianyaoqiuid": "czchemistry040403r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 62,
+    "name": "化学反应的应用价值及合理调控",
+    "zhishidianid": "czchemistry0404",
+    "zhishidianyaoqiu": "结合实例认识合理利用、调控化学反应的重要性，关注产品需求和成本核算，初步树立资源循环使用、绿色环保的发展理念",
+    "zhishidianyaoqiuid": "czchemistry040404r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 63,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0405",
+    "zhishidianyaoqiu": "燃烧条件的探究",
+    "zhishidianyaoqiuid": "czchemistry040501r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 64,
+    "name": "学生必做实验及实践活动",
+    "zhishidianid": "czchemistry0405",
+    "zhishidianyaoqiu": "跨学科实践活动(从学习主题5中选择)",
+    "zhishidianyaoqiuid": "czchemistry040502r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 65,
+    "name": "化学与可持续发展",
+    "zhishidianid": "czchemistry0501",
+    "zhishidianyaoqiu": "知道科学和技术有助于解决社会问题，使用科学和技术时要考虑其对社会和环境的影响，理解科学、技术、社会、环境的相互关系",
+    "zhishidianyaoqiuid": "czchemistry050101r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 66,
+    "name": "化学与可持续发展",
+    "zhishidianid": "czchemistry0501",
+    "zhishidianyaoqiu": "认识化学在解决与资源、能源、材料、环境、人类健康等相关的问题中的作用，体会化学是推动人类社会可持续发展的重要力量，树立建设美丽中国、为全球生态安全作贡献的信念",
+    "zhishidianyaoqiuid": "czchemistry050102r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 67,
+    "name": "化学与可持续发展",
+    "zhishidianid": "czchemistry0501",
+    "zhishidianyaoqiu": "主动践行节约资源、环境友好的生活方式，树立人与自然和谐共生的科学自然观和绿色发展观",
+    "zhishidianyaoqiuid": "czchemistry050103r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 68,
+    "name": "化学与资源、能源、材料、环境、健康",
+    "zhishidianid": "czchemistry0502",
+    "zhishidianyaoqiu": "结合实例，从物质及其变化的视角，认识资源的综合利用与新能源的开发、材料的科学利用与新材料的研发，理解化学与生态环境保护、医药研制及营养健康的关系",
+    "zhishidianyaoqiuid": "czchemistry050201r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 69,
+    "name": "化学与资源、能源、材料、环境、健康",
+    "zhishidianid": "czchemistry0502",
+    "zhishidianyaoqiu": "了解酒精、天然气、有机高分子材料等在社会生活中的应用",
+    "zhishidianyaoqiuid": "czchemistry050202r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 70,
+    "name": "化学与资源、能源、材料、环境、健康",
+    "zhishidianid": "czchemistry0502",
+    "zhishidianyaoqiu": "知道资源开发、能源利用和材料使用可能会对环境产生影响，树立环保意识",
+    "zhishidianyaoqiuid": "czchemistry050203r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 71,
+    "name": "化学、技术、工程融合解决跨学科问题的思路与方法",
+    "zhishidianid": "czchemistry0503",
+    "zhishidianyaoqiu": "通过实践活动，初步形成应用元素观、变化观等化学观念和科学探究方法解决问题的思路",
+    "zhishidianyaoqiuid": "czchemistry050301r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 72,
+    "name": "化学、技术、工程融合解决跨学科问题的思路与方法",
+    "zhishidianid": "czchemistry0503",
+    "zhishidianyaoqiu": "认识在解决实际问题时，需要综合运用各学科知识，采用合适的方法和工具，以及系统规划和实施",
+    "zhishidianyaoqiuid": "czchemistry050302r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 73,
+    "name": "化学、技术、工程融合解决跨学科问题的思路与方法",
+    "zhishidianid": "czchemistry0503",
+    "zhishidianyaoqiu": "体会有效使用科学技术，以及合作、协同创新解决问题的重要性",
+    "zhishidianyaoqiuid": "czchemistry050303r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 74,
+    "name": "应对未来不确定性挑战",
+    "zhishidianid": "czchemistry0504",
+    "zhishidianyaoqiu": "",
+    "zhishidianyaoqiuid": "",
+    "level": 2,
+    "relatedID": [
+      130,
+      131,
+      132,
+      133,
+      134
+    ]
+  },
+  {
+    "id": 75,
+    "name": "跨学科实践活动",
+    "zhishidianid": "czchemistry0505",
+    "zhishidianyaoqiu": "微型空气质量“检测站”的组装与使用",
+    "zhishidianyaoqiuid": "czchemistry050501r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 76,
+    "name": "跨学科实践活动",
+    "zhishidianid": "czchemistry0505",
+    "zhishidianyaoqiu": "基于特定需求设计和制作简易供氧器",
+    "zhishidianyaoqiuid": "czchemistry050502r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 77,
+    "name": "跨学科实践活动",
+    "zhishidianid": "czchemistry0505",
+    "zhishidianyaoqiu": "水质检测及自制净水器",
+    "zhishidianyaoqiuid": "czchemistry050503r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 78,
+    "name": "跨学科实践活动",
+    "zhishidianid": "czchemistry0505",
+    "zhishidianyaoqiu": "基于碳中和理念设计低碳行动方案",
+    "zhishidianyaoqiuid": "czchemistry050504r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 79,
+    "name": "跨学科实践活动",
+    "zhishidianid": "czchemistry0505",
+    "zhishidianyaoqiu": "垃圾的分类与回收利用",
+    "zhishidianyaoqiuid": "czchemistry050505r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 80,
+    "name": "跨学科实践活动",
+    "zhishidianid": "czchemistry0505",
+    "zhishidianyaoqiu": "探究土壤酸碱性对植物生长的影响",
+    "zhishidianyaoqiuid": "czchemistry050506r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 81,
+    "name": "跨学科实践活动",
+    "zhishidianid": "czchemistry0505",
+    "zhishidianyaoqiu": "海洋资源的综合利用与制盐",
+    "zhishidianyaoqiuid": "czchemistry050507r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 82,
+    "name": "跨学科实践活动",
+    "zhishidianid": "czchemistry0505",
+    "zhishidianyaoqiu": "制作模型并展示科学家探索物质组成与结构的历程",
+    "zhishidianyaoqiuid": "czchemistry050508r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 83,
+    "name": "跨学科实践活动",
+    "zhishidianid": "czchemistry0505",
+    "zhishidianyaoqiu": "调查家用燃料的变迁与合理使用",
+    "zhishidianyaoqiuid": "czchemistry050509r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 84,
+    "name": "跨学科实践活动",
+    "zhishidianid": "czchemistry0505",
+    "zhishidianyaoqiu": "调查我国航天科技领域中新型材料、新型能源的应用",
+    "zhishidianyaoqiuid": "czchemistry050510r",
+    "level": 2,
+    "relatedID": []
+  },
+  {
+    "id": 85,
+    "name": "科学探究的能力",
+    "zhishidianid": "czchemistry010201",
+    "zhishidianyaoqiu": "知道科学探究是收集证据和作出解释，进行发现、创造与应用的科学实践活动，也是获取科学知识、理解科学本质、认识客观世界的重要途径",
+    "zhishidianyaoqiuid": "czchemistry01020101r",
+    "level": 3
+  },
+  {
+    "id": 86,
+    "name": "科学探究的能力",
+    "zhishidianid": "czchemistry010201",
+    "zhishidianyaoqiu": "了解科学探究过程包括提出问题、形成假设、设计并实施实验或调查方案、获取证据、分析解释数据、形成结论及建构模型、反思评价及表达交流等要素",
+    "zhishidianyaoqiuid": "czchemistry01020102r",
+    "level": 3
+  },
+  {
+    "id": 87,
+    "name": "科学探究的能力",
+    "zhishidianid": "czchemistry010201",
+    "zhishidianyaoqiu": "经历科学探究的一般过程，认识从问题和假设出发确定探究目标、依据探究目标设计并实施实验方案、通过观察和实验等方法获取证据、基于证据进行分析推理及形成结论等对于科学探究的意义，体会合作与交流在科学探究中的重要作用",
+    "zhishidianyaoqiuid": "czchemistry01020103r",
+    "level": 3
+  },
+  {
+    "id": 88,
+    "name": "基本的化学实验技能",
+    "zhishidianid": "czchemistry010202",
+    "zhishidianyaoqiu": "知道化学实验是进行科学探究的重要方式，具备基本的化学实验技能是学习化学和进行探究活动的基础和保证",
+    "zhishidianyaoqiuid": "czchemistry01020201r",
+    "level": 3
+  },
+  {
+    "id": 89,
+    "name": "基本的化学实验技能",
+    "zhishidianid": "czchemistry010202",
+    "zhishidianyaoqiu": "熟悉化学实验室安全警示标志，学会正确使用安全防护设施，学习妥善应对实验安全问题的必要措施",
+    "zhishidianyaoqiuid": "czchemistry01020202r",
+    "level": 3
+  },
+  {
+    "id": 90,
+    "name": "基本的化学实验技能",
+    "zhishidianid": "czchemistry010202",
+    "zhishidianyaoqiu": "学会试剂的取用、简单仪器的使用及连接、加热等实验基本操作",
+    "zhishidianyaoqiuid": "czchemistry01020203r",
+    "level": 3
+  },
+  {
+    "id": 91,
+    "name": "基本的化学实验技能",
+    "zhishidianid": "czchemistry010202",
+    "zhishidianyaoqiu": "初步学会在教师指导下根据实验需要选择实验试剂和仪器，并能安全操作",
+    "zhishidianyaoqiuid": "czchemistry01020204r",
+    "level": 3
+  },
+  {
+    "id": 92,
+    "name": "基本的化学实验技能",
+    "zhishidianid": "czchemistry010202",
+    "zhishidianyaoqiu": "初步学会配制一定溶质质量分数的溶液",
+    "zhishidianyaoqiuid": "czchemistry01020205r",
+    "level": 3
+  },
+  {
+    "id": 93,
+    "name": "基本的化学实验技能",
+    "zhishidianid": "czchemistry010202",
+    "zhishidianyaoqiu": "学会用酸碱指示剂、pH试纸检验溶液的酸碱性",
+    "zhishidianyaoqiuid": "czchemistry01020206r",
+    "level": 3
+  },
+  {
+    "id": 94,
+    "name": "基本的化学实验技能",
+    "zhishidianid": "czchemistry010202",
+    "zhishidianyaoqiu": "初步学会根据某些性质检验和区分一些常见的物质",
+    "zhishidianyaoqiuid": "czchemistry01020207r",
+    "level": 3
+  },
+  {
+    "id": 95,
+    "name": "基本的化学实验技能",
+    "zhishidianid": "czchemistry010202",
+    "zhishidianyaoqiu": "初步学习使用过滤、蒸发的方法对混合物进行分离",
+    "zhishidianyaoqiuid": "czchemistry01020208r",
+    "level": 3
+  },
+  {
+    "id": 96,
+    "name": "基本的化学实验技能",
+    "zhishidianid": "czchemistry010202",
+    "zhishidianyaoqiu": "初步学习运用简单的装置和方法制取某些气体",
+    "zhishidianyaoqiuid": "czchemistry01020209r",
+    "level": 3
+  },
+  {
+    "id": 97,
+    "name": "基本的化学实验技能",
+    "zhishidianid": "czchemistry010202",
+    "zhishidianyaoqiu": "初步学会观察实验现象，并如实记录、处理实验数据，撰写实验报告等技能",
+    "zhishidianyaoqiuid": "czchemistry01020210r",
+    "level": 3
+  },
+  {
+    "id": 98,
+    "name": "空气、氧气、二氧化碳",
+    "zhishidianid": "czchemistry020201",
+    "zhishidianyaoqiu": "了解空气的主要成分",
+    "zhishidianyaoqiuid": "czchemistry02020101r",
+    "level": 3
+  },
+  {
+    "id": 99,
+    "name": "空气、氧气、二氧化碳",
+    "zhishidianid": "czchemistry020201",
+    "zhishidianyaoqiu": "通过实验探究认识氧气、二氧化碳的主要性质，认识物质的性质与用途的关系",
+    "zhishidianyaoqiuid": "czchemistry02020102r",
+    "level": 3
+  },
+  {
+    "id": 100,
+    "name": "空气、氧气、二氧化碳",
+    "zhishidianid": "czchemistry020201",
+    "zhishidianyaoqiu": "初步学习氧气和二氧化碳的实验室制法，归纳实验室制取气体的一般思路与方法",
+    "zhishidianyaoqiuid": "czchemistry02020103r",
+    "level": 3
+  },
+  {
+    "id": 101,
+    "name": "空气、氧气、二氧化碳",
+    "zhishidianid": "czchemistry020201",
+    "zhishidianyaoqiu": "以自然界中的氧循环和碳循环为例，认识物质在自然界中可以相互转化及其对维持人类生活与生态平衡的意义",
+    "zhishidianyaoqiuid": "czchemistry02020104r",
+    "level": 3
+  },
+  {
+    "id": 102,
+    "name": "水和溶液",
+    "zhishidianid": "czchemistry020202",
+    "zhishidianyaoqiu": "认识水的组成，知道水是一种重要的溶剂，了解吸附、沉降、过滤和蒸馏是净化水的常用方法",
+    "zhishidianyaoqiuid": "czchemistry02020201r",
+    "level": 3
+  },
+  {
+    "id": 103,
+    "name": "水和溶液",
+    "zhishidianid": "czchemistry020202",
+    "zhishidianyaoqiu": "认识溶解和结晶现象",
+    "zhishidianyaoqiuid": "czchemistry02020202r",
+    "level": 3
+  },
+  {
+    "id": 104,
+    "name": "水和溶液",
+    "zhishidianid": "czchemistry020202",
+    "zhishidianyaoqiu": "知道溶液是由溶质和溶剂组成的，具有均一性和稳定性",
+    "zhishidianyaoqiuid": "czchemistry02020203r",
+    "level": 3
+  },
+  {
+    "id": 105,
+    "name": "水和溶液",
+    "zhishidianid": "czchemistry020202",
+    "zhishidianyaoqiu": "知道绝大多数物质在溶剂中的溶解是有限度的，了解饱和溶液和溶解度的含义",
+    "zhishidianyaoqiuid": "czchemistry02020204r",
+    "level": 3
+  },
+  {
+    "id": 106,
+    "name": "水和溶液",
+    "zhishidianid": "czchemistry020202",
+    "zhishidianyaoqiu": "知道溶质质量分数可以表示浓度，认识溶质质量分数的含义，学习计算溶质质量分数和配制一定溶质质量分数的溶液的基本方法，初步感受定量研究的意义",
+    "zhishidianyaoqiuid": "czchemistry02020205r",
+    "level": 3
+  },
+  {
+    "id": 107,
+    "name": "水和溶液",
+    "zhishidianid": "czchemistry020202",
+    "zhishidianyaoqiu": "体会溶液在生产生活中的应用价值",
+    "zhishidianyaoqiuid": "czchemistry02020206r",
+    "level": 3
+  },
+  {
+    "id": 108,
+    "name": "金属与金属矿物",
+    "zhishidianid": "czchemistry020203",
+    "zhishidianyaoqiu": "知道大多数金属在自然界中是以金属矿物形式存在的，体会化学方法在金属冶炼中的重要性",
+    "zhishidianyaoqiuid": "czchemistry02020301r",
+    "level": 3
+  },
+  {
+    "id": 109,
+    "name": "金属与金属矿物",
+    "zhishidianid": "czchemistry020203",
+    "zhishidianyaoqiu": "知道金属具有一些共同的物理性质，通过实验探究等活动认识常见金属的主要化学性质及金属活动性顺序",
+    "zhishidianyaoqiuid": "czchemistry02020302r",
+    "level": 3
+  },
+  {
+    "id": 110,
+    "name": "金属与金属矿物",
+    "zhishidianid": "czchemistry020203",
+    "zhishidianyaoqiu": "知道在金属中加入其他元素形成合金可以改变金属材料的性能",
+    "zhishidianyaoqiuid": "czchemistry02020303r",
+    "level": 3
+  },
+  {
+    "id": 111,
+    "name": "金属与金属矿物",
+    "zhishidianid": "czchemistry020203",
+    "zhishidianyaoqiu": "了解金属、金属材料在生产生活和社会发展中的重要作用",
+    "zhishidianyaoqiuid": "czchemistry02020304r",
+    "level": 3
+  },
+  {
+    "id": 112,
+    "name": "金属与金属矿物",
+    "zhishidianid": "czchemistry020203",
+    "zhishidianyaoqiu": "以铁生锈为例，了解防止金属腐蚀的常用方法",
+    "zhishidianyaoqiuid": "czchemistry02020305r",
+    "level": 3
+  },
+  {
+    "id": 113,
+    "name": "金属与金属矿物",
+    "zhishidianid": "czchemistry020203",
+    "zhishidianyaoqiu": "了解废弃金属对环境的影响及金属回收再利用的价值",
+    "zhishidianyaoqiuid": "czchemistry02020306r",
+    "level": 3
+  },
+  {
+    "id": 114,
+    "name": "常见的酸、碱、盐",
+    "zhishidianid": "czchemistry020204",
+    "zhishidianyaoqiu": "以盐酸、硫酸、氢氧化钠和氢氧化钙为例，通过实验探究认识酸、碱的主要性质和用途",
+    "zhishidianyaoqiuid": "czchemistry02020401r",
+    "level": 3
+  },
+  {
+    "id": 115,
+    "name": "常见的酸、碱、盐",
+    "zhishidianid": "czchemistry020204",
+    "zhishidianyaoqiu": "了解检验溶液酸碱性的基本方法，知道酸碱性对人体健康和农作物生长的影响",
+    "zhishidianyaoqiuid": "czchemistry02020402r",
+    "level": 3
+  },
+  {
+    "id": 116,
+    "name": "常见的酸、碱、盐",
+    "zhishidianid": "czchemistry020204",
+    "zhishidianyaoqiu": "了解食盐、纯碱、小苏打和碳酸钙等盐在日常生活中的应用",
+    "zhishidianyaoqiuid": "czchemistry02020403r",
+    "level": 3
+  },
+  {
+    "id": 117,
+    "name": "常见的酸、碱、盐",
+    "zhishidianid": "czchemistry020204",
+    "zhishidianyaoqiu": "知道一些常用化肥及其在农业生产中的作用",
+    "zhishidianyaoqiuid": "czchemistry02020404r",
+    "level": 3
+  },
+  {
+    "id": 118,
+    "name": "元素",
+    "zhishidianid": "czchemistry030201",
+    "zhishidianyaoqiu": "认识物质是由元素组成的，知道质子数相同的一类原子属于同种元素，了解在化学反应中元素的种类是不变的，初步认识元素周期表",
+    "zhishidianyaoqiuid": "czchemistry03020101r",
+    "level": 3
+  },
+  {
+    "id": 119,
+    "name": "分子、原子",
+    "zhishidianid": "czchemistry030202",
+    "zhishidianyaoqiu": "知道物质是由分子、原子等微观粒子构成的",
+    "zhishidianyaoqiuid": "czchemistry03020201r",
+    "level": 3
+  },
+  {
+    "id": 120,
+    "name": "分子、原子",
+    "zhishidianid": "czchemistry030202",
+    "zhishidianyaoqiu": "认识原子是由原子核和核外电子构成的",
+    "zhishidianyaoqiuid": "czchemistry03020202r",
+    "level": 3
+  },
+  {
+    "id": 121,
+    "name": "分子、原子",
+    "zhishidianid": "czchemistry030202",
+    "zhishidianyaoqiu": "知道原子可以结合成分子，也可以转变为离子",
+    "zhishidianyaoqiuid": "czchemistry03020203r",
+    "level": 3
+  },
+  {
+    "id": 122,
+    "name": "物质组成的表示",
+    "zhishidianid": "czchemistry030203",
+    "zhishidianyaoqiu": "知道可以用符号表示物质的组成，认识表示分子、原子、离子的符号，知道常见元素的化合价，学习用化学式表示常见物质组成的方法，认识相对原子质量、相对分子质量的含义及应用",
+    "zhishidianyaoqiuid": "czchemistry03020301r",
+    "level": 3
+  },
+  {
+    "id": 123,
+    "name": "化学变化的特征及化学反应的基本类型",
+    "zhishidianid": "czchemistry040201",
+    "zhishidianyaoqiu": "认识化学变化是产生新物质的过程，知道化学变化常伴随生成沉淀、产生气体、发生颜色变化、发光，以及吸热或放热等现象",
+    "zhishidianyaoqiuid": "czchemistry04020101r",
+    "level": 3
+  },
+  {
+    "id": 124,
+    "name": "化学变化的特征及化学反应的基本类型",
+    "zhishidianid": "czchemistry040201",
+    "zhishidianyaoqiu": "理解化学反应的本质是原子的重新组合，化学反应前后，原子的种类和数量不变，分子的种类发生改变",
+    "zhishidianyaoqiuid": "czchemistry04020102r",
+    "level": 3
+  },
+  {
+    "id": 125,
+    "name": "化学变化的特征及化学反应的基本类型",
+    "zhishidianid": "czchemistry040201",
+    "zhishidianyaoqiu": "认识常见的化合反应、分解反应、置换反应和复分解反应及简单应用",
+    "zhishidianyaoqiuid": "czchemistry04020103r",
+    "level": 3
+  },
+  {
+    "id": 126,
+    "name": "化学变化的特征及化学反应的基本类型",
+    "zhishidianid": "czchemistry040201",
+    "zhishidianyaoqiu": "了解化学反应需要一定的条件，知道催化剂对化学反应的重要作用",
+    "zhishidianyaoqiuid": "czchemistry04020104r",
+    "level": 3
+  },
+  {
+    "id": 127,
+    "name": "化学变化的特征及化学反应的基本类型",
+    "zhishidianid": "czchemistry040201",
+    "zhishidianyaoqiu": "通过实验探究认识燃烧的条件，理解燃烧和灭火的原理及其在生活中的应用，初步体会调控化学反应的重要意义",
+    "zhishidianyaoqiuid": "czchemistry04020105r",
+    "level": 3
+  },
+  {
+    "id": 128,
+    "name": "化学反应的定量关系与质量守恒定律",
+    "zhishidianid": "czchemistry040202",
+    "zhishidianyaoqiu": "认识化学反应中的各物质间存在定量关系，化学反应遵守质量守恒定律",
+    "zhishidianyaoqiuid": "czchemistry04020201r",
+    "level": 3
+  },
+  {
+    "id": 129,
+    "name": "化学反应的定量关系与质量守恒定律",
+    "zhishidianid": "czchemistry040202",
+    "zhishidianyaoqiu": "理解质量守恒定律的微观本质",
+    "zhishidianyaoqiuid": "czchemistry04020202r",
+    "level": 3
+  },
+  {
+    "id": 130,
+    "name": "科学伦理及法律规范",
+    "zhishidianid": "czchemistry050401",
+    "zhishidianyaoqiu": "通过实例分析或参加与化学相关的职业体验活动，认识到应用科学知识解决问题时，应恪守科学伦理",
+    "zhishidianyaoqiuid": "czchemistry05040101r",
+    "level": 3
+  },
+  {
+    "id": 131,
+    "name": "科学伦理及法律规范",
+    "zhishidianid": "czchemistry050401",
+    "zhishidianyaoqiu": "知道国家在生态环境保护，化学品、食品、药品安全等方面颁布了法律法规，增强遵纪守法、自我保护及维护社会安全的意识",
+    "zhishidianyaoqiuid": "czchemistry05040102r",
+    "level": 3
+  },
+  {
+    "id": 132,
+    "name": "社会性科学议题的合理应对",
+    "zhishidianid": "czchemistry050402",
+    "zhishidianyaoqiu": "知道现代科学技术的开发和应用可能会引起与生态环境、伦理道德、经济发展等相关的问题",
+    "zhishidianyaoqiuid": "czchemistry05040201r",
+    "level": 3
+  },
+  {
+    "id": 133,
+    "name": "社会性科学议题的合理应对",
+    "zhishidianid": "czchemistry050402",
+    "zhishidianyaoqiu": "知道人类生存与发展会面临来自环境、能源、资源、健康和公共卫生等方面的危机与不确定性挑战",
+    "zhishidianyaoqiuid": "czchemistry05040202r",
+    "level": 3
+  },
+  {
+    "id": 134,
+    "name": "社会性科学议题的合理应对",
+    "zhishidianid": "czchemistry050402",
+    "zhishidianyaoqiu": "通过参与社会性科学议题的探讨活动，体会以理性、积极的态度和系统、创新的思维应对挑战的重要性",
+    "zhishidianyaoqiuid": "czchemistry05040203r",
+    "level": 3
+  }
+]

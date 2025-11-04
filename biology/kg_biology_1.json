@@ -1,0 +1,1354 @@
+[
+  {
+    "id": 0,
+    "name": "初中生物",
+    "xueduanID": "czbiology",
+    "level": 0,
+    "relatedID": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "id": 1,
+    "name": "生物体的结构层次",
+    "zhishidianid": "czbiology01",
+    "yijizhishidianmiaoshu": "生物体具有一定的结构层次。细胞是生物体结构和功能的基本单位。细胞的分裂、分化和生长是细胞重要的生命活动。细胞经过分裂和分化可以形成生物体的各种组织，功能不同的组织可以形成器官，共同完成某种生理功能的器官可以形成系统。多细胞生物体依靠器官（系统）之间的协调配合，进行正常的生命活动。\n通过本主题的学习，学生能够从微观和宏观两个尺度认识生物体的结构层次，初步理解细胞的多样性和统一性，初步形成结构与功能、部分与整体相统一等观念，逐步形成科学的自然观。",
+    "level": 1,
+    "relatedID": [
+      8
+    ]
+  },
+  {
+    "id": 2,
+    "name": "生物的多样性",
+    "zhishidianid": "czbiology02",
+    "yijizhishidianmiaoshu": "地球上的生物是多种多样的。依据生物之间的相似程度，可将生物分成不同的类群。生物与人类的生活关系密切，生物的多样性对维持生态平衡具有重要作用。\n通过本主题的学习，学生能够认识到生物种类丰富，不同的生物在形态和结构上既有相似之处，又有差别，进而认识到生物具有多样性和统一性。同时，本主题的学习还有助于学生形成保护生物多样性的意识和行为习惯，增强社会责任感。",
+    "level": 1,
+    "relatedID": [
+      9
+    ]
+  },
+  {
+    "id": 3,
+    "name": "生物与环境",
+    "zhishidianid": "czbiology03",
+    "yijizhishidianmiaoshu": "生物的生活离不开环境，同时生物又能适应和影响环境。生物与环境保持着十分密切的关系，并形成多种多样的生态系统。生态系统自我调节的能力是有限的，人类活动可能对生态环境造成一定的破坏，维护生态平衡对于人类的生存和发展具有重要意义。\n通过本主题的学习，学生能够运用系统与整体的思维方式认识生物与环境的相互关系，认同山水林田湖草是一个生命共同体，形成热爱自然、敬畏自然的情感，树立人与自然和谐共生的生态观，确立生态文明观念。",
+    "level": 1,
+    "relatedID": [
+      10
+    ]
+  },
+  {
+    "id": 4,
+    "name": "植物的生活",
+    "zhishidianid": "czbiology04",
+    "yijizhishidianmiaoshu": "植物分布广泛，直接或间接地为其他生物提供食物和能量；植物参与生物圈中的水循环，维持生物圈中的碳氧平衡。植物对生物圈的存在和发展起着决定性作用。\n通过本主题的学习，学生能够理解植物生命活动的基本过程和原理，运用这些生命活动原理分析、解释、解决生产生活中的某些实际问题，并从物质循环和能量变化的角度阐明植物在生物圈中的重要地位。",
+    "level": 1,
+    "relatedID": [
+      11
+    ]
+  },
+  {
+    "id": 5,
+    "name": "人体生理与健康",
+    "zhishidianid": "czbiology05",
+    "yijizhishidianmiaoshu": "人体具有多个系统，各系统相互协调与配合，共同完成各项生命活动。人体健康是生活质量的重要保障，良好的行为习惯对机体健康至关重要。\n通过本主题的学习，学生能够从系统、器官等不同的结构层次认识人体的结构与功能，初步形成结构与功能相适应的观念。了解传染病的危害；理解人体免疫的基本原理；认识到遵守社区、地区和国家的相关防疫要求，有助于传染病的防控，增强社会责任意识。通过对传染病和免疫、医药与急救等知识的学习，认同生物学及医学伦理观念，养成健康生活的态度和行为习惯。",
+    "level": 1,
+    "relatedID": [
+      12,
+      13
+    ]
+  },
+  {
+    "id": 6,
+    "name": "遗传与进化",
+    "zhishidianid": "czbiology06",
+    "yijizhishidianmiaoshu": "生物的生殖、发育和遗传是生命的基本特征。植物、动物和人通过生殖和遗传维持物种的延续。生命的起源和生物的进化是生物学研究的重要领域。以自然选择学说为核心的生物进化理论，解释了生物多样性的原因。\n通过本主题的学习，学生能够理解遗传信息与生物性状的关系，以及遗传信息可以在亲子代之间传递；逐渐形成生物进化的观点；能够正确认识转基因技术在生产生活和社会发展中的作用。",
+    "level": 1,
+    "relatedID": [
+      14,
+      15
+    ]
+  },
+  {
+    "id": 7,
+    "name": "生物学与社会·跨学科实践",
+    "zhishidianid": "czbiology07",
+    "yijizhishidianmiaoshu": "本学习主题包括模型制作、植物栽培和动物饲养、发酵食品制作三类跨学科实践活动。通过本主题的学习，学生能够认识生物学与社会的关系，能够理解科学、技术、工程学、数学等学科的相互关系，并尝试运用多学科的知识和方法，通过设计和制作，解决现实问题或生产特定的产品，发展核心素养。",
+    "level": 1,
+    "relatedID": [
+      16
+    ]
+  },
+  {
+    "id": 8,
+    "name": "生物体具有一定的结构层次，能够完成各项生命活动",
+    "zhishidianid": "czbiology0101",
+    "level": 2,
+    "relatedID": [
+      17,
+      18
+    ]
+  },
+  {
+    "id": 9,
+    "name": "生物可以分为不同的类群，保护生物的多样性具有重要意义",
+    "zhishidianid": "czbiology0201",
+    "level": 2,
+    "relatedID": [
+      19,
+      20,
+      21,
+      22
+    ]
+  },
+  {
+    "id": 10,
+    "name": "生物与环境相互依赖、相互影响，形成多种多样的生态系统",
+    "zhishidianid": "czbiology0301",
+    "level": 2,
+    "relatedID": [
+      23,
+      24
+    ]
+  },
+  {
+    "id": 11,
+    "name": "植物有自己的生命周期，可以制造有机物，直接或间接地为其他生物提供食物，参与生物圈中的水循环，并维持碳氧平衡",
+    "zhishidianid": "czbiology0401",
+    "level": 2,
+    "relatedID": [
+      25,
+      26,
+      27
+    ]
+  },
+  {
+    "id": 12,
+    "name": "人体的结构与功能相适应，各系统协调统一，共同完成复杂的生命活动",
+    "zhishidianid": "czbiology0501",
+    "level": 2,
+    "relatedID": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ]
+  },
+  {
+    "id": 13,
+    "name": "人体健康受传染病、心血管疾病、癌症及外部伤害的威胁，良好的生活习惯和医疗措施是健康的重要保障",
+    "zhishidianid": "czbiology0502",
+    "level": 2,
+    "relatedID": [
+      33,
+      34
+    ]
+  },
+  {
+    "id": 14,
+    "name": "遗传信息控制生物性状，并由亲代传递给子代",
+    "zhishidianid": "czbiology0601",
+    "level": 2,
+    "relatedID": [
+      35,
+      36
+    ]
+  },
+  {
+    "id": 15,
+    "name": "地球上现存的生物来自共同祖先，是长期进化的结果",
+    "zhishidianid": "czbiology0602",
+    "level": 2,
+    "relatedID": [
+      37,
+      38
+    ]
+  },
+  {
+    "id": 16,
+    "name": "真实情境中的问题解决，通常需要综合运用科学、技术、工程学和数学等学科的概念、方法和思想，设计方案并付诸实施，以寻求科学问题的答案或制造相关产品",
+    "zhishidianid": "czbiology0701",
+    "level": 2,
+    "relatedID": [
+      39,
+      40,
+      41
+    ]
+  },
+  {
+    "id": 17,
+    "name": "细胞是生物体结构和功能的基本单位",
+    "zhishidianid": "czbiology010101",
+    "level": 3,
+    "relatedID": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ]
+  },
+  {
+    "id": 18,
+    "name": "生物体的各部分在结构上相互联系，在功能上相互配合，共同完成各项生命活动",
+    "zhishidianid": "czbiology010102",
+    "level": 3,
+    "relatedID": [
+      48,
+      49,
+      50,
+      51
+    ]
+  },
+  {
+    "id": 19,
+    "name": "对生物进行科学分类需要以生物的特征为依据",
+    "zhishidianid": "czbiology020101",
+    "level": 3,
+    "relatedID": [
+      52,
+      53
+    ]
+  },
+  {
+    "id": 20,
+    "name": "根据生物的形态结构、生理功能以及繁殖方式等，可以将生物分为不同的类群",
+    "zhishidianid": "czbiology020102",
+    "level": 3,
+    "relatedID": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ]
+  },
+  {
+    "id": 21,
+    "name": "微生物一般是指个体微小、结构简单的生物，主要包括病毒、细菌和真菌",
+    "zhishidianid": "czbiology020103",
+    "level": 3,
+    "relatedID": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ]
+  },
+  {
+    "id": 22,
+    "name": "我国拥有丰富的动植物资源，保护生物的多样性是每个人应有的责任",
+    "zhishidianid": "czbiology020104",
+    "level": 3,
+    "relatedID": [
+      68,
+      69,
+      70,
+      71
+    ]
+  },
+  {
+    "id": 23,
+    "name": "生态系统中的生物与非生物环境相互作用，实现了物质循环和能量流动",
+    "zhishidianid": "czbiology030101",
+    "level": 3,
+    "relatedID": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ]
+  },
+  {
+    "id": 24,
+    "name": "生态系统的自我调节能力有一定限度，保护生物圈就是保护生态安全",
+    "zhishidianid": "czbiology030102",
+    "level": 3,
+    "relatedID": [
+      79,
+      80,
+      81
+    ]
+  },
+  {
+    "id": 25,
+    "name": "绿色开花植物的生命周期包括种子萌发、生长、开花、结果与死亡等阶段",
+    "zhishidianid": "czbiology040101",
+    "level": 3,
+    "relatedID": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ]
+  },
+  {
+    "id": 26,
+    "name": "植物通过吸收、运输和蒸腾作用等生理活动，获取养分，进行物质运输，参与生物圈中的水循环",
+    "zhishidianid": "czbiology040102",
+    "level": 3,
+    "relatedID": [
+      90,
+      91,
+      92
+    ]
+  },
+  {
+    "id": 27,
+    "name": "植物通过光合作用和呼吸作用获得生命活动必需的物质和能量，有助于维持生物圈中的碳氧平衡",
+    "zhishidianid": "czbiology040103",
+    "level": 3,
+    "relatedID": [
+      93,
+      94,
+      95,
+      96,
+      97
+    ]
+  },
+  {
+    "id": 28,
+    "name": "人体通过消化系统从外界获取生命活动所需的营养物质",
+    "zhishidianid": "czbiology050101",
+    "level": 3,
+    "relatedID": [
+      98,
+      99,
+      100,
+      101,
+      102,
+      103
+    ]
+  },
+  {
+    "id": 29,
+    "name": "人体通过循环系统进行体内的物质运输",
+    "zhishidianid": "czbiology050102",
+    "level": 3,
+    "relatedID": [
+      104,
+      105,
+      106
+    ]
+  },
+  {
+    "id": 30,
+    "name": "人体通过呼吸系统与外界进行气体交换",
+    "zhishidianid": "czbiology050103",
+    "level": 3,
+    "relatedID": [
+      107,
+      108,
+      109,
+      110
+    ]
+  },
+  {
+    "id": 31,
+    "name": "人体主要通过泌尿系统排出代谢废物和多余的水",
+    "zhishidianid": "czbiology050104",
+    "level": 3,
+    "relatedID": [
+      111,
+      112,
+      113
+    ]
+  },
+  {
+    "id": 32,
+    "name": "人体各系统在神经系统和内分泌系统的调节下，相互联系和协调，共同完成各项生命活动，以适应机体内外环境的变化",
+    "zhishidianid": "czbiology050105",
+    "level": 3,
+    "relatedID": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123
+    ]
+  },
+  {
+    "id": 33,
+    "name": "人体具有免疫功能，通过计划免疫等措施能够预防传染病",
+    "zhishidianid": "czbiology050201",
+    "level": 3,
+    "relatedID": [
+      124,
+      125,
+      126,
+      127,
+      128,
+      129
+    ]
+  },
+  {
+    "id": 34,
+    "name": "生活习惯与行为选择能够影响人体健康",
+    "zhishidianid": "czbiology050202",
+    "level": 3,
+    "relatedID": [
+      130,
+      131,
+      132,
+      133,
+      134
+    ]
+  },
+  {
+    "id": 35,
+    "name": "生物通过有性生殖或无性生殖产生后代",
+    "zhishidianid": "czbiology060101",
+    "level": 3,
+    "relatedID": [
+      135,
+      136,
+      137
+    ]
+  },
+  {
+    "id": 36,
+    "name": "生物体的性状主要由基因控制",
+    "zhishidianid": "czbiology060102",
+    "level": 3,
+    "relatedID": [
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145
+    ]
+  },
+  {
+    "id": 37,
+    "name": "地球上现存的生物具有共同祖先",
+    "zhishidianid": "czbiology060201",
+    "level": 3,
+    "relatedID": [
+      146,
+      147
+    ]
+  },
+  {
+    "id": 38,
+    "name": "多种多样的生物是经过自然选择长期进化的结果",
+    "zhishidianid": "czbiology060202",
+    "level": 3,
+    "relatedID": [
+      148,
+      149,
+      150
+    ]
+  },
+  {
+    "id": 39,
+    "name": "模型制作类跨学科实践活动：针对特定的生物学内容，运用生物学、物理、技术、工程学等学科概念，以及“结构与功能”“尺度、比例和数量”“系统与模型”等跨学科概念，选择恰当的材料，设计并制作模型，直观地表征相应的结构与功能，提升探究实践能力",
+    "zhishidianid": "czbiology070101",
+    "level": 3,
+    "relatedID": [
+      151,
+      152,
+      153,
+      154
+    ]
+  },
+  {
+    "id": 40,
+    "name": "植物栽培和动物饲养类跨学科实践活动：植物栽培和动物饲养可以综合运用多学科的知识和方法，考虑“结构与功能”“物质与能量”“因果关系”等跨学科概念，设计恰当的装置，以满足生物生长的需要",
+    "zhishidianid": "czbiology070102",
+    "level": 3,
+    "relatedID": [
+      155,
+      156,
+      157,
+      158,
+      159
+    ]
+  },
+  {
+    "id": 41,
+    "name": "发酵食品制作类跨学科实践活动：发酵食品的制作可以运用传统的发酵技术来完成；发酵食品的改良需要好的创意，运用多学科的知识和方法，从发酵的条件控制、装置的改进、食材的选择等方面不断尝试",
+    "zhishidianid": "czbiology070103",
+    "level": 3,
+    "relatedID": [
+      160,
+      161,
+      162
+    ]
+  },
+  {
+    "id": 42,
+    "name": "一些生物由单细胞构成",
+    "zhishidianid": "czbiology01010101",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 43,
+    "name": "一些生物由多细胞组成",
+    "zhishidianid": "czbiology01010102",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 44,
+    "name": "动物细胞、植物细胞都具有细胞膜、细胞质、细胞核等结构",
+    "zhishidianid": "czbiology01010103",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 45,
+    "name": "植物细胞具有不同于动物细胞的结构，如叶绿体和细胞壁",
+    "zhishidianid": "czbiology01010104",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 46,
+    "name": "细胞不同结构的功能各不相同，共同完成细胞的各项生命活动",
+    "zhishidianid": "czbiology01010105",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 47,
+    "name": "细胞核是遗传信息库",
+    "zhishidianid": "czbiology01010106",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 48,
+    "name": "细胞能通过分裂和分化形成不同的组织",
+    "zhishidianid": "czbiology01010201",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 49,
+    "name": "绿色开花植物体的结构层次包括细胞、组织、器官和个体",
+    "zhishidianid": "czbiology01010202",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 50,
+    "name": "高等动物体的结构层次包括细胞、组织、器官、系统和个体",
+    "zhishidianid": "czbiology01010203",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 51,
+    "name": "生物体在结构和功能上是一个统一的整体",
+    "zhishidianid": "czbiology01010204",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 52,
+    "name": "根据生物之间的相似程度将生物划分为界、门、纲、目、科、属、种等分类等级",
+    "zhishidianid": "czbiology02010101",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 53,
+    "name": "“种”是最基本的生物分类单位",
+    "zhishidianid": "czbiology02010102",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 54,
+    "name": "藻类是能够进行光合作用的结构简单的生物",
+    "zhishidianid": "czbiology02010201",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 55,
+    "name": "从苔藓植物、蕨类植物，到种子植物，逐渐出现根、茎、叶等器官的分化",
+    "zhishidianid": "czbiology02010202",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 56,
+    "name": "植物繁殖过程逐渐摆脱了对水环境的依赖",
+    "zhishidianid": "czbiology02010203",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 57,
+    "name": "无脊椎动物与人类关系密切，如线虫动物（蛔虫）、环节动物（蚯蚓)、节肢动物（蝗虫、蜜蜂）等",
+    "zhishidianid": "czbiology02010204",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 58,
+    "name": "脊椎动物（鱼类、两栖类、爬行类、鸟类、哺乳类）都具有适应其生活方式和环境的主要特征",
+    "zhishidianid": "czbiology02010205",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 59,
+    "name": "动植物类群可能对人类生活产生积极的或负面的影响",
+    "zhishidianid": "czbiology02010206",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 60,
+    "name": "病毒无细胞结构",
+    "zhishidianid": "czbiology02010301",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 61,
+    "name": "病毒需要在活细胞内完成增殖",
+    "zhishidianid": "czbiology02010302",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 62,
+    "name": "细菌是单细胞生物",
+    "zhishidianid": "czbiology02010303",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 63,
+    "name": "细菌无成形的细胞核",
+    "zhishidianid": "czbiology02010304",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 64,
+    "name": "真菌是单细胞或多细胞生物",
+    "zhishidianid": "czbiology02010305",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 65,
+    "name": "真菌有成形的细胞核",
+    "zhishidianid": "czbiology02010306",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 66,
+    "name": "有些微生物会使人患病",
+    "zhishidianid": "czbiology02010307",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 67,
+    "name": "有些微生物在食品生产、医药工业等方面得到广泛应用",
+    "zhishidianid": "czbiology02010308",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 68,
+    "name": "我国拥有大熊猫、朱鹮、江豚、银杉、珙桐等珍稀动植物资源",
+    "zhishidianid": "czbiology02010401",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 69,
+    "name": "可通过就地保护、迁地保护等多种方式保护生物资源",
+    "zhishidianid": "czbiology02010402",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 70,
+    "name": "有关野生动植物资源保护的法律法规是保护生物资源的基本遵循",
+    "zhishidianid": "czbiology02010403",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 71,
+    "name": "外来物种入侵会与本地的物种竞争空间、营养等资源，进而威胁生态安全",
+    "zhishidianid": "czbiology02010404",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 72,
+    "name": "水、温度、空气、光等是生物生存的环境条件",
+    "zhishidianid": "czbiology03010101",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 73,
+    "name": "生态因素能够影响生物的生活和分布",
+    "zhishidianid": "czbiology03010102",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 74,
+    "name": "生物能够适应和影响环境",
+    "zhishidianid": "czbiology03010103",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 75,
+    "name": "生态系统是由生产者、消费者、分解者与非生物环境构成的有机整体",
+    "zhishidianid": "czbiology03010104",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 76,
+    "name": "生态系统中不同生物之间通过捕食关系形成了食物链和食物网",
+    "zhishidianid": "czbiology03010105",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 77,
+    "name": "生态系统中的物质和能量通过食物链在生物之间传递",
+    "zhishidianid": "czbiology03010106",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 78,
+    "name": "生物圈是包含多种类型生态系统的最大生态系统",
+    "zhishidianid": "czbiology03010107",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 79,
+    "name": "生态系统具有一定的自我调节能力",
+    "zhishidianid": "czbiology03010201",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 80,
+    "name": "人类活动可能对生态环境产生影响",
+    "zhishidianid": "czbiology03010202",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 81,
+    "name": "可以通过防止环境污染、合理利用自然资源等措施保障生态安全",
+    "zhishidianid": "czbiology03010203",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 82,
+    "name": "种子包括种皮和胚等结构",
+    "zhishidianid": "czbiology04010101",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 83,
+    "name": "种子萌发需要完整、有活力的胚，需要充足的空气、适宜的温度、适量的水等环境条件",
+    "zhishidianid": "czbiology04010102",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 84,
+    "name": "根的生长主要包括根尖分生区细胞的分裂和伸长区细胞的生长",
+    "zhishidianid": "czbiology04010103",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 85,
+    "name": "叶芽通过细胞的分裂和分化发育成茎和叶",
+    "zhishidianid": "czbiology04010104",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 86,
+    "name": "花中最重要的结构是雄蕊和雌蕊",
+    "zhishidianid": "czbiology04010105",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 87,
+    "name": "雄蕊产生的精子与雌蕊产生的卵细胞相结合形成受精卵",
+    "zhishidianid": "czbiology04010106",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 88,
+    "name": "花经过传粉和受精后形成果实和种子",
+    "zhishidianid": "czbiology04010107",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 89,
+    "name": "植物可以通过扦插、嫁接、组织培养等无性生殖的方式繁殖后代",
+    "zhishidianid": "czbiology04010108",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 90,
+    "name": "植物根部吸收生活所需的水和无机盐，通过导管向上运输，供植物利用，其中大部分水通过蒸腾作用散失",
+    "zhishidianid": "czbiology04010201",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 91,
+    "name": "叶片产生的有机物通过筛管运输，供植物其他器官利用",
+    "zhishidianid": "czbiology04010202",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 92,
+    "name": "植物通过对水的吸收和散失参与生物圈中的水循环",
+    "zhishidianid": "czbiology04010203",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 93,
+    "name": "植物能利用太阳能（光能），将二氧化碳和水合成为贮存了能量的有机物，同时释放氧气",
+    "zhishidianid": "czbiology04010301",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 94,
+    "name": "细胞能通过分解糖类获得生命活动所需的能量，同时生成二氧化碳和水",
+    "zhishidianid": "czbiology04010302",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 95,
+    "name": "光合作用和呼吸作用原理在生产生活中有广泛的应用",
+    "zhishidianid": "czbiology04010303",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 96,
+    "name": "植物可以为生物圈中的其他生物提供有机物和氧气",
+    "zhishidianid": "czbiology04010304",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 97,
+    "name": "植物在维持生物圈中碳氧平衡方面具有重要作用",
+    "zhishidianid": "czbiology04010305",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 98,
+    "name": "水、无机盐、糖类、蛋白质、脂质和维生素是人体生命活动所需的主要营养物质",
+    "zhishidianid": "czbiology05010101",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 99,
+    "name": "消化系统由消化道和消化腺组成",
+    "zhishidianid": "czbiology05010102",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 100,
+    "name": "消化系统能够将食物消化，并通过吸收将营养物质转运到血液中",
+    "zhishidianid": "czbiology05010103",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 101,
+    "name": "不合理的饮食习惯和饮食结构可能导致营养不良或肥胖",
+    "zhishidianid": "czbiology05010104",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 102,
+    "name": "食品安全对人体健康至关重要",
+    "zhishidianid": "czbiology05010105",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 103,
+    "name": "良好的饮食、卫生等习惯对人体健康有积极的影响",
+    "zhishidianid": "czbiology05010106",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 104,
+    "name": "血液循环系统包括心脏、血管和血液",
+    "zhishidianid": "czbiology05010201",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 105,
+    "name": "血液循环包括体循环和肺循环",
+    "zhishidianid": "czbiology05010202",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 106,
+    "name": "血液循环的功能是运输氧气、二氧化碳、营养物质、代谢废物和激素等物质",
+    "zhishidianid": "czbiology05010203",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 107,
+    "name": "呼吸系统由呼吸道和肺构成",
+    "zhishidianid": "czbiology05010301",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 108,
+    "name": "呼吸系统的主要功能是从大气中摄取代谢所需要的氧气，排出代谢产生的二氧化碳",
+    "zhishidianid": "czbiology05010302",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 109,
+    "name": "呼吸运动可以实现肺与外界的气体交换",
+    "zhishidianid": "czbiology05010303",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 110,
+    "name": "肺泡与周围毛细血管内的血液、毛细血管内的血液与组织细胞进行气体交换",
+    "zhishidianid": "czbiology05010304",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 111,
+    "name": "泌尿系统包括肾脏、输尿管、膀胱和尿道等结构",
+    "zhishidianid": "czbiology05010401",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 112,
+    "name": "血液经过肾小球和肾小囊的滤过作用及肾小管的重吸收作用形成尿液",
+    "zhishidianid": "czbiology05010402",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 113,
+    "name": "人体可以通过汗腺排出部分尿素、无机盐和水等物质",
+    "zhishidianid": "czbiology05010403",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 114,
+    "name": "神经系统由脑、脊髓及与它们相连的神经构成",
+    "zhishidianid": "czbiology05010501",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 115,
+    "name": "反射是神经调节的基本方式",
+    "zhishidianid": "czbiology05010502",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 116,
+    "name": "反射弧是反射的结构基础",
+    "zhishidianid": "czbiology05010503",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 117,
+    "name": "人体的运动是在神经系统支配下，由肌肉牵拉着骨围绕关节进行的",
+    "zhishidianid": "czbiology05010504",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 118,
+    "name": "人体通过眼、耳等感觉器官获取外界信息",
+    "zhishidianid": "czbiology05010505",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 119,
+    "name": "科学用眼和用耳能够保护眼和耳的健康",
+    "zhishidianid": "czbiology05010506",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 120,
+    "name": "甲状腺激素、胰岛素等激素参与人体生命活动的调节",
+    "zhishidianid": "czbiology05010507",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 121,
+    "name": "性激素能促进生殖器官的发育，对第二性征的发育和维持具有重要作用",
+    "zhishidianid": "czbiology05010508",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 122,
+    "name": "人在青春期会出现一些显著的生理变化，如身高和体重迅速增加、出现第二性征、各项生理功能增强等",
+    "zhishidianid": "czbiology05010509",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 123,
+    "name": "青春期的卫生保健和良好的心理状态有利于青少年顺利地度过青春期",
+    "zhishidianid": "czbiology05010510",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 124,
+    "name": "人体能够通过特异性免疫和非特异性免疫抵抗病原微生物的侵染",
+    "zhishidianid": "czbiology05020101",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 125,
+    "name": "常见的寄生虫病（如血吸虫病、肠道蠕虫病等)、细菌性传染病（如淋病)、病毒性传染病（如严重急性呼吸综合征、新型冠状病毒肺炎、艾滋病、乙型肝炎、丙型肝炎等）是人体健康的威胁",
+    "zhishidianid": "czbiology05020102",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 126,
+    "name": "传染病可通过空气、食物、血液、接触等多种途径传播",
+    "zhishidianid": "czbiology05020103",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 127,
+    "name": "控制传染源、切断传播途径和保护易感人群等措施可以控制传染病的流行",
+    "zhishidianid": "czbiology05020104",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 128,
+    "name": "接种疫苗能够提高人体对特定传染病的免疫力",
+    "zhishidianid": "czbiology05020105",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 129,
+    "name": "某些传染病，如新型冠状病毒肺炎，会对社会、经济和科技发展产生严重影响",
+    "zhishidianid": "czbiology05020106",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 130,
+    "name": "心血管疾病、癌症等疾病严重危害人体健康",
+    "zhishidianid": "czbiology05020201",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 131,
+    "name": "酗酒、吸烟等不良嗜好和吸毒等违法行为对人体健康具有危害作用",
+    "zhishidianid": "czbiology05020202",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 132,
+    "name": "药物可分为处方药和非处方药",
+    "zhishidianid": "czbiology05020203",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 133,
+    "name": "遵从医瞩、按照药物使用说明合理用药，避免药物误用和滥用",
+    "zhishidianid": "czbiology05020204",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 134,
+    "name": "在特定的情况下，人工呼吸、心肺复苏、包扎止血等一些急救方法能减少伤害或挽救生命",
+    "zhishidianid": "czbiology05020205",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 135,
+    "name": "睾丸和卵巢可分别产生精子和卵细胞",
+    "zhishidianid": "czbiology06010101",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 136,
+    "name": "卵细胞受精后形成的受精卵能够发育成新个体",
+    "zhishidianid": "czbiology06010102",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 137,
+    "name": "生物可以通过有性生殖或无性生殖繁殖后代",
+    "zhishidianid": "czbiology06010103",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 138,
+    "name": "DNA是主要的遗传物质",
+    "zhishidianid": "czbiology06010201",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 139,
+    "name": "基因是包含遗传信息的DNA片段",
+    "zhishidianid": "czbiology06010202",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 140,
+    "name": "基因随配子由亲代传给子代",
+    "zhishidianid": "czbiology06010203",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 141,
+    "name": "基因位于染色体上",
+    "zhishidianid": "czbiology06010204",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 142,
+    "name": "人的性别是由性染色体的组成决定的",
+    "zhishidianid": "czbiology06010205",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 143,
+    "name": "生物的性状是由基因组成和环境共同决定的",
+    "zhishidianid": "czbiology06010206",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 144,
+    "name": "遗传信息发生改变可以引起生物变异",
+    "zhishidianid": "czbiology06010207",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 145,
+    "name": "杂交育种、转基因等技术促进了农业发展",
+    "zhishidianid": "czbiology06010208",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 146,
+    "name": "生命最有可能是在原始海洋中形成的",
+    "zhishidianid": "czbiology06020101",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 147,
+    "name": "化石记录是生物进化的直接证据",
+    "zhishidianid": "czbiology06020102",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 148,
+    "name": "遗传变异和环境因素的共同作用导致了生物的进化",
+    "zhishidianid": "czbiology06020201",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 149,
+    "name": "生物的进化总体上呈现出由简单到复杂、由水生到陆生的趋势",
+    "zhishidianid": "czbiology06020202",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 150,
+    "name": "人类和现代类人猿都是由古猿进化而来的",
+    "zhishidianid": "czbiology06020203",
+    "level": 4,
+    "shiyanmiaoshu": ""
+  },
+  {
+    "id": 151,
+    "name": "制作可调节的眼球成像模型",
+    "zhishidianid": "czbiology07010101",
+    "level": 4,
+    "shiyanmiaoshu": "根据眼球的结构和成像原理，运用相关学科的知识和方法，选择适当的材料和工艺，制作眼球结构模型和成像模型。模型可用于演示正常眼的成像，展现近视眼、远视眼的成因以及矫正方法。\n"
+  },
+  {
+    "id": 152,
+    "name": "提出保护眼健康的方法",
+    "zhishidianid": "czbiology07010102",
+    "level": 4,
+    "shiyanmiaoshu": "调查班级学生的近视率，撰写调查报告，结合眼球结构和成像原理提出保护眼健康的方法。"
+  },
+  {
+    "id": 153,
+    "name": "制作实验装置，模拟吸烟有害健康。",
+    "zhishidianid": "czbiology07010103",
+    "level": 4,
+    "shiyanmiaoshu": "运用多学科的知识和方法自制实验装置，模拟香烟烟雾对呼吸道黏膜的危害；形成吸烟有害健康的观念，自觉拒绝吸烟；学会用科学证据向公众宣讲吸烟有害健康。"
+  },
+  {
+    "id": 154,
+    "name": "设计并制作能较长时间维持平衡的生态瓶。",
+    "zhishidianid": "czbiology07010104",
+    "level": 4,
+    "shiyanmiaoshu": "根据水生生态系统的组成，以及“尺度、比例和数量”“稳定与变化”“系统与模型”等跨学科概念，利用生活中简单易得的透明材料制作装置，装入水、塘泥和不同的水生生物，制作能够维持较长时间的生态瓶。"
+  },
+  {
+    "id": 155,
+    "name": "探究栽培一种植物所需的物理和化学环境条件。",
+    "zhishidianid": "czbiology07010201",
+    "level": 4,
+    "shiyanmiaoshu": "根据植物生长发育所需的环境条件，选择适宜的土壤，在土壤中栽培一种植物（如番茄)，定期浇水，适时施肥、松土。观察植物在生长发育过程中的变化，设计表格，记录和交流株高、叶片数量、叶片大小、开花结果的时间和数量等信息。探究栽培一种植物所需的物理和化学环境条件。"
+  },
+  {
+    "id": 156,
+    "name": "探究植物无土栽培条件的控制。",
+    "zhishidianid": "czbiology07010202",
+    "level": 4,
+    "shiyanmiaoshu": "根据植物生长发育所需的环境条件，选择或设计恰当的装置，利用营养液无土栽培一种植物（如番茄），定期补水、更换营养液、通气。观察植物在生长发育过程中的变化，设计表格，记录和交流株高、叶片数量、叶片大小、开花结果的时间和数量等信息。探究植物无土栽培条件的控制。"
+  },
+  {
+    "id": 157,
+    "name": "探究影响扦插植物成活的生物和非生物因素。",
+    "zhishidianid": "czbiology07010203",
+    "level": 4,
+    "shiyanmiaoshu": "根据植物生长发育所需的条件，扦插繁殖、芽的结构与功能等相关概念，选择适于扦插的植物枝条（如月季）和扦插培养基，按照扦插的技术要领和操作规范进行扞插繁殖。定期观察、记录和交流扦插枝条的生长发育情况。探究影响扦插植物成活的生物和非生物因素。"
+  },
+  {
+    "id": 158,
+    "name": "饲养家蚕，收集我国养蚕的历史资料。",
+    "zhishidianid": "czbiology07010204",
+    "level": 4,
+    "shiyanmiaoshu": "根据家蚕的生活史、生活习性、食性、生活所需的环境条件（如温度、湿度）等，利用生活中简单易得的材料设计并制作恰当的装置，饲养家蚕。观察和记录家蚕的生长发育过程，收集我国养蚕的历史资料。"
+  },
+  {
+    "id": 159,
+    "name": "制作水族箱，饲养热带鱼。",
+    "zhishidianid": "czbiology07010205",
+    "level": 4,
+    "shiyanmiaoshu": "选择某种热带鱼，根据其生活史、生活习性、食性、生活所需的环境条件（如温度、溶解氧含量）等，利用生活中简单易得的材料设计并制作水族箱，饲养和繁殖热带鱼，观察并记录热带鱼的生长、发育和繁殖过程。"
+  },
+  {
+    "id": 160,
+    "name": "收集当地面包酵母菌种，比较发酵效果。",
+    "zhishidianid": "czbiology07010301",
+    "level": 4,
+    "shiyanmiaoshu": "依据酵母菌代谢所需的环境条件、营养来源、产物等相关知识，以面粉、酵母粉为材料，选择特定的厨具，按照发酵技术的操作程序制作馒头或面包。比较不同酵母菌种的发酵效果。"
+  },
+  {
+    "id": 161,
+    "name": "设计简单装置，制作酸奶。",
+    "zhishidianid": "czbiology07010302",
+    "level": 4,
+    "shiyanmiaoshu": "依据乳酸菌代谢所需的环境条件、营养来源、产物，以及蛋白质在不同酸度环境中的状态不同等相关概念，以牛奶、乳酸菌（或酸奶）为材料，选择恰当的容器，按照乳酸发酵技术的操作规范和程序制作酸奶，测定并分析酸奶的酸度和甜度，确定适宜的酸度和甜度范围。"
+  },
+  {
+    "id": 162,
+    "name": "制作泡菜，探究影响泡菜亚硝酸盐浓度的因素。",
+    "zhishidianid": "czbiology07010303",
+    "level": 4,
+    "shiyanmiaoshu": "依据乳酸菌的分布、代谢所需的环境条件、营养来源和产物等相关知识，选择或设计便于消毒和密封的恰当容器，依据个人对食品的喜好选择相应的蔬菜（如白萝卜、胡萝卜、芹菜、甘蓝）和配料（如辣椒、花椒)，按照发酵技术的操作规范和程序制作泡菜，测定泡菜的亚硝酸盐浓度，分析亚硝酸盐浓度与原料、腌制方式、时间等因素的关系。"
+  }
+]

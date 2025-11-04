@@ -1,0 +1,1562 @@
+[
+    {
+      "id": 0,
+      "name": "初中物理",
+      "xueduanID": "czphysics",
+      "level": 0,
+      "relatedID": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": 1,
+      "name": "物质",
+      "zhishidianid": "czphysics01",
+      "level": 1,
+      "relatedID": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 2,
+      "name": "运动和相互作用",
+      "zhishidianid": "czphysics02",
+      "level": 1,
+      "relatedID": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": 3,
+      "name": "能量",
+      "zhishidianid": "czphysics03",
+      "level": 1,
+      "relatedID": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "id": 4,
+      "name": "实验探究",
+      "zhishidianid": "czphysics04",
+      "level": 1,
+      "relatedID": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": 5,
+      "name": "跨学科实践",
+      "zhishidianid": "czphysics05",
+      "level": 1,
+      "relatedID": [
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "id": 6,
+      "name": "物质的形态和变化",
+      "zhishidianid": "czphysics0101",
+      "level": 2,
+      "relatedID": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "id": 7,
+      "name": "物质的属性",
+      "zhishidianid": "czphysics0102",
+      "level": 2,
+      "relatedID": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "id": 8,
+      "name": "物质的结构和物质世界的尺度",
+      "zhishidianid": "czphysics0103",
+      "level": 2,
+      "relatedID": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "id": 9,
+      "name": "多种多样的运动形式",
+      "zhishidianid": "czphysics0201",
+      "level": 2,
+      "relatedID": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ]
+    },
+    {
+      "id": 10,
+      "name": "机械运动和力",
+      "zhishidianid": "czphysics0202",
+      "level": 2,
+      "relatedID": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86
+      ]
+    },
+    {
+      "id": 11,
+      "name": "声和光",
+      "zhishidianid": "czphysics0203",
+      "level": 2,
+      "relatedID": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98
+      ]
+    },
+    {
+      "id": 12,
+      "name": "电和磁",
+      "zhishidianid": "czphysics0204",
+      "level": 2,
+      "relatedID": [
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113
+      ]
+    },
+    {
+      "id": 13,
+      "name": "能量、能量的转化和转移",
+      "zhishidianid": "czphysics0301",
+      "level": 2,
+      "relatedID": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ]
+    },
+    {
+      "id": 14,
+      "name": "机械能",
+      "zhishidianid": "czphysics0302",
+      "level": 2,
+      "relatedID": [
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128
+      ]
+    },
+    {
+      "id": 15,
+      "name": "内能",
+      "zhishidianid": "czphysics0303",
+      "level": 2,
+      "relatedID": [
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ]
+    },
+    {
+      "id": 16,
+      "name": "电磁能",
+      "zhishidianid": "czphysics0304",
+      "level": 2,
+      "relatedID": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149
+      ]
+    },
+    {
+      "id": 17,
+      "name": "能量守恒",
+      "zhishidianid": "czphysics0305",
+      "level": 2,
+      "relatedID": [
+        150,
+        151,
+        152,
+        153,
+        154
+      ]
+    },
+    {
+      "id": 18,
+      "name": "能源与可持续发展",
+      "zhishidianid": "czphysics0306",
+      "level": 2,
+      "relatedID": [
+        155,
+        156,
+        157
+      ]
+    },
+    {
+      "id": 19,
+      "name": "测量类学生必做实验",
+      "zhishidianid": "czphysics0401",
+      "level": 2,
+      "relatedID": [
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166
+      ]
+    },
+    {
+      "id": 20,
+      "name": "探究类学生必做实验",
+      "zhishidianid": "czphysics0402",
+      "level": 2,
+      "relatedID": [
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        137
+      ]
+    },
+    {
+      "id": 21,
+      "name": "物理学与日常生活",
+      "zhishidianid": "czphysics0501",
+      "level": 2,
+      "relatedID": [
+        178,
+        179,
+        180,
+        181,
+        182
+      ]
+    },
+    {
+      "id": 22,
+      "name": "物理学与工程实践",
+      "zhishidianid": "czphysics0502",
+      "level": 2,
+      "relatedID": [
+        183,
+        184,
+        185,
+        186
+      ]
+    },
+    {
+      "id": 23,
+      "name": "物理学与社会发展",
+      "zhishidianid": "czphysics0503",
+      "level": 2,
+      "relatedID": [
+        187,
+        188,
+        189,
+        190,
+        191
+      ]
+    },
+    {
+      "id": 24,
+      "name": "能描述固态、液态和气态三种物态的基本特征",
+      "zhishidianid": "czphysics010101",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 25,
+      "name": "列举自然界和日常生活中不同物态的物质及其应用",
+      "zhishidianid": "czphysics010102",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 26,
+      "name": "了解液体温度计的工作原理",
+      "zhishidianid": "czphysics010103",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 27,
+      "name": "会用常见温度计测量温度",
+      "zhishidianid": "czphysics010104",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 28,
+      "name": "能说出生活环境中常见的温度值",
+      "zhishidianid": "czphysics010105",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 29,
+      "name": "尝试对环境温度问题发表自己的见解",
+      "zhishidianid": "czphysics010106",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 30,
+      "name": "经历物态变化的实验探究过程",
+      "zhishidianid": "czphysics010107",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 31,
+      "name": "知道物质的熔点、凝固 点和沸点",
+      "zhishidianid": "czphysics010108",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 32,
+      "name": "了解物态变化过程中的吸热和放热现象",
+      "zhishidianid": "czphysics010109",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 33,
+      "name": "能运用物态变化知识说明自然界和生活中的有关现象",
+      "zhishidianid": "czphysics010110",
+      "level": 3,
+      "litishuliang": "2"
+    },
+    {
+      "id": 34,
+      "name": "能运用物态变化知识，说明自然界中的水循环现象 ",
+      "zhishidianid": "czphysics010111",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 35,
+      "name": "了解我国和当地的水资源状况",
+      "zhishidianid": "czphysics010112",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 36,
+      "name": "有节约用水和保护环境的意识",
+      "zhishidianid": "czphysics010113",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 37,
+      "name": "通过实验，了解物质的一些物理属性，如弹性、磁性、 导电性和导热性等",
+      "zhishidianid": "czphysics010201",
+      "level": 3,
+      "litishuliang": "4"
+    },
+    {
+      "id": 38,
+      "name": "能用语言、文字或图表描述物质的物理属性",
+      "zhishidianid": "czphysics010202",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 39,
+      "name": "知道质量的含义",
+      "zhishidianid": "czphysics010203",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 40,
+      "name": "会测量固体和液体的质量",
+      "zhishidianid": "czphysics010204",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 41,
+      "name": "通过实验，理解密度",
+      "zhishidianid": "czphysics010205",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 42,
+      "name": "会测量固体和液体的密度",
+      "zhishidianid": "czphysics010206",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 43,
+      "name": "能解释生活中与密度有关的一些物理现象",
+      "zhishidianid": "czphysics010207",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 44,
+      "name": "了解关于物质属性的研究对生产生活和科技进步的影响",
+      "zhishidianid": "czphysics010208",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 45,
+      "name": "知道常见的物质是由分子、原子构成的",
+      "zhishidianid": "czphysics010301",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 46,
+      "name": "知道原子是由原子核和电子构成的",
+      "zhishidianid": "czphysics010302",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 47,
+      "name": "了解原子的核式结构模型",
+      "zhishidianid": "czphysics010303",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 48,
+      "name": "了解人类探索微观世界的大致历程",
+      "zhishidianid": "czphysics010304",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 49,
+      "name": "关注人类探索微观世界的新进展",
+      "zhishidianid": "czphysics010305",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 50,
+      "name": "了解人类探索太阳系及宇宙的大致历程",
+      "zhishidianid": "czphysics010306",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 51,
+      "name": "知道人类对宇宙的探索将不断深入",
+      "zhishidianid": "czphysics010307",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 52,
+      "name": "关注人类探索宇宙的一些重大活动",
+      "zhishidianid": "czphysics010308",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 53,
+      "name": "了解物质世界的大致尺度",
+      "zhishidianid": "czphysics010309",
+      "level": 3,
+      "litishuliang": "2"
+    },
+    {
+      "id": 54,
+      "name": "知道机械运动",
+      "zhishidianid": "czphysics020101",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 55,
+      "name": "举例说明机械运动的相对性",
+      "zhishidianid": "czphysics020102",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 56,
+      "name": "知道自然界和生活中简单的热现象",
+      "zhishidianid": "czphysics020103",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 57,
+      "name": "了解分子热运动的主要特点",
+      "zhishidianid": "czphysics020104",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 58,
+      "name": "知道分子动理论的基本观点",
+      "zhishidianid": "czphysics020105",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 59,
+      "name": "举例说明自然界存在多种多样的运动形式",
+      "zhishidianid": "czphysics020106",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 60,
+      "name": "知道物质在不停地运动",
+      "zhishidianid": "czphysics020107",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 61,
+      "name": "会选用适当的工具测量长度和时间",
+      "zhishidianid": "czphysics020201",
+      "level": 3,
+      "litishuliang": "2"
+    },
+    {
+      "id": 62,
+      "name": "会根据生活经验估测长度和时间",
+      "zhishidianid": "czphysics020202",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 63,
+      "name": "能用速度描述物体运动的快慢",
+      "zhishidianid": "czphysics020203",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 64,
+      "name": "能进行速度的简单计算",
+      "zhishidianid": "czphysics020204",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 65,
+      "name": "会测量物体运动的速度",
+      "zhishidianid": "czphysics020205",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 66,
+      "name": "通过常见事例或实验，了解重力、弹力和摩擦力",
+      "zhishidianid": "czphysics020206",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 67,
+      "name": "认识力的作用效果",
+      "zhishidianid": "czphysics020207",
+      "level": 3,
+      "litishuliang": "2"
+    },
+    {
+      "id": 68,
+      "name": "探究并了解滑动摩擦力的大小与哪些因素有关",
+      "zhishidianid": "czphysics020208",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 69,
+      "name": "能用示意图描述力",
+      "zhishidianid": "czphysics020209",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 70,
+      "name": "会测量力的大小",
+      "zhishidianid": "czphysics020210",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 71,
+      "name": "了解同一直线上的二力合成",
+      "zhishidianid": "czphysics020211",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 72,
+      "name": "知道二力平衡条件",
+      "zhishidianid": "czphysics020212",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 73,
+      "name": "通过实验和科学推理，认识牛顿第一定律",
+      "zhishidianid": "czphysics020213",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 74,
+      "name": "能运用物体的惯性解释自然界和生活中的有关现象",
+      "zhishidianid": "czphysics020214",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 75,
+      "name": "知道简单机械",
+      "zhishidianid": "czphysics020215",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 76,
+      "name": "探究并了解杠杆的平衡条件",
+      "zhishidianid": "czphysics020216",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 77,
+      "name": "通过实验，理解压强",
+      "zhishidianid": "czphysics020217",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 78,
+      "name": "知道增大和减小压强的方法",
+      "zhishidianid": "czphysics020218",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 79,
+      "name": "了解压强在生产生活中的应用",
+      "zhishidianid": "czphysics020219",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 80,
+      "name": "探究并了解液体压强与哪些因素有关",
+      "zhishidianid": "czphysics020220",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 81,
+      "name": "知道大气压强及其与人类生活的关系",
+      "zhishidianid": "czphysics020221",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 82,
+      "name": "了解流体压强与流速的关系及其在生产生活中的应用",
+      "zhishidianid": "czphysics020222",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 83,
+      "name": "通过实验，认识浮力",
+      "zhishidianid": "czphysics020223",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 84,
+      "name": "探究并了解浮力大小与哪些因素有关",
+      "zhishidianid": "czphysics020224",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 85,
+      "name": "知道阿基米德原理",
+      "zhishidianid": "czphysics020225",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 86,
+      "name": "能运用物体的浮沉条件说明生产生活中的 有关现象",
+      "zhishidianid": "czphysics020226",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 87,
+      "name": "通过实验，认识声的产生和传播条件。",
+      "zhishidianid": "czphysics020301",
+      "level": 3,
+      "litishuliang": "2"
+    },
+    {
+      "id": 88,
+      "name": "了解声音的特性",
+      "zhishidianid": "czphysics020302",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 89,
+      "name": "了解现代技术中声学知识的一些应用",
+      "zhishidianid": "czphysics020303",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 90,
+      "name": "了知道噪声的危害及控制方法",
+      "zhishidianid": "czphysics020304",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 91,
+      "name": "探究并了解光的反射定律",
+      "zhishidianid": "czphysics020305",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 92,
+      "name": "通过实验，了解光的折射现象及其特点",
+      "zhishidianid": "czphysics020306",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 93,
+      "name": "探究并了解平面镜成像时像与物的关系",
+      "zhishidianid": "czphysics020307",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 94,
+      "name": "知道平面镜成像的特点及应用",
+      "zhishidianid": "czphysics020308",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 95,
+      "name": "了解凸透镜对光的会聚作用和凹透镜对光的发散作用",
+      "zhishidianid": "czphysics020309",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 96,
+      "name": " 探究并了解凸透镜成像的规律",
+      "zhishidianid": "czphysics020310",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 97,
+      "name": "了解凸透镜成像规律的应用",
+      "zhishidianid": "czphysics020311",
+      "level": 3,
+      "litishuliang": "2"
+    },
+    {
+      "id": 98,
+      "name": "通过实验，了解白光的组成和不同色光混合的现象",
+      "zhishidianid": "czphysics020312",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 99,
+      "name": "观察摩擦起电现象，了解静电现象",
+      "zhishidianid": "czphysics020401",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 100,
+      "name": "了解生产生活中关于静电防止和利用的技术",
+      "zhishidianid": "czphysics020402",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 101,
+      "name": "通过实验，认识磁场",
+      "zhishidianid": "czphysics020403",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 102,
+      "name": "知道地磁场",
+      "zhishidianid": "czphysics020404",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 103,
+      "name": "通过实验，了解电流周围存在磁场",
+      "zhishidianid": "czphysics020405",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 104,
+      "name": "探究并了解通电螺 线管外部磁场的方向",
+      "zhishidianid": "czphysics020406",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 105,
+      "name": "了解电磁铁在生产生活中的应用",
+      "zhishidianid": "czphysics020407",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 106,
+      "name": "通过实验，了解通电导线在磁场中会受到力的作用",
+      "zhishidianid": "czphysics020408",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 107,
+      "name": "知道通电导线在磁场中受到的力的方向与哪些因素有关",
+      "zhishidianid": "czphysics020409",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 108,
+      "name": "探究并了解导体在磁场中运动时产生感应电流的条件",
+      "zhishidianid": "czphysics020410",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 109,
+      "name": "了解电磁感应在生产生活中的应用",
+      "zhishidianid": "czphysics020411",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 110,
+      "name": "知道电磁波",
+      "zhishidianid": "czphysics020412",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 111,
+      "name": "知道电磁波在真空中的传播速度",
+      "zhishidianid": "czphysics020413",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 112,
+      "name": "知道波长、频率和波速",
+      "zhishidianid": "czphysics020414",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 113,
+      "name": "了解电磁波的应用及其对人类生活和社会发展的 影响",
+      "zhishidianid": "czphysics020415",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 114,
+      "name": "了解能量及其存在的不同形式",
+      "zhishidianid": "czphysics030101",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 115,
+      "name": "能描述不同形式的能量 和生产生活的联系",
+      "zhishidianid": "czphysics030102",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 116,
+      "name": "通过实验，认识能量可以从一个物体转移到其他物体",
+      "zhishidianid": "czphysics030103",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 117,
+      "name": "认识不同形式的能量可以相互转化",
+      "zhishidianid": "czphysics030104",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 118,
+      "name": "结合实例，认识功的概念",
+      "zhishidianid": "czphysics030105",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 119,
+      "name": "知道做功的过程就是能量转 化或转移的过程。",
+      "zhishidianid": "czphysics030106",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 120,
+      "name": "知道动能、势能和机械能",
+      "zhishidianid": "czphysics030201",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 121,
+      "name": "通过实验，了解动能和势能 的相互转化",
+      "zhishidianid": "czphysics030202",
+      "level": 3,
+      "litishuliang": "2"
+    },
+    {
+      "id": 122,
+      "name": "举例说明机械能和其他形式能量的相互转化",
+      "zhishidianid": "czphysics030203",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 123,
+      "name": "知道机械功和功率",
+      "zhishidianid": "czphysics030204",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 124,
+      "name": "用生活中的实例说明机械功和功率的含义",
+      "zhishidianid": "czphysics030205",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 125,
+      "name": "知道机械效率",
+      "zhishidianid": "czphysics030206",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 126,
+      "name": "了解提高机械效率的意义和途径",
+      "zhishidianid": "czphysics030207",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 127,
+      "name": "能说出人类使用的一些机械",
+      "zhishidianid": "czphysics030208",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 128,
+      "name": "了解机械的使用对社会发 展的作用",
+      "zhishidianid": "czphysics030209",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 129,
+      "name": "了解内能和热量",
+      "zhishidianid": "czphysics030301",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 130,
+      "name": "从能量转化的角度认识燃料的热值",
+      "zhishidianid": "czphysics030302",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 131,
+      "name": "通过实验，了解比热容",
+      "zhishidianid": "czphysics030303",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 132,
+      "name": "能运用比热容说明简单的自然现象",
+      "zhishidianid": "czphysics030304",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 133,
+      "name": "了解热机的工作原理",
+      "zhishidianid": "czphysics030305",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 134,
+      "name": "知道内能的利用在人类社会发展 史中的重要意义",
+      "zhishidianid": "czphysics030306",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 135,
+      "name": "从能量转化的角度认识电源和用电器的作用。",
+      "zhishidianid": "czphysics030401",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 136,
+      "name": "知道电压、电流和电阻",
+      "zhishidianid": "czphysics030402",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 137,
+      "name": "探究电流与电压、电阻的关系",
+      "zhishidianid": "czphysics030403",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 138,
+      "name": "理解欧姆定律",
+      "zhishidianid": "czphysics030404",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 139,
+      "name": "会使用电流表和电压表。",
+      "zhishidianid": "czphysics030405",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 140,
+      "name": "会看、会画简单的电路图",
+      "zhishidianid": "czphysics030406",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 141,
+      "name": "会连接简单的串联电路和并联电路",
+      "zhishidianid": "czphysics030407",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 142,
+      "name": "能说出生产生活中采用简单串联电路或并联电路的实例",
+      "zhishidianid": "czphysics030408",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 143,
+      "name": "探究并了解串联电路和并联电路中电流、电压的特点",
+      "zhishidianid": "czphysics030409",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 144,
+      "name": "结合实例，了解电功和电功率",
+      "zhishidianid": "czphysics030410",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 145,
+      "name": "知道用电器的额定功率和实际功率",
+      "zhishidianid": "czphysics030411",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 146,
+      "name": "通过实验，了解焦耳定律",
+      "zhishidianid": "czphysics030412",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 147,
+      "name": "能用焦耳定律说明生产生活 中的有关现象",
+      "zhishidianid": "czphysics030413",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 148,
+      "name": "了解家庭电路的组成",
+      "zhishidianid": "czphysics030414",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 149,
+      "name": "有安全用电和节约用电的意识",
+      "zhishidianid": "czphysics030415",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 150,
+      "name": "知道能量守恒定律",
+      "zhishidianid": "czphysics030501",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 151,
+      "name": "列举日常生活中能量守恒的实例",
+      "zhishidianid": "czphysics030502",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 152,
+      "name": "有用能量转化与守恒的观点分析问题的意识",
+      "zhishidianid": "czphysics030503",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 153,
+      "name": "从能量转化和转移的角度认识效率",
+      "zhishidianid": "czphysics030504",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 154,
+      "name": "列举能量转化和转移具有方向性的常见实例",
+      "zhishidianid": "czphysics030505",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 155,
+      "name": "列举常见的不可再生能源和可再生能源",
+      "zhishidianid": "czphysics030601",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 156,
+      "name": "知道核能的特点和核能利用可能带来的问题",
+      "zhishidianid": "czphysics030602",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 157,
+      "name": "从能源开发与利用的角度体会可持续发展的重要性",
+      "zhishidianid": "czphysics030603",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 158,
+      "name": "用托盘天平测量物体的质量",
+      "zhishidianid": "czphysics040101",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 159,
+      "name": "测量固体和液体的密度",
+      "zhishidianid": "czphysics040102",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 160,
+      "name": "用常见温度计测量温度",
+      "zhishidianid": "czphysics040103",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 161,
+      "name": "用刻度尺测量长度，用表测量时间",
+      "zhishidianid": "czphysics040104",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 162,
+      "name": "测量物体运动的速度",
+      "zhishidianid": "czphysics040105",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 163,
+      "name": "用弹簧测力计测量力",
+      "zhishidianid": "czphysics040106",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 164,
+      "name": "用电流表测量电流",
+      "zhishidianid": "czphysics040107",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 165,
+      "name": "用电压表测量电压",
+      "zhishidianid": "czphysics040108",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 166,
+      "name": "用电流表和电压表测量电阻",
+      "zhishidianid": "czphysics040109",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 167,
+      "name": "探究水在沸腾前后温度变化的特点",
+      "zhishidianid": "czphysics040201",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 168,
+      "name": "探究滑动摩擦力大小与哪些因素有关",
+      "zhishidianid": "czphysics040202",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 169,
+      "name": "探究液体压强与哪些因素有关",
+      "zhishidianid": "czphysics040203",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 170,
+      "name": "探究浮力大小与哪些因素有关",
+      "zhishidianid": "czphysics040204",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 171,
+      "name": "探究杠杆的平衡条件",
+      "zhishidianid": "czphysics040205",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 172,
+      "name": "探究光的反射定律",
+      "zhishidianid": "czphysics040206",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 173,
+      "name": "探究平面镜成像的特点",
+      "zhishidianid": "czphysics040207",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 174,
+      "name": "探究凸透镜成像的规律",
+      "zhishidianid": "czphysics040208",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 175,
+      "name": "探究通电螺线管外部磁场的方向",
+      "zhishidianid": "czphysics040209",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 176,
+      "name": "探究导体在磁场中运动时产生感应电流的条件",
+      "zhishidianid": "czphysics040210",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 177,
+      "name": "探究串联电路和并联电路中电流、电压的特点",
+      "zhishidianid": "czphysics040211",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 178,
+      "name": "能发现日常生活中与物理学有关的问题，提出解决方案",
+      "zhishidianid": "czphysics050101",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 179,
+      "name": "能运用所学知识分析日常生活中的安全问题，提出解决 方案",
+      "zhishidianid": "czphysics050102",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 180,
+      "name": "践行安全与健康生活",
+      "zhishidianid": "czphysics050103",
+      "level": 3,
+      "litishuliang": "0"
+    },
+    {
+      "id": 181,
+      "name": "能运用所学知识指导和规范个人行为，践行低碳生活",
+      "zhishidianid": "czphysics050104",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 182,
+      "name": "具有节能环保意识",
+      "zhishidianid": "czphysics050105",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 183,
+      "name": "了解我国古代的技术应用案例",
+      "zhishidianid": "czphysics050201",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 184,
+      "name": "体会我国古代科技对人类文明发展的促进作用",
+      "zhishidianid": "czphysics050202",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 185,
+      "name": "调查物理学应用于工程技术的案例，体会物理学对工程 技术发展的促进作用",
+      "zhishidianid": "czphysics050203",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 186,
+      "name": "了解物理学在信息技术中的应用",
+      "zhishidianid": "czphysics050204",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 187,
+      "name": "结合实例，尝试分析能源的开发与利用对社会发展的 影响",
+      "zhishidianid": "czphysics050301",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 188,
+      "name": "结合实例，理解一些新材料的特点及其应用",
+      "zhishidianid": "czphysics050302",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 189,
+      "name": "了解新才来哦的研发与应用对社会发展的影响",
+      "zhishidianid": "czphysics050303",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 190,
+      "name": "了解我国科技发展的成就",
+      "zhishidianid": "czphysics050304",
+      "level": 3,
+      "litishuliang": "1"
+    },
+    {
+      "id": 191,
+      "name": "增强科技强国的责任感和使命感",
+      "zhishidianid": "czphysics050305",
+      "level": 3,
+      "litishuliang": "1"
+    }
+]
